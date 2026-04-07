@@ -1,0 +1,50 @@
+CREATE OR REPLACE TABLE `project-cf626adc-1290-4ce9-aae.Leading_Club.segment_loss_concentration` AS
+WITH segment_summary AS (
+    SELECT
+        grade,
+        term_months,
+        purpose,
+
+        COUNT(*) AS loan_cnt,
+        SUM(loan_amnt) AS funded_amt,
+        SUM(default_flag) AS default_cnt,
+        SAFE_DIVIDE(SUM(default_flag), COUNT(*)) AS default_rate,
+
+        AVG(int_rate) AS avg_int_rate,
+        SUM(defaulted_funded_amt) AS defaulted_funded_amt
+
+    FROM `project-cf626adc-1290-4ce9-aae.Leading_Clubet.loan_risk_feature_base`
+    GROUP BY grade, term_months, purpose
+    HAVING COUNT(*) >= 100
+)
+
+SELECT
+    grade,
+    term_months,
+    purpose,
+
+    loan_cnt,
+    funded_amt,
+    default_cnt,
+    ROUND(default_rate * 100, 2) AS default_rate_pct,
+    ROUND(avg_int_rate, 2) AS avg_int_rate_pct,
+    defaulted_funded_amt,
+
+    ROUND(
+        SAFE_DIVIDE(funded_amt, SUM(funded_amt) OVER ()) * 100, 2
+    ) AS portfolio_share_pct,
+
+    ROUND(
+        SAFE_DIVIDE(defaulted_funded_amt, SUM(defaulted_funded_amt) OVER ()) * 100, 2
+    ) AS loss_share_pct,
+
+    ROUND(
+        (
+            SAFE_DIVIDE(defaulted_funded_amt, SUM(defaulted_funded_amt) OVER ())
+            - SAFE_DIVIDE(funded_amt, SUM(funded_amt) OVER ())
+        ) * 100,
+        2
+    ) AS loss_minus_portfolio_share_pct
+
+FROM segment_summary
+ORDER BY defaulted_funded_amt DESC, loss_minus_portfolio_share_pct DESC;
