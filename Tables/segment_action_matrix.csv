@@ -1,0 +1,143 @@
+grade,term_months,purpose,loan_count,funded_amount,default_rate_pct,avg_interest_rate_pct,defaulted_funded_amount,portfolio_share_pct,loss_share_pct,excess_loss_share_pct,action_flag
+E,60,debt_consolidation,40424,848629325.0,42.4,21.07,353815175.0,4.38,8.47,4.09,Deprioritize / Tighten
+D,60,debt_consolidation,51093,1034957775.0,36.33,17.8,368105175.0,5.34,8.81,3.47,Deprioritize / Tighten
+F,60,debt_consolidation,17048,368141050.0,48.65,24.92,176929150.0,1.9,4.23,2.34,Deprioritize / Tighten
+C,60,debt_consolidation,67062,1337311225.0,27.32,14.31,358619350.0,6.9,8.58,1.69,Deprioritize / Tighten
+D,36,debt_consolidation,74822,1007831775.0,27.67,17.63,286203600.0,5.2,6.85,1.65,Deprioritize / Tighten
+E,36,debt_consolidation,20234,279214350.0,34.08,21.17,98074075.0,1.44,2.35,0.91,Deprioritize / Tighten
+D,60,credit_card,13053,267885200.0,36.9,17.71,95647275.0,1.38,2.29,0.91,Deprioritize / Tighten
+G,60,debt_consolidation,4933,109043525.0,51.69,27.74,55582725.0,0.56,1.33,0.77,Deprioritize / Tighten
+E,60,credit_card,7443,158592500.0,42.35,21.06,65871800.0,0.82,1.58,0.76,Deprioritize / Tighten
+C,60,credit_card,24086,480147100.0,28.2,14.17,132151725.0,2.48,3.16,0.69,Deprioritize / Tighten
+D,36,credit_card,15847,209317025.0,26.87,17.68,57865450.0,1.08,1.39,0.31,Deprioritize / Tighten
+F,60,credit_card,2383,52929225.0,45.07,25.06,23842750.0,0.27,0.57,0.3,Deprioritize / Tighten
+E,60,home_improvement,3525,76195700.0,37.7,21.16,28480400.0,0.39,0.68,0.29,Deprioritize / Tighten
+F,36,debt_consolidation,3590,45982200.0,41.48,25.1,20184850.0,0.24,0.48,0.25,Deprioritize / Tighten
+E,60,other,2663,47583425.0,43.11,21.29,20467925.0,0.25,0.49,0.24,Deprioritize / Tighten
+D,60,home_improvement,4447,90314825.0,31.55,17.78,28475850.0,0.47,0.68,0.22,Deprioritize / Tighten
+F,60,other,1780,31582050.0,44.27,24.9,14572300.0,0.16,0.35,0.19,Deprioritize / Tighten
+F,60,home_improvement,1518,34962650.0,41.7,24.84,14880825.0,0.18,0.36,0.18,Deprioritize / Tighten
+D,36,other,13489,110782800.0,24.41,17.86,30440900.0,0.57,0.73,0.16,Deprioritize / Tighten
+D,60,other,2621,45080875.0,36.59,17.99,16537025.0,0.23,0.4,0.16,Deprioritize / Tighten
+C,60,home_improvement,6937,138106450.0,25.28,14.25,35307000.0,0.71,0.85,0.13,Deprioritize / Tighten
+E,36,credit_card,3155,42075500.0,33.63,21.31,14530225.0,0.22,0.35,0.13,Deprioritize / Tighten
+D,36,home_improvement,7245,94778925.0,24.68,17.7,25331400.0,0.49,0.61,0.12,Deprioritize / Tighten
+E,60,major_purchase,991,20419300.0,44.3,21.26,9267325.0,0.11,0.22,0.12,Deprioritize / Tighten
+E,36,other,4945,42031125.0,29.28,21.46,13570425.0,0.22,0.32,0.11,Deprioritize / Tighten
+D,36,small_business,2888,41579075.0,30.02,17.68,13451025.0,0.21,0.32,0.11,Deprioritize / Tighten
+D,60,major_purchase,1210,23277325.0,40.17,17.94,9567450.0,0.12,0.23,0.11,Deprioritize / Tighten
+E,60,small_business,908,19306125.0,46.15,20.88,8871650.0,0.1,0.21,0.11,Deprioritize / Tighten
+C,60,other,2872,49774625.0,29.39,14.25,15034500.0,0.26,0.36,0.1,Deprioritize / Tighten
+G,60,other,738,14050225.0,49.86,27.29,7084425.0,0.07,0.17,0.1,Deprioritize / Tighten
+C,60,major_purchase,1743,33605825.0,30.24,14.2,10912000.0,0.17,0.26,0.09,Deprioritize / Tighten
+F,60,small_business,620,13430525.0,47.58,24.17,6491975.0,0.07,0.16,0.09,Deprioritize / Tighten
+E,36,home_improvement,2118,28843150.0,29.23,21.19,9642075.0,0.15,0.23,0.08,Deprioritize / Tighten
+E,36,small_business,1429,20027200.0,35.9,20.84,7519275.0,0.1,0.18,0.08,Deprioritize / Tighten
+D,60,small_business,688,13455275.0,44.62,17.82,6125900.0,0.07,0.15,0.08,Deprioritize / Tighten
+G,36,debt_consolidation,740,11574575.0,49.73,28.65,5730725.0,0.06,0.14,0.08,Deprioritize / Tighten
+G,60,credit_card,533,11970325.0,47.84,27.88,5594775.0,0.06,0.13,0.07,Deprioritize / Tighten
+F,60,major_purchase,476,10682125.0,48.11,25.12,5384475.0,0.06,0.13,0.07,Deprioritize / Tighten
+D,36,major_purchase,2801,30652425.0,25.96,17.7,9211250.0,0.16,0.22,0.06,Deprioritize / Tighten
+G,60,home_improvement,479,11042200.0,42.59,27.43,4723725.0,0.06,0.11,0.06,Deprioritize / Tighten
+G,60,small_business,352,7954425.0,52.84,26.63,4261050.0,0.04,0.1,0.06,Deprioritize / Tighten
+C,60,small_business,622,13255325.0,37.78,14.31,5132325.0,0.07,0.12,0.05,Deprioritize / Tighten
+C,36,small_business,3298,44746375.0,24.23,14.1,11471825.0,0.23,0.27,0.04,Deprioritize / Tighten
+D,36,medical,2425,17623275.0,27.46,17.81,5391700.0,0.09,0.13,0.04,Deprioritize / Tighten
+F,36,other,1216,9971025.0,33.8,25.28,3858425.0,0.05,0.09,0.04,Deprioritize / Tighten
+E,36,major_purchase,799,9203675.0,32.92,21.41,3839200.0,0.05,0.09,0.04,Deprioritize / Tighten
+D,60,medical,513,8737050.0,38.79,17.94,3410175.0,0.05,0.08,0.04,Deprioritize / Tighten
+D,36,moving,2020,12645950.0,26.68,17.77,3994700.0,0.07,0.1,0.03,Deprioritize / Tighten
+E,60,medical,482,8400950.0,37.34,21.17,3196425.0,0.04,0.08,0.03,Deprioritize / Tighten
+F,36,small_business,489,6628400.0,38.85,24.42,2775025.0,0.03,0.07,0.03,Deprioritize / Tighten
+D,60,house,355,7407800.0,35.77,18.29,2672000.0,0.04,0.06,0.03,Deprioritize / Tighten
+E,60,moving,254,4135075.0,46.06,20.86,1949050.0,0.02,0.05,0.03,Deprioritize / Tighten
+C,36,medical,4226,30294050.0,22.1,13.9,7441125.0,0.16,0.18,0.02,Deprioritize / Tighten
+D,36,house,1022,13265775.0,26.32,17.86,3657375.0,0.07,0.09,0.02,Deprioritize / Tighten
+C,60,medical,631,10897350.0,29.48,14.15,3313125.0,0.06,0.08,0.02,Deprioritize / Tighten
+E,60,house,394,8178325.0,35.28,21.5,2745875.0,0.04,0.07,0.02,Deprioritize / Tighten
+D,36,vacation,1606,8724375.0,22.85,17.76,2563075.0,0.04,0.06,0.02,Deprioritize / Tighten
+B,60,small_business,359,7900275.0,29.25,11.12,2338375.0,0.04,0.06,0.02,Tighten or Reprice
+D,60,car,457,6778425.0,29.98,17.67,2207900.0,0.03,0.05,0.02,Deprioritize / Tighten
+F,36,credit_card,431,5409000.0,36.66,24.94,2007550.0,0.03,0.05,0.02,Deprioritize / Tighten
+E,36,medical,842,6075850.0,30.4,21.42,1994650.0,0.03,0.05,0.02,Deprioritize / Tighten
+F,60,medical,255,4505100.0,43.14,24.93,1974400.0,0.02,0.05,0.02,Deprioritize / Tighten
+F,60,house,255,5237275.0,40.39,24.82,1940625.0,0.03,0.05,0.02,Deprioritize / Tighten
+E,60,car,302,4987475.0,35.76,20.91,1893450.0,0.03,0.05,0.02,Deprioritize / Tighten
+F,36,home_improvement,415,4753900.0,35.42,25.41,1821325.0,0.02,0.04,0.02,Deprioritize / Tighten
+G,60,major_purchase,160,3387325.0,48.13,27.74,1671475.0,0.02,0.04,0.02,Deprioritize / Tighten
+G,36,other,247,3018375.0,45.75,28.72,1467000.0,0.02,0.04,0.02,Deprioritize / Tighten
+G,60,house,163,3491350.0,42.94,27.35,1446675.0,0.02,0.03,0.02,Deprioritize / Tighten
+F,60,moving,164,2769925.0,44.51,24.91,1238350.0,0.01,0.03,0.02,Deprioritize / Tighten
+F,60,car,125,2240225.0,50.4,24.81,1177000.0,0.01,0.03,0.02,Deprioritize / Tighten
+B,60,major_purchase,1161,23141150.0,19.38,10.69,5424300.0,0.12,0.13,0.01,Maintain
+D,36,car,1257,10071225.0,24.03,17.72,2642150.0,0.05,0.06,0.01,Deprioritize / Tighten
+E,36,house,575,7207875.0,29.04,21.42,2157025.0,0.04,0.05,0.01,Deprioritize / Tighten
+E,36,moving,847,5488350.0,30.7,21.33,1779250.0,0.03,0.04,0.01,Deprioritize / Tighten
+D,60,moving,227,3563225.0,37.44,17.9,1308650.0,0.02,0.03,0.01,Deprioritize / Tighten
+C,60,moving,228,3744800.0,34.21,14.19,1281500.0,0.02,0.03,0.01,Deprioritize / Tighten
+E,36,vacation,516,2949950.0,27.91,21.31,1082900.0,0.02,0.03,0.01,Deprioritize / Tighten
+G,36,small_business,135,2306225.0,45.19,26.56,1027550.0,0.01,0.02,0.01,Deprioritize / Tighten
+E,36,car,350,2903750.0,28.86,21.26,1012125.0,0.01,0.02,0.01,Deprioritize / Tighten
+F,36,major_purchase,188,1854850.0,46.28,25.44,958650.0,0.01,0.02,0.01,Deprioritize / Tighten
+C,60,vacation,144,2251500.0,36.11,14.1,955175.0,0.01,0.02,0.01,Deprioritize / Tighten
+D,60,vacation,133,2019350.0,43.61,17.96,937925.0,0.01,0.02,0.01,Deprioritize / Tighten
+E,60,vacation,117,1769000.0,48.72,21.01,929475.0,0.01,0.02,0.01,Deprioritize / Tighten
+F,36,house,224,2625325.0,31.7,24.95,806800.0,0.01,0.02,0.01,Deprioritize / Tighten
+F,36,moving,264,1712025.0,33.71,24.68,647800.0,0.01,0.02,0.01,Deprioritize / Tighten
+C,36,other,20824,163671475.0,19.48,13.95,35262300.0,0.84,0.84,0.0,Maintain
+C,36,moving,2679,17912650.0,19.9,13.95,3855225.0,0.09,0.09,0.0,Maintain
+C,36,vacation,2857,15066325.0,18.83,13.88,3418175.0,0.08,0.08,0.0,Maintain
+C,60,car,713,10161825.0,22.3,14.22,2320200.0,0.05,0.06,0.0,Deprioritize / Tighten
+C,60,house,444,9587600.0,22.07,14.39,2026450.0,0.05,0.05,0.0,Monitor
+B,60,house,267,6078000.0,19.85,10.89,1222275.0,0.03,0.03,0.0,Maintain
+B,60,medical,308,5413900.0,17.86,10.53,1116300.0,0.03,0.03,0.0,Maintain
+A,60,major_purchase,201,3552375.0,13.93,7.8,605850.0,0.02,0.01,0.0,Maintain
+D,36,renewable_energy,190,1693050.0,27.89,17.7,491750.0,0.01,0.01,0.0,Deprioritize / Tighten
+F,36,medical,204,1382675.0,30.88,24.69,427750.0,0.01,0.01,0.0,Deprioritize / Tighten
+C,36,renewable_energy,229,1996250.0,20.52,13.94,421675.0,0.01,0.01,0.0,Monitor
+E,36,wedding,131,1262875.0,20.61,20.85,293575.0,0.01,0.01,0.0,Deprioritize / Tighten
+B,36,renewable_energy,166,1412500.0,18.07,11.03,258175.0,0.01,0.01,0.0,Maintain
+F,36,vacation,121,645025.0,24.79,24.82,203875.0,0.0,0.0,0.0,Deprioritize / Tighten
+A,60,car,156,1458100.0,5.77,7.87,131900.0,0.01,0.0,0.0,Maintain
+A,36,renewable_energy,100,956150.0,10.0,7.23,65275.0,0.0,0.0,0.0,Maintain
+C,36,home_improvement,16703,192120950.0,19.73,13.91,40799475.0,0.99,0.98,-0.01,Maintain
+C,36,major_purchase,5944,55606475.0,18.42,13.89,11681325.0,0.29,0.28,-0.01,Maintain
+B,36,small_business,2185,29373100.0,19.45,10.94,5961675.0,0.15,0.14,-0.01,Maintain
+C,36,car,2928,22347900.0,17.83,13.88,4326900.0,0.12,0.1,-0.01,Maintain
+C,36,house,1324,16427300.0,19.41,14.16,3266475.0,0.08,0.08,-0.01,Maintain
+B,36,vacation,2220,12338750.0,14.41,10.65,2188550.0,0.06,0.05,-0.01,Maintain
+B,36,moving,1757,12223775.0,16.33,10.8,2012675.0,0.06,0.05,-0.01,Maintain
+D,36,wedding,419,3921850.0,13.6,18.01,578175.0,0.02,0.01,-0.01,Maintain
+C,36,wedding,414,3935900.0,12.8,14.67,524650.0,0.02,0.01,-0.01,Maintain
+B,36,wedding,481,4549425.0,9.98,11.53,444300.0,0.02,0.01,-0.01,Maintain
+A,60,other,206,3291550.0,10.68,7.68,382600.0,0.02,0.01,-0.01,Maintain
+B,60,other,1391,25839400.0,18.19,10.79,4656850.0,0.13,0.11,-0.02,Maintain
+B,60,car,608,7721700.0,11.02,10.63,872700.0,0.04,0.02,-0.02,Maintain
+A,36,vacation,1159,7287100.0,8.54,7.12,689600.0,0.04,0.02,-0.02,Maintain
+A,36,moving,815,6595150.0,8.71,7.13,564575.0,0.03,0.01,-0.02,Maintain
+A,36,wedding,438,4004975.0,5.02,7.49,200475.0,0.02,0.0,-0.02,Maintain
+B,36,house,1155,15286325.0,11.77,10.86,2078325.0,0.08,0.05,-0.03,Maintain
+B,36,medical,3554,26582075.0,14.8,10.65,4080075.0,0.14,0.1,-0.04,Maintain
+A,36,small_business,1408,19467900.0,12.07,7.26,2328275.0,0.1,0.06,-0.04,Maintain
+A,60,home_improvement,745,14515125.0,9.13,7.87,1445900.0,0.07,0.03,-0.04,Maintain
+A,36,house,950,14599700.0,6.11,7.06,996800.0,0.08,0.02,-0.05,Maintain
+A,36,medical,1975,17622350.0,8.05,7.08,1387200.0,0.09,0.03,-0.06,Maintain
+B,36,car,3893,29551625.0,11.12,10.6,3626950.0,0.15,0.09,-0.07,Maintain
+A,60,credit_card,1701,33671650.0,10.64,7.83,3646525.0,0.17,0.09,-0.09,Maintain
+B,60,home_improvement,3991,82100825.0,16.11,10.63,13283350.0,0.42,0.32,-0.11,Maintain
+B,36,major_purchase,7207,65655600.0,12.75,10.61,9462800.0,0.34,0.23,-0.11,Maintain
+A,36,car,3657,29358225.0,5.11,6.99,1546950.0,0.15,0.04,-0.11,Maintain
+C,36,credit_card,49758,637551325.0,20.58,13.88,131858725.0,3.29,3.16,-0.13,Monitor
+A,60,debt_consolidation,3122,61482675.0,10.79,7.91,6513600.0,0.32,0.16,-0.16,Maintain
+B,60,credit_card,12826,263509450.0,18.66,10.59,48422050.0,1.36,1.16,-0.2,Maintain
+A,36,major_purchase,6508,66318325.0,5.45,6.95,4063475.0,0.34,0.1,-0.24,Maintain
+B,36,other,16129,133647750.0,12.92,10.71,18080375.0,0.69,0.43,-0.26,Maintain
+A,36,other,8754,84421125.0,6.83,7.11,5859050.0,0.44,0.14,-0.3,Maintain
+C,36,debt_consolidation,164842,2121129450.0,20.75,13.93,441253525.0,10.94,10.56,-0.38,Monitor
+B,36,home_improvement,21157,237671325.0,12.44,10.57,30852125.0,1.23,0.74,-0.49,Maintain
+B,60,debt_consolidation,26631,547000975.0,17.87,10.76,97038175.0,2.82,2.32,-0.5,Maintain
+A,36,home_improvement,18139,230097200.0,5.24,6.93,12255250.0,1.19,0.29,-0.89,Maintain
+B,36,credit_card,91120,1157043825.0,12.44,10.58,142698900.0,5.97,3.42,-2.55,Maintain
+A,36,credit_card,72849,1050439300.0,5.79,7.04,58932000.0,5.42,1.41,-4.01,Maintain
+B,36,debt_consolidation,193810,2496533525.0,12.78,10.73,315022600.0,12.88,7.54,-5.34,Maintain
+A,36,debt_consolidation,111970,1611222275.0,5.92,7.16,92926300.0,8.31,2.22,-6.09,Maintain

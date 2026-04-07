@@ -1,0 +1,27 @@
+grade,term_months,purpose,loan_count,funded_amount,default_rate_pct,avg_interest_rate_pct,defaulted_funded_amount,portfolio_share_pct,loss_share_pct,excess_loss_share_pct,action_flag,priority_level,priority_score,rank_within_priority
+E,60,debt_consolidation,40424,848629325.0,42.4,21.07,353815175.0,4.38,8.47,4.09,Deprioritize / Tighten,High,48.36,1
+D,60,debt_consolidation,51093,1034957775.0,36.33,17.8,368105175.0,5.34,8.81,3.47,Deprioritize / Tighten,High,44.46,2
+F,60,debt_consolidation,17048,368141050.0,48.65,24.92,176929150.0,1.9,4.23,2.34,Deprioritize / Tighten,High,38.64,3
+C,60,debt_consolidation,67062,1337311225.0,27.32,14.31,358619350.0,6.9,8.58,1.69,Deprioritize / Tighten,High,35.05,4
+D,36,debt_consolidation,74822,1007831775.0,27.67,17.63,286203600.0,5.2,6.85,1.65,Deprioritize / Tighten,High,31.66,5
+C,36,debt_consolidation,164842,2121129450.0,20.75,13.93,441253525.0,10.94,10.56,-0.38,Monitor,Medium,30.54,1
+G,60,debt_consolidation,4933,109043525.0,51.69,27.74,55582725.0,0.56,1.33,0.77,Deprioritize / Tighten,Medium,30.43,2
+E,60,credit_card,7443,158592500.0,42.35,21.06,65871800.0,0.82,1.58,0.76,Deprioritize / Tighten,Medium,26.24,3
+D,60,credit_card,13053,267885200.0,36.9,17.71,95647275.0,1.38,2.29,0.91,Deprioritize / Tighten,Medium,25.3,4
+E,36,debt_consolidation,20234,279214350.0,34.08,21.17,98074075.0,1.44,2.35,0.91,Deprioritize / Tighten,Medium,24.02,5
+C,60,credit_card,24086,480147100.0,28.2,14.17,132151725.0,2.48,3.16,0.69,Deprioritize / Tighten,Medium,22.15,6
+C,36,credit_card,49758,637551325.0,20.58,13.88,131858725.0,3.29,3.16,-0.13,Monitor,Medium,16.29,7
+D,36,credit_card,15847,209317025.0,26.87,17.68,57865450.0,1.08,1.39,0.31,Deprioritize / Tighten,Low,16.99,1
+C,60,home_improvement,6937,138106450.0,25.28,14.25,35307000.0,0.71,0.85,0.13,Deprioritize / Tighten,Low,14.66,2
+D,36,other,13489,110782800.0,24.41,17.86,30440900.0,0.57,0.73,0.16,Deprioritize / Tighten,Low,14.06,3
+B,60,debt_consolidation,26631,547000975.0,17.87,10.76,97038175.0,2.82,2.32,-0.5,Maintain,Low,12.32,4
+C,36,home_improvement,16703,192120950.0,19.73,13.91,40799475.0,0.99,0.98,-0.01,Maintain,Low,11.8,5
+C,36,other,20824,163671475.0,19.48,13.95,35262300.0,0.84,0.84,0.0,Maintain,Low,11.42,6
+B,60,credit_card,12826,263509450.0,18.66,10.59,48422050.0,1.36,1.16,-0.2,Maintain,Low,11.15,7
+B,36,debt_consolidation,193810,2496533525.0,12.78,10.73,315022600.0,12.88,7.54,-5.34,Maintain,Low,8.12,8
+B,36,credit_card,91120,1157043825.0,12.44,10.58,142698900.0,5.97,3.42,-2.55,Maintain,Low,6.69,9
+B,36,other,16129,133647750.0,12.92,10.71,18080375.0,0.69,0.43,-0.26,Maintain,Low,6.67,10
+B,36,home_improvement,21157,237671325.0,12.44,10.57,30852125.0,1.23,0.74,-0.49,Maintain,Low,6.47,11
+A,36,home_improvement,18139,230097200.0,5.24,6.93,12255250.0,1.19,0.29,-0.89,Maintain,Low,0.98,12
+A,36,credit_card,72849,1050439300.0,5.79,7.04,58932000.0,5.42,1.41,-4.01,Maintain,Low,-4.31,13
+A,36,debt_consolidation,111970,1611222275.0,5.92,7.16,92926300.0,8.31,2.22,-6.09,Maintain,Low,-7.83,14
