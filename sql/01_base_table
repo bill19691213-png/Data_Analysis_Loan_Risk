@@ -1,1 +1,75 @@
+CREATE OR REPLACE TABLE `project-cf626adc-1290-4ce9-aae.Leading_Club.loan_base_part1` AS
+SELECT
+  SAFE_CAST(id AS INT64) AS loan_id,
 
+  PARSE_DATE('%b-%Y', issue_d) AS issue_date,
+  EXTRACT(YEAR FROM PARSE_DATE('%b-%Y', issue_d)) AS issue_year,
+  EXTRACT(MONTH FROM PARSE_DATE('%b-%Y', issue_d)) AS issue_month,
+
+  SAFE_CAST(REGEXP_EXTRACT(term, r'(\d+)') AS INT64) AS term_months,
+
+  grade,
+  sub_grade,
+  purpose,
+  home_ownership,
+  verification_status,
+  addr_state,
+  loan_status,
+
+  SAFE_CAST(REPLACE(int_rate, '%', '') AS FLOAT64) AS int_rate_pct,
+  SAFE_CAST(loan_amnt AS FLOAT64) AS loan_amnt,
+  SAFE_CAST(funded_amnt AS FLOAT64) AS funded_amnt,
+  SAFE_CAST(installment AS FLOAT64) AS installment,
+  SAFE_CAST(annual_inc AS FLOAT64) AS annual_inc,
+  SAFE_CAST(dti AS FLOAT64) AS dti,
+
+  SAFE_CAST(fico_range_low AS FLOAT64) AS fico_low,
+  SAFE_CAST(fico_range_high AS FLOAT64) AS fico_high,
+  (SAFE_CAST(fico_range_low AS FLOAT64) + SAFE_CAST(fico_range_high AS FLOAT64)) / 2 AS fico_avg,
+
+  SAFE_CAST(REPLACE(revol_util, '%', '') AS FLOAT64) AS revol_util_pct,
+  SAFE_CAST(open_acc AS INT64) AS open_acc,
+  SAFE_CAST(total_acc AS INT64) AS total_acc,
+  SAFE_CAST(pub_rec_bankruptcies AS INT64) AS pub_rec_bankruptcies,
+
+  CASE
+    WHEN emp_length = '< 1 year' THEN 0
+    WHEN emp_length = '10+ years' THEN 10
+    ELSE SAFE_CAST(REGEXP_EXTRACT(emp_length, r'(\d+)') AS INT64)
+  END AS emp_length_num,
+
+  CASE
+    WHEN loan_status IN ('Charged Off', 'Default') THEN 1
+    ELSE 0
+  END AS default_flag,
+
+  CASE
+    WHEN loan_status IN ('Charged Off', 'Default') THEN 'Bad Loan'
+    WHEN loan_status = 'Fully Paid' THEN 'Good Loan'
+    ELSE 'Other'
+  END AS status_group,
+
+  CASE
+    WHEN (SAFE_CAST(fico_range_low AS FLOAT64) + SAFE_CAST(fico_range_high AS FLOAT64)) / 2 < 660 THEN '<660'
+    WHEN (SAFE_CAST(fico_range_low AS FLOAT64) + SAFE_CAST(fico_range_high AS FLOAT64)) / 2 < 700 THEN '660-699'
+    WHEN (SAFE_CAST(fico_range_low AS FLOAT64) + SAFE_CAST(fico_range_high AS FLOAT64)) / 2 < 740 THEN '700-739'
+    WHEN (SAFE_CAST(fico_range_low AS FLOAT64) + SAFE_CAST(fico_range_high AS FLOAT64)) / 2 < 780 THEN '740-779'
+    ELSE '780+'
+  END AS fico_band,
+
+  CASE
+    WHEN SAFE_CAST(dti AS FLOAT64) < 10 THEN '<10'
+    WHEN SAFE_CAST(dti AS FLOAT64) < 20 THEN '10-19.99'
+    WHEN SAFE_CAST(dti AS FLOAT64) < 30 THEN '20-29.99'
+    ELSE '30+'
+  END AS dti_band,
+
+  CASE
+    WHEN SAFE_CAST(loan_amnt AS FLOAT64) < 5000 THEN '<5k'
+    WHEN SAFE_CAST(loan_amnt AS FLOAT64) < 10000 THEN '5k-9.9k'
+    WHEN SAFE_CAST(loan_amnt AS FLOAT64) < 20000 THEN '10k-19.9k'
+    ELSE '20k+'
+  END AS loan_size_band
+
+FROM `project-cf626adc-1290-4ce9-aae.Leading_Club.loan_raw`
+WHERE loan_status IN ('Fully Paid', 'Charged Off', 'Default');
