@@ -1,0 +1,12 @@
+CREATE OR REPLACE TABLE `project-cf626adc-1290-4ce9-aae.Leading_Club.loan_part1_overview` AS
+SELECT
+  COUNT(*) AS total_loans,
+  SUM(loan_amnt) AS total_loan_amount,
+  SUM(funded_amnt) AS total_funded_amount,
+  SUM(CASE WHEN is_default = 1 THEN funded_amnt ELSE 0 END) AS defaulted_funded_amount,
+  AVG(is_default) AS default_rate,
+  AVG(int_rate) AS avg_interest_rate,
+  AVG(fico_mid) AS avg_fico,
+  AVG(dti) AS avg_dti,
+  AVG(annual_inc) AS avg_annual_income
+FROM `project-cf626adc-1290-4ce9-aae.Leading_Club.loan_base_part1`;
