@@ -1,0 +1,91 @@
+CREATE OR REPLACE TABLE `project-cf626adc-1290-4ce9-aae.Leading_Club.final_priority_segments` AS
+WITH params AS (
+    SELECT
+        1000 AS min_loan_count,          -- remove tiny segments
+        50000000 AS min_funded_amount,   -- 50M minimum exposure
+        0.50 AS min_portfolio_share_pct, -- optional materiality floor
+        0.50 AS high_excess_loss_pct,
+        1.50 AS very_high_excess_loss_pct
+),
+
+filtered AS (
+    SELECT
+        a.*
+    FROM `project-cf626adc-1290-4ce9-aae.Leading_Club.segment_action_matrix` a
+    CROSS JOIN params p
+    WHERE a.loan_count >= p.min_loan_count
+      AND a.funded_amount >= p.min_funded_amount
+      AND a.portfolio_share_pct >= p.min_portfolio_share_pct
+),
+
+scored AS (
+    SELECT
+        grade,
+        term_months,
+        purpose,
+        loan_count,
+        funded_amount,
+        default_rate_pct,
+        avg_interest_rate_pct,
+        defaulted_funded_amount,
+        portfolio_share_pct,
+        loss_share_pct,
+        excess_loss_share_pct,
+        action_flag,
+
+        CASE
+            WHEN action_flag IN ('Tighten or Reprice', 'Deprioritize / Tighten')
+                 AND excess_loss_share_pct >= (SELECT very_high_excess_loss_pct FROM params)
+            THEN 'High'
+
+            WHEN action_flag IN ('Tighten or Reprice', 'Deprioritize / Tighten')
+                 AND excess_loss_share_pct >= (SELECT high_excess_loss_pct FROM params)
+            THEN 'Medium'
+
+            WHEN action_flag = 'Monitor'
+            THEN 'Medium'
+
+            ELSE 'Low'
+        END AS priority_level,
+
+        -- weighted ranking score
+        ROUND(
+              (excess_loss_share_pct * 3.0)
+            + (loss_share_pct * 1.5)
+            + (default_rate_pct * 0.5)
+            + (portfolio_share_pct * 0.5),
+            2
+        ) AS priority_score
+    FROM filtered
+)
+
+SELECT
+    grade,
+    term_months,
+    purpose,
+    loan_count,
+    funded_amount,
+    default_rate_pct,
+    avg_interest_rate_pct,
+    defaulted_funded_amount,
+    portfolio_share_pct,
+    loss_share_pct,
+    excess_loss_share_pct,
+    action_flag,
+    priority_level,
+    priority_score,
+
+    ROW_NUMBER() OVER (
+        PARTITION BY priority_level
+        ORDER BY priority_score DESC, defaulted_funded_amount DESC
+    ) AS rank_within_priority
+
+FROM scored
+ORDER BY
+    CASE priority_level
+        WHEN 'High' THEN 1
+        WHEN 'Medium' THEN 2
+        ELSE 3
+    END,
+    priority_score DESC,
+    defaulted_funded_amount DESC;
