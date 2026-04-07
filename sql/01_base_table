@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE `project-cf626adc-1290-4ce9-aae.Leading_Club.loan_base_part1` AS
+CREATE OR REPLACE TABLE `project-cf626adc-1290-4ce9-aae.Leading_Club.loan_risk_feature_base` AS
 SELECT
   SAFE_CAST(id AS INT64) AS loan_id,
 
@@ -71,5 +71,5 @@ SELECT
     ELSE '20k+'
   END AS loan_size_band
 
-FROM `project-cf626adc-1290-4ce9-aae.Leading_Club.loan_raw`
+FROM `project-cf626adc-1290-4ce9-aae.Leading_Club.Leading_Club`
 WHERE loan_status IN ('Fully Paid', 'Charged Off', 'Default');
