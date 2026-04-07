@@ -1,0 +1,1001 @@
+id,issue_d,loan_status,loan_amnt,funded_amnt,term,int_rate,installment,grade,sub_grade,annual_inc,dti,emp_length,home_ownership,verification_status,purpose,addr_state,application_type,fico_range_low,fico_range_high,earliest_cr_line,revol_util,open_acc,total_acc,delinq_2yrs,pub_rec,inq_last_6mths,is_default
+130294976,Mar-2018,Fully Paid,1000.0,1000.0, 36 months,5.31,30.12,A,A1,31000.0,5.73,10+ years,MORTGAGE,Source Verified,credit_card,FL,Individual,695.0,699.0,Sep-2005,85.2,10.0,18.0,0.0,0.0,3.0,0
+135932228,Jun-2018,Fully Paid,2500.0,2500.0, 36 months,5.31,75.28,A,A1,35000.0,7.06,5 years,MORTGAGE,Not Verified,credit_card,TX,Individual,765.0,769.0,Oct-2003,8.8,16.0,27.0,0.0,0.0,1.0,0
+132183729,Apr-2018,Fully Paid,3000.0,3000.0, 36 months,5.31,90.34,A,A1,190000.0,8.57,3 years,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,805.0,809.0,Jun-2007,8.5,15.0,35.0,0.0,0.0,0.0,0
+129324266,Feb-2018,Fully Paid,3000.0,3000.0, 36 months,5.31,90.34,A,A1,60000.0,15.38,5 years,OWN,Source Verified,house,AZ,Individual,805.0,809.0,May-2003,6.5,12.0,17.0,0.0,0.0,0.0,0
+129249687,Feb-2018,Fully Paid,3000.0,3000.0, 36 months,5.31,90.34,A,A1,58000.0,1.32,10+ years,RENT,Not Verified,major_purchase,CT,Individual,780.0,784.0,Nov-2005,8.8,8.0,15.0,0.0,0.0,0.0,0
+133162038,May-2018,Fully Paid,3000.0,3000.0, 36 months,5.31,90.34,A,A1,32000.0,14.22,10+ years,OWN,Not Verified,debt_consolidation,WV,Individual,820.0,824.0,Oct-1998,4.0,7.0,18.0,0.0,0.0,0.0,0
+132984286,May-2018,Fully Paid,3000.0,3000.0, 36 months,5.31,90.34,A,A1,50000.0,7.06,10+ years,RENT,Not Verified,debt_consolidation,CA,Individual,745.0,749.0,Apr-2013,20.6,4.0,6.0,0.0,0.0,3.0,0
+129392962,Feb-2018,Fully Paid,3625.0,3625.0, 36 months,5.31,109.15,A,A1,105000.0,4.31,5 years,RENT,Source Verified,medical,MA,Individual,785.0,789.0,Aug-2005,0.1,7.0,15.0,0.0,0.0,0.0,0
+129647002,Mar-2018,Fully Paid,5000.0,5000.0, 36 months,5.31,150.56,A,A1,50000.0,2.47,10+ years,RENT,Not Verified,major_purchase,NJ,Individual,775.0,779.0,Jun-2003,6.7,17.0,31.0,0.0,0.0,0.0,0
+135000810,Jun-2018,Fully Paid,5000.0,5000.0, 36 months,5.31,150.56,A,A1,120000.0,7.88,2 years,MORTGAGE,Not Verified,car,AZ,Individual,820.0,824.0,Mar-2003,3.0,12.0,16.0,0.0,0.0,0.0,0
+133968763,May-2018,Fully Paid,6000.0,6000.0, 36 months,5.31,180.67,A,A1,105000.0,6.59,6 years,MORTGAGE,Not Verified,home_improvement,CA,Joint App,820.0,824.0,Apr-2005,10.1,11.0,28.0,0.0,0.0,0.0,0
+135753031,Jun-2018,Fully Paid,6500.0,6500.0, 36 months,5.31,195.72,A,A1,48000.0,3.65,,OWN,Not Verified,debt_consolidation,SC,Individual,800.0,804.0,Jun-1991,21.1,5.0,13.0,0.0,0.0,0.0,0
+130352689,Mar-2018,Fully Paid,7200.0,7200.0, 36 months,5.31,216.8,A,A1,60000.0,32.22,10+ years,MORTGAGE,Not Verified,credit_card,NY,Individual,805.0,809.0,Mar-2002,9.4,19.0,38.0,0.0,0.0,0.0,0
+130851543,May-2018,Fully Paid,8000.0,8000.0, 36 months,5.31,240.89,A,A1,83500.0,9.55,3 years,RENT,Source Verified,debt_consolidation,TX,Individual,765.0,769.0,Nov-1988,13.0,15.0,26.0,0.0,0.0,0.0,0
+131718298,Apr-2018,Fully Paid,8000.0,8000.0, 36 months,5.31,240.89,A,A1,175000.0,6.1,10+ years,MORTGAGE,Not Verified,credit_card,CA,Individual,740.0,744.0,Feb-1996,0.4,15.0,46.0,0.0,0.0,1.0,0
+130654048,Mar-2018,Fully Paid,8000.0,8000.0, 36 months,5.31,240.89,A,A1,80000.0,13.34,10+ years,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,805.0,809.0,Mar-2002,4.8,13.0,23.0,0.0,0.0,0.0,0
+135612504,Jun-2018,Fully Paid,8000.0,8000.0, 36 months,5.31,240.89,A,A1,54000.0,17.04,,MORTGAGE,Verified,debt_consolidation,NV,Individual,710.0,714.0,Jan-2004,14.3,10.0,53.0,0.0,0.0,2.0,0
+129868079,Mar-2018,Fully Paid,8000.0,8000.0, 36 months,5.31,240.89,A,A1,60000.0,24.92,10+ years,MORTGAGE,Not Verified,credit_card,AR,Individual,780.0,784.0,Apr-2005,29.2,8.0,22.0,0.0,0.0,0.0,0
+132114083,Apr-2018,Fully Paid,8500.0,8500.0, 36 months,5.31,255.94,A,A1,115000.0,1.04,10+ years,OWN,Source Verified,debt_consolidation,IN,Individual,790.0,794.0,Apr-1995,5.1,13.0,28.0,0.0,0.0,2.0,0
+133780693,Jun-2018,Fully Paid,8500.0,8500.0, 36 months,5.31,255.94,A,A1,50000.0,16.85,1 year,RENT,Source Verified,credit_card,KS,Individual,750.0,754.0,Dec-2003,20.5,13.0,14.0,1.0,0.0,1.0,0
+131476918,Apr-2018,Fully Paid,9000.0,9000.0, 36 months,5.31,271.0,A,A1,98000.0,10.81,,MORTGAGE,Not Verified,credit_card,MD,Individual,770.0,774.0,Jan-2005,35.8,3.0,38.0,0.0,0.0,0.0,0
+130105844,Mar-2018,Fully Paid,9000.0,9000.0, 36 months,5.31,271.0,A,A1,85000.0,16.01,10+ years,MORTGAGE,Not Verified,debt_consolidation,TN,Individual,780.0,784.0,Jan-2007,11.4,15.0,27.0,0.0,0.0,0.0,0
+130307784,Mar-2018,Fully Paid,9000.0,9000.0, 36 months,5.31,271.0,A,A1,50000.0,31.01,2 years,MORTGAGE,Not Verified,debt_consolidation,IN,Joint App,740.0,744.0,Jul-1996,12.0,12.0,26.0,0.0,0.0,0.0,0
+135046436,Jun-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,120000.0,32.08,5 years,MORTGAGE,Not Verified,credit_card,ME,Individual,725.0,729.0,Apr-1999,28.6,30.0,77.0,0.0,0.0,1.0,0
+133625201,May-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,98600.0,13.09,,MORTGAGE,Source Verified,home_improvement,NY,Individual,790.0,794.0,May-2005,1.1,35.0,69.0,0.0,0.0,1.0,0
+135101785,Jul-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,95000.0,6.66,10+ years,OWN,Not Verified,credit_card,SC,Individual,825.0,829.0,May-1999,6.9,7.0,22.0,0.0,0.0,0.0,0
+131987310,Apr-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,103000.0,15.46,10+ years,MORTGAGE,Not Verified,debt_consolidation,AZ,Individual,785.0,789.0,Feb-2000,17.6,13.0,29.0,0.0,0.0,0.0,0
+131561096,Apr-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,50000.0,15.07,4 years,OWN,Not Verified,credit_card,KY,Individual,760.0,764.0,Aug-2012,8.7,8.0,13.0,0.0,0.0,0.0,0
+129979203,Mar-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,67000.0,21.74,6 years,MORTGAGE,Not Verified,debt_consolidation,NV,Individual,780.0,784.0,Dec-2001,20.0,14.0,22.0,0.0,0.0,1.0,0
+131163006,Apr-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,275000.0,10.33,10+ years,MORTGAGE,Not Verified,credit_card,MN,Individual,710.0,714.0,Jul-2007,50.5,13.0,32.0,0.0,1.0,0.0,0
+134126444,May-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,95000.0,8.64,1 year,RENT,Not Verified,credit_card,NY,Individual,685.0,689.0,Aug-2006,68.0,6.0,20.0,0.0,0.0,0.0,0
+129136732,Mar-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,80000.0,3.91,< 1 year,RENT,Not Verified,debt_consolidation,NY,Individual,780.0,784.0,Jul-2005,23.0,3.0,4.0,0.0,0.0,0.0,0
+134818789,Jun-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,130000.0,6.82,2 years,OWN,Not Verified,credit_card,WA,Individual,685.0,689.0,Aug-2004,34.6,6.0,9.0,1.0,0.0,0.0,0
+135352678,Jun-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,50000.0,17.1,10+ years,RENT,Source Verified,credit_card,TX,Individual,780.0,784.0,Aug-2005,21.9,6.0,21.0,0.0,0.0,0.0,0
+132817648,May-2018,Fully Paid,10000.0,10000.0, 36 months,5.31,301.11,A,A1,85000.0,14.54,10+ years,MORTGAGE,Source Verified,medical,TX,Individual,815.0,819.0,Apr-1993,17.4,5.0,23.0,0.0,0.0,0.0,0
+131020773,Apr-2018,Fully Paid,11000.0,11000.0, 36 months,5.31,331.22,A,A1,70000.0,6.22,5 years,MORTGAGE,Not Verified,debt_consolidation,MO,Individual,810.0,814.0,Apr-1994,9.6,9.0,18.0,0.0,0.0,1.0,0
+132876937,May-2018,Charged Off,11000.0,11000.0, 36 months,5.31,331.22,A,A1,20400.0,39.94,,OWN,Verified,credit_card,AL,Individual,710.0,714.0,Aug-2000,29.4,9.0,26.0,0.0,0.0,0.0,1
+129342401,Feb-2018,Fully Paid,18000.0,18000.0, 60 months,5.31,342.25,A,A1,91333.0,12.73,5 years,MORTGAGE,Not Verified,credit_card,TN,Individual,725.0,729.0,Aug-1994,31.2,8.0,15.0,0.0,1.0,1.0,0
+133353200,May-2018,Fully Paid,12000.0,12000.0, 36 months,5.31,361.33,A,A1,60000.0,14.0,2 years,MORTGAGE,Not Verified,car,IL,Individual,780.0,784.0,Jan-2003,4.4,14.0,28.0,0.0,0.0,0.0,0
+131707872,May-2018,Fully Paid,12000.0,12000.0, 36 months,5.31,361.33,A,A1,55000.0,22.1,8 years,MORTGAGE,Source Verified,debt_consolidation,CO,Individual,755.0,759.0,Apr-2005,10.6,14.0,51.0,0.0,0.0,0.0,0
+129233902,Feb-2018,Fully Paid,12000.0,12000.0, 36 months,5.31,361.33,A,A1,90000.0,21.88,10+ years,MORTGAGE,Not Verified,home_improvement,IN,Individual,825.0,829.0,Jul-2001,12.3,9.0,25.0,0.0,0.0,1.0,0
+131704939,Apr-2018,Fully Paid,12000.0,12000.0, 36 months,5.31,361.33,A,A1,95000.0,12.83,3 years,MORTGAGE,Not Verified,small_business,FL,Individual,785.0,789.0,Sep-2003,1.9,14.0,40.0,0.0,0.0,0.0,0
+131528872,May-2018,Fully Paid,13000.0,13000.0, 36 months,5.31,391.44,A,A1,200000.0,0.52,1 year,OWN,Source Verified,major_purchase,IN,Individual,820.0,824.0,Dec-1989,0.2,9.0,31.0,0.0,0.0,0.0,0
+133943595,May-2018,Fully Paid,14000.0,14000.0, 36 months,5.31,421.55,A,A1,109000.0,21.67,5 years,OWN,Not Verified,debt_consolidation,PA,Individual,765.0,769.0,Aug-2007,36.6,10.0,28.0,0.0,0.0,0.0,0
+130866377,Apr-2018,Fully Paid,14000.0,14000.0, 36 months,5.31,421.55,A,A1,120000.0,15.43,5 years,MORTGAGE,Not Verified,medical,HI,Individual,795.0,799.0,May-2005,17.1,16.0,33.0,0.0,0.0,0.0,0
+135827721,Jun-2018,Fully Paid,14675.0,14675.0, 36 months,5.31,441.87,A,A1,70000.0,11.52,10+ years,OWN,Not Verified,credit_card,NE,Individual,810.0,814.0,Oct-1993,13.0,11.0,26.0,0.0,0.0,0.0,0
+135711600,Jun-2018,Fully Paid,15000.0,15000.0, 36 months,5.31,451.66,A,A1,75000.0,4.22,6 years,MORTGAGE,Source Verified,debt_consolidation,AZ,Individual,815.0,819.0,Dec-1996,14.7,4.0,14.0,0.0,0.0,0.0,0
+134449710,Jun-2018,Fully Paid,15000.0,15000.0, 36 months,5.31,451.66,A,A1,55000.0,13.27,3 years,RENT,Source Verified,credit_card,NY,Individual,695.0,699.0,Jun-2009,26.7,29.0,42.0,0.0,0.0,0.0,0
+132149858,Apr-2018,Fully Paid,15000.0,15000.0, 36 months,5.31,451.66,A,A1,100008.0,9.0,4 years,MORTGAGE,Verified,debt_consolidation,TX,Individual,780.0,784.0,Sep-2004,0.0,9.0,36.0,0.0,0.0,0.0,0
+134295118,May-2018,Fully Paid,15000.0,15000.0, 36 months,5.31,451.66,A,A1,178000.0,8.31,10+ years,MORTGAGE,Not Verified,home_improvement,CA,Individual,775.0,779.0,Mar-1981,2.6,17.0,38.0,0.0,0.0,1.0,0
+135728247,Jun-2018,Fully Paid,15000.0,15000.0, 36 months,5.31,451.66,A,A1,110000.0,5.76,6 years,RENT,Not Verified,debt_consolidation,NY,Individual,800.0,804.0,Jul-2005,5.9,8.0,12.0,0.0,0.0,0.0,0
+130105735,Mar-2018,Charged Off,15000.0,15000.0, 36 months,5.31,451.66,A,A1,112000.0,11.38,5 years,OWN,Source Verified,other,GA,Individual,775.0,779.0,May-2003,1.6,5.0,19.0,0.0,0.0,0.0,1
+129174827,Feb-2018,Fully Paid,15000.0,15000.0, 36 months,5.31,451.66,A,A1,34879.0,37.44,10+ years,RENT,Source Verified,debt_consolidation,CA,Individual,785.0,789.0,May-1999,26.3,14.0,22.0,0.0,0.0,0.0,0
+129555214,Mar-2018,Fully Paid,16000.0,16000.0, 36 months,5.31,481.77,A,A1,70000.0,3.91,,MORTGAGE,Not Verified,major_purchase,MI,Individual,790.0,794.0,Sep-1997,19.3,8.0,21.0,0.0,0.0,0.0,0
+133707673,May-2018,Fully Paid,16000.0,16000.0, 36 months,5.31,481.77,A,A1,86500.0,17.2,10+ years,MORTGAGE,Source Verified,debt_consolidation,MI,Individual,700.0,704.0,May-1992,10.1,16.0,34.0,0.0,0.0,2.0,0
+134377354,Jun-2018,Fully Paid,16000.0,16000.0, 36 months,5.31,481.77,A,A1,130000.0,7.57,3 years,MORTGAGE,Source Verified,credit_card,CA,Individual,780.0,784.0,Sep-2004,0.6,7.0,35.0,0.0,0.0,0.0,0
+131406572,Apr-2018,Fully Paid,16000.0,16000.0, 36 months,5.31,481.77,A,A1,96000.0,16.26,10+ years,OWN,Not Verified,credit_card,FL,Individual,700.0,704.0,Apr-2001,48.3,15.0,22.0,0.0,0.0,0.0,0
+131725340,Apr-2018,Fully Paid,16000.0,16000.0, 36 months,5.31,481.77,A,A1,69500.0,13.55,10+ years,RENT,Source Verified,credit_card,MA,Individual,765.0,769.0,Nov-1995,12.6,9.0,16.0,0.0,0.0,0.0,0
+132565786,May-2018,Fully Paid,16800.0,16800.0, 36 months,5.31,505.86,A,A1,63000.0,0.48,10+ years,OWN,Verified,debt_consolidation,CT,Individual,705.0,709.0,Apr-2007,0.8,6.0,28.0,0.0,0.0,0.0,0
+132370752,Apr-2018,Fully Paid,16800.0,16800.0, 36 months,5.31,505.86,A,A1,70000.0,24.14,5 years,MORTGAGE,Not Verified,debt_consolidation,IL,Joint App,820.0,824.0,Jul-2006,3.6,22.0,37.0,0.0,0.0,0.0,0
+131066979,Apr-2018,Fully Paid,18000.0,18000.0, 36 months,5.31,541.99,A,A1,95000.0,1.31,10+ years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,780.0,784.0,Jun-1996,12.5,5.0,25.0,0.0,0.0,0.0,0
+132581308,May-2018,Fully Paid,18000.0,18000.0, 36 months,5.31,541.99,A,A1,60000.0,1.84,10+ years,OWN,Verified,debt_consolidation,MO,Joint App,800.0,804.0,Apr-1988,4.9,8.0,22.0,0.0,0.0,0.0,0
+129780256,Mar-2018,Fully Paid,24000.0,24000.0, 36 months,5.31,722.65,A,A1,102000.0,9.79,4 years,MORTGAGE,Source Verified,debt_consolidation,CA,Individual,725.0,729.0,Dec-2007,5.5,14.0,17.0,0.0,0.0,0.0,0
+131154482,Apr-2018,Fully Paid,25000.0,25000.0, 36 months,5.31,752.76,A,A1,120468.0,17.81,10+ years,MORTGAGE,Source Verified,other,OR,Individual,820.0,824.0,Apr-1985,2.8,23.0,49.0,0.0,0.0,0.0,0
+135015979,Jun-2018,Fully Paid,25000.0,25000.0, 36 months,5.31,752.76,A,A1,95000.0,10.11,3 years,MORTGAGE,Not Verified,debt_consolidation,FL,Individual,765.0,769.0,Jan-2012,8.7,22.0,23.0,0.0,0.0,1.0,0
+130753353,Apr-2018,Fully Paid,25000.0,25000.0, 36 months,5.31,752.76,A,A1,245000.0,2.85,3 years,RENT,Source Verified,major_purchase,NM,Individual,785.0,789.0,May-2013,0.6,11.0,12.0,0.0,0.0,0.0,0
+129918813,Mar-2018,Fully Paid,25000.0,25000.0, 36 months,5.31,752.76,A,A1,110000.0,30.52,10+ years,MORTGAGE,Verified,credit_card,CO,Individual,680.0,684.0,May-1997,78.1,17.0,29.0,0.0,0.0,1.0,0
+134992376,Jun-2018,Fully Paid,27500.0,27500.0, 36 months,5.31,828.04,A,A1,125000.0,6.84,10+ years,RENT,Not Verified,home_improvement,OR,Individual,785.0,789.0,Dec-1994,7.0,8.0,21.0,0.0,0.0,0.0,0
+134587647,Jun-2018,Fully Paid,28000.0,28000.0, 36 months,5.31,843.09,A,A1,192000.0,9.28,10+ years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,755.0,759.0,Mar-2011,2.1,6.0,25.0,0.0,0.0,0.0,0
+129520243,Mar-2018,Fully Paid,28000.0,28000.0, 36 months,5.31,843.09,A,A1,158100.0,7.64,10+ years,MORTGAGE,Not Verified,small_business,FL,Individual,805.0,809.0,Jun-2001,2.4,9.0,24.0,0.0,0.0,0.0,0
+131172733,Apr-2018,Fully Paid,29000.0,29000.0, 36 months,5.31,873.2,A,A1,115000.0,11.97,10+ years,OWN,Not Verified,other,CA,Joint App,825.0,829.0,Jan-2001,11.8,12.0,34.0,0.0,0.0,0.0,0
+134743293,Jun-2018,Charged Off,30000.0,30000.0, 36 months,5.31,903.31,A,A1,43000.0,54.54,4 years,MORTGAGE,Source Verified,credit_card,CA,Joint App,710.0,714.0,Apr-1991,66.3,14.0,24.0,1.0,0.0,0.0,1
+132534108,May-2018,Fully Paid,30000.0,30000.0, 36 months,5.31,903.31,A,A1,100000.0,0.18,10+ years,MORTGAGE,Source Verified,home_improvement,HI,Individual,840.0,844.0,Sep-1979,0.3,9.0,38.0,0.0,0.0,1.0,0
+131939086,May-2018,Fully Paid,30000.0,30000.0, 36 months,5.31,903.31,A,A1,100000.0,8.84,10+ years,MORTGAGE,Verified,home_improvement,TX,Individual,810.0,814.0,Jul-1968,12.5,11.0,27.0,0.0,0.0,0.0,0
+130852328,Mar-2018,Fully Paid,30000.0,30000.0, 36 months,5.31,903.31,A,A1,20000.0,43.04,2 years,MORTGAGE,Source Verified,debt_consolidation,FL,Joint App,755.0,759.0,Mar-2001,25.1,10.0,17.0,0.0,0.0,0.0,0
+134317605,May-2018,Fully Paid,32000.0,32000.0, 36 months,5.31,963.53,A,A1,200000.0,2.47,10+ years,MORTGAGE,Source Verified,debt_consolidation,NJ,Individual,785.0,789.0,Jun-2000,6.3,12.0,39.0,0.0,0.0,0.0,0
+134447631,Jun-2018,Fully Paid,32500.0,32500.0, 36 months,5.31,978.59,A,A1,160000.0,9.81,6 years,MORTGAGE,Not Verified,debt_consolidation,NJ,Individual,715.0,719.0,Apr-2004,31.5,11.0,21.0,0.0,0.0,2.0,0
+132075915,Apr-2018,Fully Paid,35000.0,35000.0, 36 months,5.31,1053.86,A,A1,92000.0,3.18,10+ years,MORTGAGE,Source Verified,debt_consolidation,GA,Individual,760.0,764.0,Jul-2000,6.2,14.0,33.0,0.0,0.0,1.0,0
+129355025,Feb-2018,Fully Paid,35000.0,35000.0, 36 months,5.31,1053.86,A,A1,165000.0,4.6,< 1 year,OWN,Source Verified,credit_card,AZ,Individual,805.0,809.0,Jan-1999,15.5,5.0,16.0,0.0,0.0,0.0,0
+134088920,Jun-2018,Fully Paid,35000.0,35000.0, 36 months,5.31,1053.86,A,A1,172000.0,8.37,10+ years,MORTGAGE,Source Verified,credit_card,IL,Individual,760.0,764.0,Jun-2002,41.1,15.0,33.0,0.0,0.0,1.0,0
+133716495,May-2018,Fully Paid,38500.0,38500.0, 36 months,5.31,1159.25,A,A1,191938.0,5.01,4 years,MORTGAGE,Not Verified,home_improvement,GA,Individual,730.0,734.0,Oct-1998,23.2,6.0,14.0,0.0,0.0,0.0,0
+131143414,Apr-2018,Fully Paid,39500.0,39500.0, 36 months,5.31,1189.36,A,A1,97000.0,23.04,10+ years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,735.0,739.0,Mar-1992,67.9,8.0,14.0,0.0,0.0,0.0,0
+132919686,May-2018,Fully Paid,40000.0,40000.0, 36 months,5.31,1204.42,A,A1,200000.0,18.65,7 years,MORTGAGE,Source Verified,debt_consolidation,NJ,Individual,745.0,749.0,Apr-1993,41.8,14.0,21.0,0.0,0.0,0.0,0
+134265744,May-2018,Fully Paid,40000.0,40000.0, 36 months,5.31,1204.42,A,A1,140000.0,6.05,10+ years,OWN,Source Verified,debt_consolidation,CA,Individual,705.0,709.0,Aug-2001,45.2,12.0,24.0,0.0,0.0,0.0,0
+133933975,May-2018,Fully Paid,40000.0,40000.0, 36 months,5.31,1204.42,A,A1,192000.0,12.92,4 years,MORTGAGE,Source Verified,credit_card,MD,Individual,690.0,694.0,Dec-1994,95.2,6.0,14.0,1.0,0.0,0.0,0
+130073588,Apr-2018,Fully Paid,40000.0,40000.0, 36 months,5.31,1204.42,A,A1,90000.0,0.67,10+ years,MORTGAGE,Source Verified,other,IL,Individual,735.0,739.0,Jun-1986,2.6,9.0,33.0,3.0,0.0,0.0,0
+136073315,Jul-2018,Fully Paid,40000.0,40000.0, 36 months,5.31,1204.42,A,A1,113000.0,7.07,8 years,RENT,Verified,debt_consolidation,CA,Individual,800.0,804.0,Aug-2003,19.2,8.0,96.0,0.0,0.0,0.0,0
+131035301,Apr-2018,Fully Paid,40000.0,40000.0, 36 months,5.31,1204.42,A,A1,200000.0,9.7,1 year,MORTGAGE,Source Verified,credit_card,TX,Individual,775.0,779.0,May-2003,16.1,27.0,67.0,0.0,0.0,0.0,0
+132429399,May-2018,Fully Paid,40000.0,40000.0, 36 months,5.31,1204.42,A,A1,160000.0,8.78,10+ years,MORTGAGE,Source Verified,other,IL,Individual,780.0,784.0,May-1982,20.5,7.0,21.0,0.0,0.0,1.0,0
+134300270,May-2018,Fully Paid,40000.0,40000.0, 36 months,5.31,1204.42,A,A1,250000.0,11.92,1 year,MORTGAGE,Source Verified,credit_card,CA,Individual,725.0,729.0,Dec-2012,13.1,15.0,18.0,0.0,0.0,0.0,0
+129204486,Feb-2018,Fully Paid,40000.0,40000.0, 36 months,5.31,1204.42,A,A1,375000.0,5.08,1 year,RENT,Source Verified,credit_card,CA,Individual,725.0,729.0,Feb-1980,32.8,13.0,49.0,0.0,0.0,0.0,0
+97319535,Feb-2017,Fully Paid,1000.0,1000.0, 36 months,5.32,30.12,A,A1,51250.0,7.85,2 years,OWN,Not Verified,other,NM,Individual,735.0,739.0,Aug-2000,50.4,10.0,55.0,0.0,0.0,1.0,0
+109394238,May-2017,Fully Paid,1000.0,1000.0, 36 months,5.32,30.12,A,A1,36212.8,15.81,10+ years,MORTGAGE,Verified,other,AZ,Individual,735.0,739.0,Jan-1995,19.3,5.0,10.0,0.0,0.0,0.0,0
+115094456,Aug-2017,Fully Paid,1000.0,1000.0, 36 months,5.32,30.12,A,A1,52000.0,24.23,5 years,RENT,Not Verified,credit_card,AK,Individual,760.0,764.0,May-2005,41.5,5.0,20.0,0.0,0.0,0.0,0
+77017419,Apr-2016,Fully Paid,1000.0,1000.0, 36 months,5.32,30.12,A,A1,35000.0,9.09,1 year,RENT,Not Verified,credit_card,WI,Individual,725.0,729.0,Aug-2005,21.2,9.0,24.0,1.0,0.0,0.0,0
+96695802,Jan-2017,Fully Paid,1100.0,1100.0, 36 months,5.32,33.13,A,A1,90000.0,14.04,10+ years,MORTGAGE,Source Verified,vacation,CA,Individual,785.0,789.0,May-2006,23.9,10.0,22.0,0.0,0.0,0.0,0
+103497547,Mar-2017,Fully Paid,1500.0,1500.0, 36 months,5.32,45.18,A,A1,39229.0,3.03,10+ years,MORTGAGE,Not Verified,vacation,KS,Individual,780.0,784.0,Apr-1994,5.9,8.0,19.0,0.0,0.0,0.0,0
+75923155,Mar-2016,Fully Paid,1500.0,1500.0, 36 months,5.32,45.18,A,A1,47000.0,12.95,3 years,MORTGAGE,Source Verified,home_improvement,CO,Individual,680.0,684.0,Dec-2007,13.6,4.0,6.0,0.0,0.0,1.0,0
+112443456,Sep-2017,Fully Paid,1600.0,1600.0, 36 months,5.32,48.19,A,A1,32240.0,9.08,1 year,RENT,Source Verified,debt_consolidation,FL,Individual,800.0,804.0,Oct-1987,18.6,7.0,10.0,0.0,0.0,0.0,0
+91002722,Oct-2016,Fully Paid,1800.0,1800.0, 36 months,5.32,54.21,A,A1,65000.0,12.52,1 year,MORTGAGE,Not Verified,other,TX,Individual,730.0,734.0,Mar-1993,19.8,8.0,25.0,0.0,0.0,0.0,0
+118263546,Sep-2017,Fully Paid,1800.0,1800.0, 36 months,5.32,54.21,A,A1,22000.0,3.44,,MORTGAGE,Not Verified,debt_consolidation,OH,Individual,790.0,794.0,Sep-1992,2.0,17.0,29.0,0.0,0.0,0.0,0
+76194847,Apr-2016,Fully Paid,2000.0,2000.0, 36 months,5.32,60.23,A,A1,74448.0,17.39,8 years,MORTGAGE,Not Verified,debt_consolidation,CO,Individual,785.0,789.0,Sep-2004,9.9,20.0,28.0,0.0,0.0,1.0,0
+115705041,Aug-2017,Fully Paid,2000.0,2000.0, 36 months,5.32,60.23,A,A1,70000.0,9.86,,MORTGAGE,Not Verified,other,PA,Individual,820.0,824.0,Jan-1996,5.3,22.0,37.0,0.0,0.0,0.0,0
+111957817,Jul-2017,Fully Paid,2000.0,2000.0, 36 months,5.32,60.23,A,A1,62000.0,2.46,1 year,RENT,Not Verified,credit_card,MD,Individual,740.0,744.0,Aug-2006,10.2,24.0,39.0,0.0,0.0,0.0,0
+97952938,Feb-2017,Charged Off,2000.0,2000.0, 36 months,5.32,60.23,A,A1,60000.0,20.74,10+ years,RENT,Source Verified,major_purchase,MO,Individual,685.0,689.0,Dec-1971,6.3,9.0,19.0,1.0,0.0,0.0,1
+117193811,Aug-2017,Fully Paid,2000.0,2000.0, 36 months,5.32,60.23,A,A1,32000.0,25.39,,MORTGAGE,Not Verified,other,TN,Individual,800.0,804.0,Apr-1997,20.4,14.0,17.0,0.0,0.0,0.0,0
+125492914,Dec-2017,Fully Paid,2000.0,2000.0, 36 months,5.32,60.23,A,A1,130000.0,6.59,10+ years,MORTGAGE,Source Verified,medical,OK,Individual,825.0,829.0,Aug-2002,7.1,11.0,24.0,0.0,0.0,0.0,0
+62549895,Oct-2015,Fully Paid,2000.0,2000.0, 36 months,5.32,60.23,A,A1,63000.0,10.69,10+ years,OWN,Source Verified,credit_card,AZ,Individual,730.0,734.0,Jan-2002,41.2,8.0,23.0,0.0,0.0,0.0,0
+77517526,Apr-2016,Fully Paid,2000.0,2000.0, 36 months,5.32,60.23,A,A1,95000.0,8.56,4 years,MORTGAGE,Not Verified,debt_consolidation,VA,Individual,785.0,789.0,Jul-2001,13.5,11.0,29.0,0.0,0.0,0.0,0
+77319858,May-2016,Fully Paid,2000.0,2000.0, 36 months,5.32,60.23,A,A1,21000.0,7.83,8 years,RENT,Source Verified,debt_consolidation,VT,Individual,760.0,764.0,Oct-2007,30.1,3.0,7.0,0.0,0.0,0.0,0
+96682942,Jan-2017,Fully Paid,2400.0,2400.0, 36 months,5.32,72.28,A,A1,44000.0,7.53,3 years,RENT,Not Verified,debt_consolidation,CA,Individual,745.0,749.0,Apr-2005,12.8,10.0,16.0,0.0,0.0,0.0,0
+99916712,Mar-2017,Fully Paid,2400.0,2400.0, 36 months,5.32,72.28,A,A1,60000.0,17.16,10+ years,MORTGAGE,Not Verified,debt_consolidation,LA,Individual,685.0,689.0,Sep-1996,27.2,10.0,22.0,2.0,0.0,0.0,0
+74596271,Mar-2016,Fully Paid,2400.0,2400.0, 36 months,5.32,72.28,A,A1,48000.0,9.05,10+ years,OWN,Not Verified,other,TX,Individual,765.0,769.0,Aug-2001,15.1,11.0,24.0,0.0,0.0,0.0,0
+90631502,Oct-2016,Fully Paid,2400.0,2400.0, 36 months,5.32,72.28,A,A1,73000.0,17.69,,MORTGAGE,Not Verified,home_improvement,AR,Individual,740.0,744.0,Mar-2003,4.5,15.0,42.0,0.0,0.0,1.0,0
+110836875,Jun-2017,Fully Paid,2500.0,2500.0, 36 months,5.32,75.29,A,A1,33000.0,2.29,< 1 year,RENT,Not Verified,debt_consolidation,AZ,Individual,725.0,729.0,Jun-2005,8.3,5.0,10.0,1.0,1.0,0.0,0
+60780797,Oct-2015,Fully Paid,2500.0,2500.0, 36 months,5.32,75.29,A,A1,100000.0,15.94,,MORTGAGE,Not Verified,credit_card,VA,Individual,725.0,729.0,Nov-1979,21.3,11.0,25.0,0.0,0.0,1.0,0
+119394911,Sep-2017,Fully Paid,2700.0,2700.0, 36 months,5.32,81.31,A,A1,100000.0,9.17,< 1 year,MORTGAGE,Not Verified,medical,AL,Joint App,820.0,824.0,Jun-1999,1.1,15.0,52.0,0.0,0.0,0.0,0
+76132181,Apr-2016,Fully Paid,2800.0,2800.0, 36 months,5.32,84.33,A,A1,66424.0,20.97,< 1 year,OWN,Source Verified,moving,TN,Individual,820.0,824.0,Aug-1987,13.9,18.0,30.0,0.0,0.0,0.0,0
+94255677,Nov-2016,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,55000.0,17.54,7 years,RENT,Not Verified,credit_card,NY,Individual,725.0,729.0,Aug-2006,43.2,8.0,35.0,0.0,0.0,0.0,0
+65454612,Nov-2015,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,80000.0,21.9,10+ years,RENT,Not Verified,home_improvement,PA,Individual,810.0,814.0,Nov-1992,8.7,10.0,14.0,0.0,0.0,0.0,0
+66512691,Dec-2015,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,40000.0,9.93,3 years,MORTGAGE,Verified,credit_card,PA,Individual,745.0,749.0,Aug-2004,9.2,14.0,49.0,0.0,0.0,0.0,0
+113494907,Jul-2017,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,60000.0,16.14,< 1 year,RENT,Not Verified,credit_card,CA,Individual,780.0,784.0,Apr-1997,2.9,9.0,24.0,0.0,0.0,1.0,0
+76192800,Apr-2016,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,53000.0,11.19,10+ years,MORTGAGE,Not Verified,debt_consolidation,IL,Individual,760.0,764.0,Sep-2002,5.5,12.0,24.0,1.0,0.0,1.0,0
+88037249,Aug-2016,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,33000.0,4.36,5 years,OWN,Verified,vacation,ID,Individual,785.0,789.0,May-1996,18.1,9.0,17.0,0.0,0.0,0.0,0
+117199610,Aug-2017,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,102500.0,11.33,10+ years,MORTGAGE,Not Verified,major_purchase,AZ,Individual,800.0,804.0,Apr-1992,0.0,8.0,25.0,0.0,0.0,0.0,0
+112239472,Jun-2017,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,55965.0,16.08,2 years,RENT,Not Verified,other,CO,Individual,720.0,724.0,Aug-2010,43.1,9.0,12.0,0.0,0.0,0.0,0
+114179665,Jul-2017,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,72000.0,10.01,6 years,RENT,Verified,moving,MD,Individual,805.0,809.0,Dec-1995,0.1,25.0,56.0,0.0,0.0,0.0,0
+95726729,Dec-2016,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,78000.0,22.11,9 years,MORTGAGE,Not Verified,home_improvement,TX,Individual,770.0,774.0,Jan-2004,20.2,14.0,24.0,0.0,0.0,0.0,0
+103831194,Mar-2017,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,95377.0,4.14,7 years,RENT,Verified,credit_card,CA,Individual,690.0,694.0,Jan-1985,23.1,17.0,29.0,0.0,0.0,0.0,0
+97406891,Feb-2017,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,61276.0,2.33,10+ years,RENT,Verified,credit_card,LA,Individual,715.0,719.0,Aug-2001,9.6,15.0,43.0,0.0,0.0,0.0,0
+99330488,Feb-2017,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,78000.0,17.34,1 year,MORTGAGE,Source Verified,home_improvement,CO,Individual,725.0,729.0,Nov-2004,14.6,25.0,53.0,0.0,0.0,0.0,0
+126344962,Jan-2018,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,31200.0,3.38,1 year,RENT,Not Verified,credit_card,MO,Individual,730.0,734.0,Apr-2013,21.6,5.0,8.0,0.0,0.0,0.0,0
+96675607,Jan-2017,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,64500.0,12.17,8 years,RENT,Not Verified,other,NY,Individual,715.0,719.0,May-2002,6.6,20.0,30.0,5.0,0.0,0.0,0
+77449952,Apr-2016,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,82000.0,9.6,10+ years,MORTGAGE,Source Verified,credit_card,NJ,Individual,740.0,744.0,Mar-1994,25.5,7.0,18.0,0.0,0.0,1.0,0
+77509847,Apr-2016,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,100000.0,2.23,1 year,RENT,Source Verified,car,CA,Individual,745.0,749.0,Jul-2003,20.1,8.0,10.0,0.0,0.0,0.0,0
+76498648,Apr-2016,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,60000.0,17.92,1 year,RENT,Not Verified,credit_card,UT,Individual,755.0,759.0,Sep-2006,25.4,8.0,13.0,0.0,0.0,0.0,0
+65803088,Nov-2015,Charged Off,3000.0,3000.0, 36 months,5.32,90.35,A,A1,45000.0,9.39,8 years,RENT,Not Verified,credit_card,IL,Individual,710.0,714.0,Feb-1995,37.9,7.0,12.0,0.0,0.0,0.0,1
+97344567,Feb-2017,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,435000.0,1.21,10+ years,MORTGAGE,Source Verified,other,CA,Individual,790.0,794.0,Mar-2007,8.2,16.0,24.0,0.0,0.0,0.0,0
+107974848,May-2017,Fully Paid,3000.0,3000.0, 36 months,5.32,90.35,A,A1,150000.0,7.76,1 year,MORTGAGE,Not Verified,home_improvement,NJ,Individual,740.0,744.0,Jan-2003,20.6,13.0,28.0,0.0,1.0,0.0,0
+112455214,Jul-2017,Fully Paid,3025.0,3025.0, 36 months,5.32,91.1,A,A1,102000.0,20.02,2 years,MORTGAGE,Not Verified,home_improvement,GA,Individual,790.0,794.0,Jul-2000,4.5,17.0,33.0,0.0,0.0,0.0,0
+71016281,Feb-2016,Fully Paid,3025.0,3025.0, 36 months,5.32,91.1,A,A1,47000.0,14.22,10+ years,MORTGAGE,Not Verified,debt_consolidation,GA,Individual,695.0,699.0,Apr-2003,57.1,9.0,17.0,0.0,1.0,1.0,0
+74704709,Mar-2016,Fully Paid,3200.0,3200.0, 36 months,5.32,96.37,A,A1,50000.0,12.48,1 year,MORTGAGE,Not Verified,credit_card,GA,Individual,710.0,714.0,Dec-2002,58.6,15.0,36.0,0.0,0.0,0.0,0
+110796307,Jun-2017,Fully Paid,3200.0,3200.0, 36 months,5.32,96.37,A,A1,42000.0,25.06,< 1 year,MORTGAGE,Not Verified,major_purchase,MI,Individual,800.0,804.0,Dec-2008,0.1,9.0,23.0,0.0,0.0,0.0,0
+97942382,Feb-2017,Fully Paid,3300.0,3300.0, 36 months,5.32,99.38,A,A1,68000.0,10.87,9 years,RENT,Not Verified,credit_card,CA,Individual,745.0,749.0,Aug-2006,8.6,8.0,15.0,0.0,0.0,0.0,0
+107145143,Apr-2017,Fully Paid,3350.0,3350.0, 36 months,5.32,100.89,A,A1,32000.0,25.51,9 years,MORTGAGE,Not Verified,credit_card,AZ,Individual,735.0,739.0,Mar-2007,22.6,15.0,20.0,0.0,0.0,0.0,0
+91773847,Oct-2016,Fully Paid,3500.0,3500.0, 36 months,5.32,105.41,A,A1,56000.0,9.28,10+ years,MORTGAGE,Source Verified,home_improvement,KY,Individual,830.0,834.0,Apr-1994,2.2,16.0,36.0,0.0,0.0,0.0,0
+97277602,Feb-2017,Fully Paid,3500.0,3500.0, 36 months,5.32,105.41,A,A1,49300.0,15.65,,MORTGAGE,Verified,other,MI,Individual,770.0,774.0,Dec-1989,6.5,16.0,34.0,0.0,0.0,0.0,0
+116658477,Aug-2017,Fully Paid,3500.0,3500.0, 36 months,5.32,105.41,A,A1,70000.0,13.58,6 years,MORTGAGE,Source Verified,debt_consolidation,IL,Individual,750.0,754.0,Aug-2000,16.4,13.0,24.0,1.0,0.0,0.0,0
+122322964,Nov-2017,Fully Paid,3500.0,3500.0, 36 months,5.32,105.41,A,A1,34778.0,10.94,1 year,RENT,Not Verified,car,PA,Individual,765.0,769.0,Jan-2009,17.8,13.0,21.0,0.0,0.0,0.0,0
+95654560,Dec-2016,Fully Paid,3500.0,3500.0, 36 months,5.32,105.41,A,A1,50000.0,2.04,10+ years,MORTGAGE,Verified,debt_consolidation,TX,Individual,770.0,774.0,Nov-2004,1.1,7.0,28.0,0.0,0.0,0.0,0
+127214826,Jan-2018,Fully Paid,3500.0,3500.0, 36 months,5.32,105.41,A,A1,53000.0,0.57,10+ years,OWN,Not Verified,moving,FL,Individual,795.0,799.0,Dec-2000,4.4,4.0,10.0,0.0,0.0,0.0,0
+97443187,Jan-2017,Fully Paid,3500.0,3500.0, 36 months,5.32,105.41,A,A1,52000.0,23.98,9 years,MORTGAGE,Not Verified,other,VA,Individual,830.0,834.0,Jan-1997,3.4,9.0,25.0,0.0,0.0,0.0,0
+94066950,Nov-2016,Fully Paid,3600.0,3600.0, 36 months,5.32,108.42,A,A1,48324.0,15.95,10+ years,OWN,Not Verified,credit_card,NC,Individual,760.0,764.0,Jan-1977,19.4,6.0,14.0,0.0,0.0,0.0,0
+118327768,Sep-2017,Fully Paid,3600.0,3600.0, 36 months,5.32,108.42,A,A1,46000.0,26.72,10+ years,OWN,Not Verified,home_improvement,FL,Individual,760.0,764.0,May-1994,4.7,13.0,29.0,1.0,0.0,0.0,0
+115386392,Aug-2017,Fully Paid,3600.0,3600.0, 36 months,5.32,108.42,A,A1,36000.0,17.4,8 years,RENT,Not Verified,debt_consolidation,IL,Individual,730.0,734.0,Mar-1994,19.2,9.0,17.0,0.0,1.0,2.0,0
+77208509,Apr-2016,Fully Paid,3600.0,3600.0, 36 months,5.32,108.42,A,A1,30000.0,22.72,3 years,RENT,Not Verified,debt_consolidation,GA,Individual,800.0,804.0,Oct-2004,8.6,7.0,10.0,0.0,0.0,0.0,0
+102475800,Apr-2017,Fully Paid,3600.0,3600.0, 36 months,5.32,108.42,A,A1,61000.0,7.02,5 years,RENT,Not Verified,credit_card,AZ,Individual,695.0,699.0,Oct-1987,8.0,17.0,38.0,0.0,1.0,0.0,0
+85166334,Jul-2016,Fully Paid,3600.0,3600.0, 36 months,5.32,108.42,A,A1,36000.0,9.13,10+ years,MORTGAGE,Not Verified,debt_consolidation,FL,Individual,790.0,794.0,May-1985,3.9,22.0,35.0,0.0,0.0,0.0,0
+85677107,Aug-2016,Fully Paid,3600.0,3600.0, 36 months,5.32,108.42,A,A1,44000.0,18.46,10+ years,MORTGAGE,Source Verified,credit_card,OK,Individual,715.0,719.0,Sep-1991,29.7,4.0,15.0,0.0,0.0,1.0,0
+117232470,Aug-2017,Fully Paid,3600.0,3600.0, 36 months,5.32,108.42,A,A1,60000.0,12.87,10+ years,RENT,Not Verified,home_improvement,FL,Individual,750.0,754.0,Dec-2006,18.7,19.0,33.0,0.0,0.0,0.0,0
+75169895,Mar-2016,Fully Paid,3625.0,3625.0, 36 months,5.32,109.17,A,A1,80000.0,11.94,9 years,MORTGAGE,Not Verified,debt_consolidation,GA,Individual,705.0,709.0,Nov-1981,23.3,14.0,24.0,0.0,0.0,0.0,0
+99966538,Mar-2017,Fully Paid,3800.0,3800.0, 36 months,5.32,114.44,A,A1,46000.0,10.02,10+ years,MORTGAGE,Not Verified,credit_card,WA,Individual,765.0,769.0,Sep-1994,24.7,12.0,19.0,0.0,0.0,0.0,0
+63458475,Oct-2015,Fully Paid,3850.0,3850.0, 36 months,5.32,115.95,A,A1,54000.0,9.62,4 years,MORTGAGE,Not Verified,credit_card,CO,Individual,710.0,714.0,Feb-2000,25.5,9.0,46.0,0.0,0.0,0.0,0
+97499266,Feb-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,151000.0,11.73,6 years,MORTGAGE,Not Verified,credit_card,HI,Individual,800.0,804.0,Mar-1991,12.1,21.0,42.0,0.0,0.0,0.0,0
+98735721,Feb-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,86000.0,18.83,10+ years,OWN,Not Verified,home_improvement,OH,Individual,745.0,749.0,Mar-2003,9.8,13.0,35.0,0.0,0.0,0.0,0
+128450818,Feb-2018,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,65000.0,5.1,5 years,MORTGAGE,Not Verified,major_purchase,TX,Individual,785.0,789.0,Aug-2006,0.0,5.0,15.0,0.0,0.0,0.0,0
+110669044,Jun-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,72000.0,16.0,10+ years,MORTGAGE,Not Verified,credit_card,AL,Individual,755.0,759.0,Jun-2004,23.6,7.0,20.0,0.0,0.0,0.0,0
+76334530,Apr-2016,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,50000.0,10.08,10+ years,MORTGAGE,Not Verified,home_improvement,FL,Individual,810.0,814.0,Oct-1992,7.8,13.0,27.0,0.0,0.0,1.0,0
+75981421,Mar-2016,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,29000.0,9.71,< 1 year,RENT,Source Verified,debt_consolidation,CA,Individual,705.0,709.0,Jun-2006,39.4,22.0,39.0,0.0,0.0,0.0,0
+74512814,Mar-2016,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,125000.0,9.99,8 years,MORTGAGE,Not Verified,other,MD,Individual,795.0,799.0,Apr-1997,30.3,4.0,12.0,0.0,0.0,0.0,0
+94393982,Dec-2016,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,100000.0,13.54,5 years,RENT,Not Verified,credit_card,CA,Individual,815.0,819.0,Aug-2004,7.4,14.0,25.0,0.0,0.0,0.0,0
+116880615,Aug-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,94000.0,10.28,5 years,MORTGAGE,Verified,debt_consolidation,IL,Individual,810.0,814.0,Feb-2003,0.0,12.0,21.0,0.0,0.0,1.0,0
+127781804,Jan-2018,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,35000.0,3.6,9 years,MORTGAGE,Not Verified,credit_card,GA,Individual,675.0,679.0,Nov-2003,15.3,10.0,15.0,0.0,1.0,1.0,0
+112861068,Jul-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,200000.0,13.8,10+ years,MORTGAGE,Not Verified,debt_consolidation,RI,Individual,740.0,744.0,Sep-1996,42.0,15.0,60.0,0.0,0.0,0.0,0
+77410632,May-2016,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,140000.0,1.91,10+ years,MORTGAGE,Verified,other,NY,Individual,845.0,850.0,Jul-1970,0.8,10.0,32.0,0.0,0.0,0.0,0
+96154184,Jan-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,43534.0,6.51,10+ years,MORTGAGE,Source Verified,home_improvement,AZ,Individual,745.0,749.0,Jun-2004,12.5,11.0,35.0,0.0,0.0,0.0,0
+111885474,Jun-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,65000.0,22.25,5 years,MORTGAGE,Not Verified,home_improvement,MI,Individual,800.0,804.0,Feb-2004,0.0,11.0,25.0,0.0,0.0,0.0,0
+74691605,Mar-2016,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,98000.0,18.9,< 1 year,MORTGAGE,Not Verified,other,TX,Individual,795.0,799.0,Feb-1985,24.5,9.0,35.0,0.0,0.0,0.0,0
+76344830,Apr-2016,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,30720.0,32.42,9 years,MORTGAGE,Not Verified,major_purchase,OK,Individual,795.0,799.0,Oct-2004,4.4,13.0,29.0,0.0,0.0,1.0,0
+122670499,Nov-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,120000.0,6.43,< 1 year,MORTGAGE,Not Verified,other,NJ,Joint App,820.0,824.0,Dec-1978,14.9,9.0,17.0,0.0,0.0,0.0,0
+111050031,Jun-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,60000.0,15.02,1 year,RENT,Not Verified,other,NC,Individual,735.0,739.0,Mar-2005,15.5,11.0,24.0,0.0,0.0,0.0,0
+106366503,Apr-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,100000.0,16.02,2 years,MORTGAGE,Not Verified,other,TX,Individual,735.0,739.0,Aug-2002,14.3,23.0,47.0,1.0,0.0,1.0,0
+77440225,May-2016,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,48000.0,25.2,9 years,MORTGAGE,Source Verified,home_improvement,SC,Individual,730.0,734.0,Sep-2003,0.5,8.0,37.0,0.0,0.0,0.0,0
+103508893,Apr-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,82000.0,4.9,9 years,MORTGAGE,Not Verified,home_improvement,CO,Individual,800.0,804.0,Jul-1996,17.2,3.0,9.0,0.0,0.0,0.0,0
+102386334,Mar-2017,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,88000.0,7.3,10+ years,RENT,Source Verified,renewable_energy,NJ,Individual,710.0,714.0,May-1996,28.7,20.0,33.0,0.0,2.0,0.0,0
+77240298,Apr-2016,Fully Paid,4000.0,4000.0, 36 months,5.32,120.46,A,A1,80000.0,8.01,10+ years,OWN,Not Verified,credit_card,TN,Individual,790.0,794.0,Nov-1996,42.5,9.0,16.0,0.0,0.0,0.0,0
+93413905,Nov-2016,Fully Paid,4200.0,4200.0, 36 months,5.32,126.49,A,A1,70000.0,26.13,< 1 year,OWN,Source Verified,major_purchase,KS,Individual,760.0,764.0,Oct-1999,6.2,12.0,37.0,2.0,0.0,2.0,0
+73439442,Apr-2016,Fully Paid,4200.0,4200.0, 36 months,5.32,126.49,A,A1,36000.0,22.0,3 years,RENT,Not Verified,credit_card,PA,Individual,785.0,789.0,Jul-2006,18.0,10.0,11.0,0.0,0.0,0.0,0
+77537161,Apr-2016,Fully Paid,4200.0,4200.0, 36 months,5.32,126.49,A,A1,65000.0,8.38,10+ years,MORTGAGE,Not Verified,debt_consolidation,NV,Individual,730.0,734.0,Oct-2006,6.0,9.0,18.0,0.0,0.0,2.0,0
+76352870,Apr-2016,Fully Paid,4200.0,4200.0, 36 months,5.32,126.49,A,A1,40000.0,6.45,5 years,MORTGAGE,Not Verified,home_improvement,AL,Individual,725.0,729.0,Aug-2001,0.1,17.0,25.0,0.0,0.0,0.0,0
+107016669,May-2017,Fully Paid,4400.0,4400.0, 36 months,5.32,132.51,A,A1,60000.0,19.66,10+ years,MORTGAGE,Source Verified,credit_card,TX,Individual,725.0,729.0,Aug-1997,23.4,14.0,52.0,1.0,0.0,0.0,0
+92749466,Nov-2016,Fully Paid,4475.0,4475.0, 36 months,5.32,134.77,A,A1,30000.0,8.28,10+ years,RENT,Not Verified,debt_consolidation,VA,Individual,685.0,689.0,Oct-1998,32.1,5.0,12.0,0.0,0.0,0.0,0
+96409266,Jan-2017,Fully Paid,4500.0,4500.0, 36 months,5.32,135.52,A,A1,80000.0,5.14,10+ years,MORTGAGE,Not Verified,debt_consolidation,FL,Individual,730.0,734.0,Jun-1994,45.0,13.0,31.0,0.0,0.0,0.0,0
+49713692,May-2015,Fully Paid,4500.0,4500.0, 36 months,5.32,135.52,A,A1,98000.0,29.8,10+ years,MORTGAGE,Verified,debt_consolidation,FL,Individual,795.0,799.0,Jun-1985,17.3,23.0,34.0,0.0,0.0,0.0,0
+99766680,Feb-2017,Fully Paid,4500.0,4500.0, 36 months,5.32,135.52,A,A1,125000.0,7.4,10+ years,MORTGAGE,Not Verified,medical,PA,Individual,805.0,809.0,Sep-1992,10.5,6.0,20.0,0.0,0.0,0.0,0
+126130212,Dec-2017,Fully Paid,4500.0,4500.0, 36 months,5.32,135.52,A,A1,80000.0,13.98,1 year,RENT,Not Verified,credit_card,PA,Individual,780.0,784.0,Mar-1999,8.6,20.0,34.0,0.0,0.0,0.0,0
+94349049,Dec-2016,Fully Paid,4500.0,4500.0, 36 months,5.32,135.52,A,A1,68000.0,21.85,8 years,RENT,Source Verified,credit_card,KY,Individual,725.0,729.0,Apr-2001,39.3,8.0,24.0,0.0,0.0,0.0,0
+77389953,May-2016,Charged Off,4500.0,4500.0, 36 months,5.32,135.52,A,A1,36000.0,29.29,7 years,RENT,Not Verified,debt_consolidation,FL,Individual,785.0,789.0,Jan-1978,6.0,28.0,48.0,0.0,0.0,0.0,1
+106826301,Apr-2017,Fully Paid,4500.0,4500.0, 36 months,5.32,135.52,A,A1,53000.0,7.56,4 years,RENT,Not Verified,credit_card,KS,Individual,760.0,764.0,Oct-2003,8.6,12.0,39.0,0.0,0.0,0.0,0
+93443649,Nov-2016,Fully Paid,4500.0,4500.0, 36 months,5.32,135.52,A,A1,134000.0,6.64,3 years,RENT,Not Verified,small_business,FL,Individual,700.0,704.0,May-2005,5.2,9.0,16.0,0.0,0.0,0.0,0
+101502889,Mar-2017,Fully Paid,4700.0,4700.0, 36 months,5.32,141.54,A,A1,90000.0,21.01,10+ years,MORTGAGE,Not Verified,home_improvement,NV,Individual,820.0,824.0,Apr-1999,3.2,11.0,21.0,0.0,0.0,0.0,0
+104202452,Apr-2017,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,96762.0,27.22,3 years,MORTGAGE,Source Verified,other,TX,Individual,750.0,754.0,Jan-2004,10.2,16.0,38.0,0.0,0.0,1.0,0
+95262554,Dec-2016,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,105000.0,17.98,8 years,MORTGAGE,Verified,vacation,TX,Individual,770.0,774.0,Mar-1999,16.2,15.0,47.0,1.0,0.0,0.0,0
+108013584,May-2017,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,85000.0,23.15,,MORTGAGE,Not Verified,credit_card,MD,Individual,800.0,804.0,May-1996,15.9,10.0,21.0,0.0,0.0,0.0,0
+50536290,Jun-2015,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,135000.0,18.91,10+ years,MORTGAGE,Not Verified,debt_consolidation,WA,Individual,695.0,699.0,Mar-1996,96.5,11.0,30.0,0.0,0.0,0.0,0
+115414174,Aug-2017,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,62000.0,17.09,10+ years,MORTGAGE,Not Verified,home_improvement,KY,Individual,795.0,799.0,Mar-2003,12.9,14.0,29.0,0.0,0.0,0.0,0
+96888266,Jan-2017,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,65000.0,25.36,3 years,MORTGAGE,Not Verified,debt_consolidation,CO,Individual,785.0,789.0,Aug-2001,10.5,13.0,23.0,0.0,0.0,1.0,0
+104162423,Apr-2017,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,108000.0,8.12,8 years,MORTGAGE,Source Verified,home_improvement,CA,Individual,700.0,704.0,Dec-1990,30.3,6.0,21.0,1.0,0.0,0.0,0
+76648705,Apr-2016,Charged Off,4800.0,4800.0, 36 months,5.32,144.56,A,A1,70000.0,15.57,10+ years,OWN,Not Verified,medical,OK,Individual,805.0,809.0,Oct-1993,7.6,9.0,28.0,0.0,0.0,1.0,1
+107471655,May-2017,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,170000.0,16.96,4 years,MORTGAGE,Source Verified,debt_consolidation,NC,Individual,810.0,814.0,Oct-1982,6.0,23.0,54.0,0.0,0.0,0.0,0
+114222934,Aug-2017,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,43000.0,7.45,8 years,MORTGAGE,Not Verified,debt_consolidation,KS,Individual,760.0,764.0,Feb-1991,5.8,13.0,18.0,0.0,0.0,0.0,0
+76373128,Apr-2016,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,50000.0,6.53,10+ years,MORTGAGE,Not Verified,home_improvement,IN,Individual,740.0,744.0,May-2003,9.6,8.0,17.0,0.0,1.0,0.0,0
+110975690,Jun-2017,Fully Paid,4800.0,4800.0, 36 months,5.32,144.56,A,A1,60000.0,20.3,5 years,MORTGAGE,Not Verified,vacation,FL,Individual,740.0,744.0,Dec-2001,30.6,14.0,27.0,0.0,0.0,1.0,0
+65615341,Nov-2015,Charged Off,4900.0,4900.0, 36 months,5.32,147.57,A,A1,85000.0,21.45,9 years,MORTGAGE,Not Verified,credit_card,AL,Individual,810.0,814.0,Mar-2000,22.4,13.0,32.0,0.0,0.0,0.0,1
+105627187,Apr-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,84000.0,18.13,10+ years,MORTGAGE,Not Verified,debt_consolidation,OK,Individual,745.0,749.0,Feb-2004,25.9,10.0,39.0,0.0,0.0,0.0,0
+60822315,Sep-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,126000.0,6.94,2 years,RENT,Not Verified,debt_consolidation,CA,Individual,810.0,814.0,Nov-1997,11.9,18.0,33.0,0.0,0.0,0.0,0
+71483028,Feb-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,36000.0,8.03,10+ years,OWN,Not Verified,debt_consolidation,IL,Individual,680.0,684.0,Jun-2005,43.5,8.0,19.0,0.0,0.0,0.0,0
+50580859,Jun-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,55000.0,20.86,3 years,MORTGAGE,Not Verified,home_improvement,MI,Individual,730.0,734.0,Jul-2001,31.3,11.0,27.0,0.0,0.0,0.0,0
+67236162,Dec-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,77500.0,17.7,5 years,RENT,Source Verified,debt_consolidation,OR,Individual,685.0,689.0,Dec-1992,23.8,18.0,38.0,0.0,1.0,0.0,0
+111619502,Jun-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,74000.0,29.51,5 years,MORTGAGE,Not Verified,debt_consolidation,VA,Individual,730.0,734.0,Sep-2004,26.7,34.0,47.0,0.0,0.0,1.0,0
+62336749,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,112000.0,15.49,4 years,MORTGAGE,Verified,other,GA,Individual,710.0,714.0,Jun-1983,79.0,20.0,30.0,0.0,0.0,0.0,0
+114178549,Jul-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,53600.0,6.87,10+ years,MORTGAGE,Source Verified,debt_consolidation,WI,Individual,805.0,809.0,May-1993,10.2,11.0,18.0,0.0,0.0,0.0,0
+74633872,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,48000.0,27.4,,OWN,Verified,other,MD,Individual,725.0,729.0,Jan-1983,19.2,13.0,19.0,0.0,1.0,0.0,0
+60971457,Sep-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,160000.0,5.68,< 1 year,MORTGAGE,Source Verified,home_improvement,IN,Individual,690.0,694.0,Jul-1998,0.0,10.0,32.0,0.0,1.0,0.0,0
+55454809,Jul-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,55000.0,22.5,2 years,MORTGAGE,Not Verified,debt_consolidation,SC,Individual,730.0,734.0,Oct-2000,14.7,7.0,17.0,0.0,0.0,0.0,0
+99401190,Feb-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,122000.0,11.48,5 years,MORTGAGE,Source Verified,debt_consolidation,NJ,Individual,695.0,699.0,Oct-2004,5.0,8.0,17.0,2.0,0.0,1.0,0
+74583417,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,45000.0,30.67,2 years,MORTGAGE,Not Verified,debt_consolidation,FL,Individual,790.0,794.0,Dec-2001,44.5,14.0,20.0,0.0,0.0,0.0,0
+74756301,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,57000.0,5.57,< 1 year,RENT,Source Verified,credit_card,NC,Individual,685.0,689.0,Sep-2005,33.9,19.0,37.0,0.0,0.0,1.0,0
+91743133,Oct-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,121000.0,22.63,10+ years,OWN,Source Verified,medical,MI,Individual,720.0,724.0,Jul-1996,101.4,8.0,21.0,0.0,0.0,0.0,0
+76222983,Apr-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,85000.0,13.69,7 years,MORTGAGE,Not Verified,home_improvement,TX,Individual,750.0,754.0,Apr-1985,6.3,14.0,51.0,0.0,0.0,0.0,0
+55218306,Jul-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,86500.0,9.43,8 years,RENT,Not Verified,credit_card,NY,Individual,760.0,764.0,Sep-2000,29.7,7.0,19.0,0.0,0.0,0.0,0
+74695195,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,24060.0,1.8,< 1 year,OWN,Not Verified,major_purchase,NJ,Individual,800.0,804.0,Aug-2006,1.3,2.0,4.0,0.0,0.0,0.0,0
+65284436,Nov-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,56000.0,18.75,8 years,MORTGAGE,Not Verified,credit_card,TX,Individual,795.0,799.0,Apr-2001,7.4,9.0,20.0,0.0,0.0,0.0,0
+66594521,Dec-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,49400.0,8.07,2 years,RENT,Source Verified,debt_consolidation,TX,Individual,695.0,699.0,Nov-2000,63.1,12.0,35.0,0.0,0.0,0.0,0
+89966052,Sep-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,85000.0,1.52,3 years,MORTGAGE,Not Verified,home_improvement,CA,Individual,725.0,729.0,Aug-2007,16.4,9.0,15.0,0.0,0.0,0.0,0
+74766097,Apr-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,70000.0,12.36,10+ years,MORTGAGE,Not Verified,home_improvement,CA,Individual,680.0,684.0,Oct-1989,53.3,9.0,34.0,0.0,3.0,0.0,0
+70952140,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,55000.0,11.35,3 years,MORTGAGE,Not Verified,debt_consolidation,IN,Individual,685.0,689.0,Nov-2000,33.1,8.0,23.0,0.0,6.0,0.0,0
+76205281,Apr-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,95000.0,11.41,10+ years,MORTGAGE,Not Verified,home_improvement,IL,Individual,770.0,774.0,Jun-2002,43.9,6.0,24.0,0.0,0.0,0.0,0
+111591130,Jun-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,45000.0,11.69,3 years,RENT,Not Verified,debt_consolidation,NY,Individual,735.0,739.0,Nov-2003,14.0,21.0,32.0,1.0,1.0,2.0,0
+74595017,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,54000.0,29.42,8 years,OWN,Not Verified,debt_consolidation,OR,Individual,715.0,719.0,Aug-1995,70.7,7.0,16.0,0.0,0.0,0.0,0
+70501779,Jan-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,33000.0,25.42,4 years,MORTGAGE,Not Verified,home_improvement,MS,Individual,715.0,719.0,Jul-1984,17.7,13.0,28.0,0.0,1.0,0.0,0
+56002997,Jul-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,37500.0,15.9,7 years,RENT,Not Verified,debt_consolidation,CA,Individual,740.0,744.0,Oct-2002,16.3,17.0,47.0,0.0,0.0,0.0,0
+60495465,Sep-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,100372.0,5.58,10+ years,MORTGAGE,Verified,debt_consolidation,IL,Individual,805.0,809.0,Jul-1994,0.0,9.0,14.0,0.0,0.0,0.0,0
+70481868,Jan-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,90000.0,20.5,10+ years,MORTGAGE,Source Verified,credit_card,AL,Individual,700.0,704.0,Nov-1981,44.7,20.0,39.0,1.0,0.0,0.0,0
+90396495,Oct-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,30000.0,4.84,10+ years,MORTGAGE,Not Verified,debt_consolidation,GA,Individual,745.0,749.0,Jul-2006,25.2,5.0,12.0,0.0,0.0,1.0,0
+59512651,Sep-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,110000.0,10.09,< 1 year,RENT,Source Verified,debt_consolidation,CA,Individual,835.0,839.0,Jan-2000,0.0,7.0,15.0,0.0,0.0,0.0,0
+60287451,Sep-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,26000.0,23.8,< 1 year,RENT,Not Verified,credit_card,NV,Individual,705.0,709.0,Aug-2009,43.6,7.0,8.0,0.0,0.0,0.0,0
+65592636,Dec-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,76000.0,28.79,1 year,MORTGAGE,Not Verified,home_improvement,IN,Individual,740.0,744.0,Mar-2005,42.8,11.0,28.0,0.0,0.0,0.0,0
+80601367,Jun-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,55000.0,21.16,< 1 year,OWN,Not Verified,debt_consolidation,NJ,Individual,790.0,794.0,Apr-1965,12.9,33.0,54.0,0.0,0.0,1.0,0
+61349743,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,65000.0,12.54,10+ years,MORTGAGE,Not Verified,home_improvement,GA,Individual,755.0,759.0,Apr-2001,18.2,7.0,30.0,0.0,0.0,0.0,0
+80408136,Jun-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,65000.0,24.5,10+ years,MORTGAGE,Source Verified,credit_card,CA,Individual,695.0,699.0,Apr-2003,58.5,15.0,29.0,0.0,0.0,0.0,0
+88024101,Aug-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,85000.0,27.56,9 years,RENT,Source Verified,debt_consolidation,WA,Individual,780.0,784.0,Oct-2002,2.0,19.0,38.0,0.0,0.0,1.0,0
+75923362,May-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,89000.0,17.93,10+ years,RENT,Source Verified,debt_consolidation,AK,Individual,690.0,694.0,Jun-2000,42.3,11.0,25.0,0.0,0.0,3.0,0
+94448998,Dec-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,85000.0,14.58,10+ years,OWN,Not Verified,home_improvement,NJ,Individual,750.0,754.0,Oct-1992,16.8,12.0,28.0,0.0,0.0,1.0,0
+98948255,Feb-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,161000.0,13.09,2 years,OWN,Not Verified,debt_consolidation,TX,Individual,730.0,734.0,Dec-1999,49.3,18.0,34.0,0.0,0.0,0.0,0
+60883513,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,96000.0,17.09,6 years,RENT,Not Verified,credit_card,MA,Individual,795.0,799.0,Dec-1999,9.9,10.0,31.0,0.0,0.0,0.0,0
+74592000,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,18500.0,21.67,7 years,MORTGAGE,Not Verified,debt_consolidation,IN,Individual,775.0,779.0,Oct-1996,19.1,7.0,9.0,0.0,0.0,0.0,0
+64781233,Nov-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,105000.0,5.79,< 1 year,RENT,Not Verified,debt_consolidation,WA,Individual,745.0,749.0,Jan-2002,56.7,3.0,5.0,0.0,0.0,1.0,0
+69623035,Jan-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,45000.0,8.38,4 years,RENT,Not Verified,debt_consolidation,NY,Individual,705.0,709.0,Jul-2002,22.6,8.0,15.0,0.0,0.0,0.0,0
+75133800,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,50000.0,21.36,10+ years,MORTGAGE,Source Verified,credit_card,UT,Individual,700.0,704.0,Oct-1999,48.5,6.0,19.0,0.0,0.0,0.0,0
+62072976,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,45000.0,9.01,,OWN,Source Verified,home_improvement,MO,Individual,800.0,804.0,May-1998,0.1,6.0,8.0,0.0,0.0,0.0,0
+76154101,Apr-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,80000.0,7.58,3 years,OWN,Source Verified,home_improvement,PA,Individual,770.0,774.0,Apr-2005,12.8,8.0,28.0,0.0,0.0,0.0,0
+122331388,Nov-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,21000.0,3.66,,OWN,Not Verified,debt_consolidation,SC,Individual,790.0,794.0,Nov-2003,7.3,4.0,11.0,0.0,0.0,0.0,0
+62305989,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,60000.0,17.44,3 years,OWN,Not Verified,debt_consolidation,TX,Individual,830.0,834.0,Oct-1992,3.1,16.0,35.0,0.0,0.0,0.0,0
+89874330,Sep-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,250000.0,3.75,10+ years,RENT,Source Verified,debt_consolidation,CA,Individual,740.0,744.0,Dec-1996,29.7,9.0,24.0,0.0,3.0,0.0,0
+70153004,Jan-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,56000.0,13.03,10+ years,MORTGAGE,Not Verified,car,MN,Individual,735.0,739.0,Jul-2004,16.8,7.0,17.0,0.0,0.0,0.0,0
+97583593,Feb-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,60000.0,19.98,4 years,MORTGAGE,Not Verified,credit_card,OH,Individual,785.0,789.0,Sep-2002,7.3,13.0,29.0,0.0,0.0,1.0,0
+79955395,Jun-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,75000.0,12.77,10+ years,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,705.0,709.0,Oct-1996,36.1,25.0,46.0,1.0,0.0,0.0,0
+85078427,Jul-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,85000.0,14.44,10+ years,OWN,Not Verified,car,PA,Individual,790.0,794.0,May-1992,10.0,18.0,50.0,0.0,0.0,3.0,0
+5949429,Oct-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,60000.0,4.74,10+ years,MORTGAGE,Not Verified,debt_consolidation,NV,Individual,790.0,794.0,May-2002,5.9,6.0,17.0,0.0,0.0,0.0,0
+61408914,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,40470.0,5.78,8 years,MORTGAGE,Not Verified,debt_consolidation,IL,Individual,680.0,684.0,Feb-1997,61.0,7.0,17.0,0.0,1.0,0.0,0
+78418535,May-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,58500.0,12.47,10+ years,OWN,Not Verified,debt_consolidation,NJ,Individual,750.0,754.0,Mar-2001,4.6,8.0,23.0,0.0,0.0,0.0,0
+72614347,Feb-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,45000.0,11.52,4 years,RENT,Not Verified,major_purchase,OH,Individual,800.0,804.0,Jul-2002,0.4,12.0,23.0,0.0,0.0,1.0,0
+65721381,Dec-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,150000.0,22.76,10+ years,MORTGAGE,Source Verified,debt_consolidation,CA,Individual,720.0,724.0,Dec-1985,74.2,15.0,29.0,0.0,0.0,0.0,0
+53674144,Jul-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,60000.0,13.94,5 years,MORTGAGE,Not Verified,home_improvement,DE,Individual,825.0,829.0,Apr-1999,7.3,9.0,17.0,0.0,0.0,0.0,0
+92246421,Oct-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,44000.0,19.5,10+ years,MORTGAGE,Source Verified,other,AZ,Individual,700.0,704.0,Sep-1988,38.3,8.0,32.0,1.0,0.0,0.0,0
+53744604,Jul-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,102000.0,10.52,2 years,MORTGAGE,Not Verified,credit_card,NY,Individual,815.0,819.0,Oct-1995,3.7,12.0,27.0,0.0,0.0,0.0,0
+97274442,Jan-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,52000.0,10.48,10+ years,MORTGAGE,Not Verified,other,FL,Individual,705.0,709.0,Aug-2003,24.5,11.0,27.0,1.0,0.0,0.0,0
+70791011,Feb-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,41000.0,28.47,,OWN,Not Verified,credit_card,NC,Individual,780.0,784.0,Apr-1985,12.3,27.0,45.0,0.0,0.0,2.0,0
+90191680,Oct-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,100000.0,15.96,10+ years,OWN,Not Verified,credit_card,NE,Individual,795.0,799.0,Nov-1992,14.6,9.0,20.0,0.0,0.0,0.0,0
+109952558,May-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,86162.0,2.46,10+ years,MORTGAGE,Not Verified,home_improvement,OH,Individual,810.0,814.0,Jan-2003,5.8,7.0,16.0,0.0,0.0,0.0,0
+119383243,Sep-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,135000.0,2.03,10+ years,RENT,Not Verified,credit_card,CA,Individual,740.0,744.0,Nov-2005,21.1,7.0,13.0,0.0,0.0,1.0,0
+63447117,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,70000.0,19.1,10+ years,MORTGAGE,Not Verified,credit_card,TN,Individual,775.0,779.0,Jun-2005,19.9,10.0,14.0,0.0,0.0,0.0,0
+74864715,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,92000.0,5.9,8 years,MORTGAGE,Source Verified,major_purchase,MA,Individual,735.0,739.0,Dec-2006,32.3,17.0,30.0,1.0,0.0,0.0,0
+97719445,Feb-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,70000.0,14.01,3 years,MORTGAGE,Not Verified,debt_consolidation,MS,Individual,800.0,804.0,Mar-2003,8.2,12.0,16.0,0.0,0.0,0.0,0
+62824867,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,130000.0,10.87,10+ years,MORTGAGE,Verified,credit_card,VA,Individual,775.0,779.0,Jul-1997,0.0,6.0,23.0,0.0,0.0,0.0,0
+99922642,Mar-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,52000.0,10.06,10+ years,MORTGAGE,Not Verified,car,MN,Individual,705.0,709.0,Jun-2004,68.8,5.0,21.0,0.0,0.0,0.0,0
+74524438,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,90000.0,10.09,< 1 year,MORTGAGE,Not Verified,debt_consolidation,CO,Individual,760.0,764.0,Apr-2002,49.4,8.0,20.0,0.0,0.0,0.0,0
+73915065,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,186000.0,15.54,10+ years,MORTGAGE,Source Verified,home_improvement,IL,Individual,745.0,749.0,Dec-1998,28.3,18.0,39.0,0.0,0.0,1.0,0
+60904372,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,95000.0,7.12,5 years,RENT,Not Verified,other,WA,Individual,720.0,724.0,May-2008,5.8,8.0,11.0,0.0,0.0,1.0,0
+61320447,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,45000.0,6.53,1 year,RENT,Not Verified,credit_card,LA,Individual,765.0,769.0,Mar-2003,14.0,10.0,24.0,0.0,0.0,0.0,0
+60900137,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,93000.0,23.06,8 years,MORTGAGE,Source Verified,home_improvement,CO,Individual,700.0,704.0,Nov-1998,33.8,29.0,53.0,0.0,0.0,2.0,0
+81331961,Jun-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,144000.0,14.58,10+ years,MORTGAGE,Source Verified,credit_card,NV,Individual,690.0,694.0,Sep-2005,59.5,11.0,20.0,0.0,0.0,0.0,0
+96394090,Jan-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,120000.0,10.82,7 years,MORTGAGE,Not Verified,credit_card,CA,Individual,815.0,819.0,May-1985,11.7,6.0,21.0,0.0,0.0,0.0,0
+106495571,Apr-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,58000.0,19.84,2 years,MORTGAGE,Not Verified,credit_card,FL,Individual,745.0,749.0,Jan-1999,16.0,18.0,35.0,0.0,0.0,0.0,0
+73241929,Feb-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,54804.0,23.29,10+ years,MORTGAGE,Not Verified,home_improvement,FL,Individual,770.0,774.0,Oct-1993,42.5,9.0,24.0,0.0,0.0,0.0,0
+77401426,May-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,42000.0,29.97,5 years,MORTGAGE,Not Verified,credit_card,UT,Individual,695.0,699.0,Oct-1997,23.4,12.0,31.0,0.0,0.0,0.0,0
+59371806,Sep-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,80000.0,8.09,,MORTGAGE,Not Verified,home_improvement,FL,Individual,710.0,714.0,Aug-1992,16.1,6.0,17.0,1.0,0.0,0.0,0
+91467988,Oct-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,110000.0,17.23,10+ years,MORTGAGE,Not Verified,other,NY,Individual,705.0,709.0,Jan-1993,37.3,17.0,33.0,0.0,0.0,0.0,0
+60517520,Sep-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,85000.0,2.85,8 years,MORTGAGE,Not Verified,home_improvement,CA,Individual,745.0,749.0,Oct-2009,16.1,14.0,20.0,0.0,0.0,1.0,0
+49623224,May-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,79500.0,14.28,3 years,RENT,Not Verified,major_purchase,TX,Individual,760.0,764.0,Nov-1979,7.6,17.0,24.0,0.0,0.0,0.0,0
+115372157,Aug-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,30000.0,18.2,10+ years,MORTGAGE,Verified,credit_card,WA,Individual,740.0,744.0,Aug-2005,19.2,10.0,18.0,0.0,1.0,1.0,0
+63487550,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,40000.0,19.95,5 years,MORTGAGE,Source Verified,credit_card,TN,Individual,680.0,684.0,Jul-2008,57.1,9.0,11.0,0.0,0.0,0.0,0
+61513650,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,82000.0,6.36,10+ years,MORTGAGE,Source Verified,debt_consolidation,CA,Individual,825.0,829.0,Jul-1987,14.0,6.0,14.0,0.0,0.0,0.0,0
+70246247,Jan-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,50000.0,4.13,10+ years,RENT,Source Verified,credit_card,VA,Individual,700.0,704.0,Feb-2005,21.0,8.0,14.0,0.0,0.0,0.0,0
+77440710,May-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,75000.0,10.61,9 years,MORTGAGE,Not Verified,home_improvement,PA,Individual,685.0,689.0,Oct-2000,8.9,12.0,16.0,0.0,0.0,0.0,0
+68368594,Jan-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,57000.0,14.25,5 years,MORTGAGE,Source Verified,debt_consolidation,PA,Individual,720.0,724.0,Sep-1995,29.0,14.0,42.0,0.0,0.0,0.0,0
+83867552,Jun-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,40000.0,21.6,6 years,MORTGAGE,Source Verified,major_purchase,MI,Individual,755.0,759.0,Dec-2001,7.4,15.0,29.0,0.0,0.0,1.0,0
+103739612,Mar-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,130000.0,6.95,10+ years,MORTGAGE,Not Verified,credit_card,FL,Individual,840.0,844.0,Sep-1997,6.0,11.0,24.0,0.0,0.0,0.0,0
+120657524,Oct-2017,Charged Off,5000.0,5000.0, 36 months,5.32,150.58,A,A1,30000.0,27.65,< 1 year,MORTGAGE,Not Verified,other,FL,Individual,775.0,779.0,Mar-1980,11.1,20.0,43.0,0.0,0.0,0.0,1
+74984577,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,35000.0,20.95,3 years,OWN,Not Verified,debt_consolidation,NJ,Individual,760.0,764.0,Feb-2002,17.3,13.0,25.0,0.0,0.0,0.0,0
+75868383,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,70000.0,6.41,5 years,RENT,Not Verified,credit_card,CA,Individual,690.0,694.0,Jun-1984,21.9,7.0,14.0,0.0,0.0,0.0,0
+63348870,Oct-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,65000.0,28.43,6 years,OWN,Not Verified,other,GA,Individual,760.0,764.0,Mar-1987,9.4,11.0,18.0,0.0,2.0,1.0,0
+74663235,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,49000.0,16.78,3 years,MORTGAGE,Not Verified,home_improvement,NJ,Individual,720.0,724.0,Jan-2008,47.7,6.0,13.0,0.0,0.0,0.0,0
+88056971,Aug-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,60000.0,16.68,10+ years,MORTGAGE,Not Verified,credit_card,PA,Individual,805.0,809.0,Oct-2002,11.3,10.0,24.0,0.0,0.0,0.0,0
+91464469,Oct-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,30000.0,12.88,10+ years,OWN,Not Verified,credit_card,PA,Individual,700.0,704.0,Mar-2007,20.0,19.0,27.0,0.0,0.0,0.0,0
+75778639,Mar-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,40000.0,1.89,< 1 year,RENT,Not Verified,debt_consolidation,FL,Individual,780.0,784.0,Dec-2000,12.3,4.0,5.0,0.0,0.0,0.0,0
+66035913,Dec-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,70000.0,1.03,5 years,MORTGAGE,Verified,debt_consolidation,NC,Individual,735.0,739.0,Feb-2003,2.8,3.0,22.0,0.0,0.0,0.0,0
+121263645,Oct-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,65000.0,5.56,2 years,RENT,Not Verified,credit_card,GA,Individual,660.0,664.0,Jan-2008,22.0,6.0,10.0,2.0,0.0,1.0,0
+55210759,Jul-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,39800.0,19.15,,MORTGAGE,Source Verified,credit_card,TX,Individual,745.0,749.0,Oct-1995,19.1,10.0,35.0,0.0,0.0,0.0,0
+76215921,Apr-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,150000.0,8.45,< 1 year,RENT,Source Verified,major_purchase,CA,Individual,685.0,689.0,Mar-2002,74.8,6.0,14.0,0.0,0.0,0.0,0
+72662589,Feb-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,40000.0,17.49,5 years,OWN,Source Verified,credit_card,MO,Individual,685.0,689.0,Nov-2004,39.0,11.0,18.0,0.0,0.0,1.0,0
+70922958,Feb-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,250000.0,7.52,10+ years,MORTGAGE,Source Verified,small_business,OH,Individual,725.0,729.0,Jan-1987,47.1,17.0,42.0,1.0,0.0,1.0,0
+67185138,Dec-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,40500.0,14.04,2 years,RENT,Source Verified,credit_card,CA,Individual,685.0,689.0,Sep-2005,76.3,11.0,43.0,0.0,0.0,0.0,0
+68453499,Dec-2015,Charged Off,5000.0,5000.0, 36 months,5.32,150.58,A,A1,55000.0,9.3,6 years,MORTGAGE,Source Verified,credit_card,NY,Individual,690.0,694.0,Oct-1984,62.3,5.0,18.0,0.0,2.0,0.0,1
+65885935,Dec-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,60000.0,10.92,,RENT,Verified,home_improvement,WA,Individual,705.0,709.0,Aug-2001,18.7,5.0,21.0,0.0,0.0,0.0,0
+55979180,Jul-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,86000.0,19.45,< 1 year,MORTGAGE,Not Verified,credit_card,OK,Individual,760.0,764.0,Sep-1999,14.0,18.0,32.0,0.0,0.0,2.0,0
+71662956,Feb-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,84000.0,25.13,2 years,MORTGAGE,Not Verified,other,PA,Individual,805.0,809.0,Jan-1998,4.8,18.0,30.0,0.0,0.0,0.0,0
+64340804,Nov-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,75000.0,19.91,2 years,MORTGAGE,Not Verified,home_improvement,NJ,Individual,790.0,794.0,Aug-2000,16.5,15.0,35.0,0.0,0.0,0.0,0
+68414882,Dec-2015,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,90000.0,4.38,10+ years,MORTGAGE,Not Verified,home_improvement,GA,Individual,795.0,799.0,Sep-2002,6.6,17.0,41.0,0.0,0.0,0.0,0
+85087370,Jul-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,135000.0,11.08,4 years,MORTGAGE,Not Verified,credit_card,NJ,Individual,720.0,724.0,Dec-2004,29.6,9.0,14.0,0.0,0.0,0.0,0
+125198155,Dec-2017,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,70000.0,13.28,3 years,RENT,Source Verified,medical,AZ,Individual,830.0,834.0,Aug-2001,0.9,6.0,30.0,0.0,0.0,0.0,0
+76342369,Apr-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,125000.0,11.14,2 years,MORTGAGE,Not Verified,credit_card,MO,Individual,730.0,734.0,Mar-2004,11.1,30.0,72.0,1.0,0.0,0.0,0
+81353402,Jun-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,55000.0,7.72,10+ years,RENT,Source Verified,house,CA,Individual,800.0,804.0,Feb-1999,2.3,9.0,19.0,0.0,0.0,0.0,0
+72745402,Feb-2016,Fully Paid,5000.0,5000.0, 36 months,5.32,150.58,A,A1,80000.0,20.08,10+ years,RENT,Not Verified,other,CA,Individual,740.0,744.0,Oct-2003,22.4,10.0,17.0,0.0,0.0,0.0,0
+111839249,Jul-2017,Fully Paid,5125.0,5125.0, 36 months,5.32,154.34,A,A1,64000.0,3.09,10+ years,MORTGAGE,Not Verified,credit_card,OH,Individual,725.0,729.0,Aug-2001,15.8,5.0,9.0,0.0,0.0,0.0,0
+113044514,Jul-2017,Fully Paid,5200.0,5200.0, 36 months,5.32,156.6,A,A1,85000.0,17.02,5 years,RENT,Not Verified,credit_card,TX,Individual,765.0,769.0,Feb-2002,20.9,14.0,22.0,0.0,0.0,0.0,0
+70581897,Feb-2016,Fully Paid,5200.0,5200.0, 36 months,5.32,156.6,A,A1,85000.0,12.59,,MORTGAGE,Verified,credit_card,FL,Individual,715.0,719.0,Jan-2001,32.7,13.0,19.0,2.0,0.0,3.0,0
+94220956,Dec-2016,Fully Paid,5200.0,5200.0, 36 months,5.32,156.6,A,A1,42000.0,12.02,6 years,OWN,Not Verified,major_purchase,GA,Individual,785.0,789.0,Dec-2004,10.8,13.0,18.0,0.0,0.0,0.0,0
+96083335,Jan-2017,Fully Paid,5200.0,5200.0, 36 months,5.32,156.6,A,A1,52000.0,9.49,9 years,RENT,Not Verified,credit_card,OR,Individual,770.0,774.0,Jun-2005,18.8,8.0,15.0,0.0,0.0,1.0,0
+62529705,Oct-2015,Fully Paid,5200.0,5200.0, 36 months,5.32,156.6,A,A1,47000.0,7.06,6 years,MORTGAGE,Source Verified,home_improvement,TX,Individual,735.0,739.0,Jun-1989,7.5,7.0,21.0,0.0,0.0,0.0,0
+74513476,Mar-2016,Fully Paid,5200.0,5200.0, 36 months,5.32,156.6,A,A1,54000.0,25.66,3 years,RENT,Source Verified,credit_card,NJ,Individual,775.0,779.0,Jan-1980,34.0,8.0,9.0,0.0,0.0,0.0,0
+59432619,Sep-2015,Fully Paid,5275.0,5275.0, 36 months,5.32,158.86,A,A1,33000.0,12.33,< 1 year,RENT,Source Verified,credit_card,MD,Individual,690.0,694.0,Jul-2008,49.9,7.0,10.0,0.0,0.0,0.0,0
+75295565,Apr-2016,Fully Paid,5300.0,5300.0, 36 months,5.32,159.61,A,A1,65000.0,11.96,7 years,RENT,Source Verified,credit_card,IL,Individual,685.0,689.0,May-2002,86.6,5.0,12.0,0.0,0.0,0.0,0
+68577205,Dec-2015,Fully Paid,5400.0,5400.0, 36 months,5.32,162.62,A,A1,41000.0,26.23,2 years,RENT,Not Verified,credit_card,MA,Individual,770.0,774.0,Nov-1986,3.9,10.0,29.0,0.0,0.0,0.0,0
+57834536,Aug-2015,Fully Paid,5400.0,5400.0, 36 months,5.32,162.62,A,A1,60000.0,26.78,4 years,MORTGAGE,Source Verified,debt_consolidation,MI,Individual,695.0,699.0,Jan-2006,13.8,14.0,56.0,0.0,1.0,0.0,0
+55918207,Aug-2015,Fully Paid,5400.0,5400.0, 36 months,5.32,162.62,A,A1,65000.0,15.12,2 years,MORTGAGE,Source Verified,credit_card,TX,Individual,795.0,799.0,Mar-1998,28.4,6.0,17.0,0.0,0.0,0.0,0
+70131079,Jan-2016,Fully Paid,5450.0,5450.0, 36 months,5.32,164.13,A,A1,65000.0,9.97,3 years,RENT,Verified,debt_consolidation,NY,Individual,705.0,709.0,Nov-2006,23.9,8.0,16.0,0.0,0.0,0.0,0
+58061233,Aug-2015,Fully Paid,5500.0,5500.0, 36 months,5.32,165.64,A,A1,50000.0,11.14,9 years,MORTGAGE,Not Verified,credit_card,AZ,Individual,800.0,804.0,Aug-1997,1.0,10.0,26.0,0.0,0.0,1.0,0
+68616926,Jan-2016,Charged Off,5500.0,5500.0, 36 months,5.32,165.64,A,A1,63000.0,25.14,10+ years,MORTGAGE,Not Verified,home_improvement,MS,Individual,760.0,764.0,Jun-2004,28.9,20.0,38.0,0.0,0.0,0.0,1
+125795369,Dec-2017,Fully Paid,5500.0,5500.0, 36 months,5.32,165.64,A,A1,80000.0,13.86,7 years,MORTGAGE,Not Verified,credit_card,WI,Individual,770.0,774.0,Sep-2003,21.1,6.0,13.0,0.0,0.0,0.0,0
+68905780,Jan-2016,Fully Paid,5500.0,5500.0, 36 months,5.32,165.64,A,A1,55000.0,27.32,1 year,RENT,Not Verified,credit_card,TX,Individual,765.0,769.0,Aug-2005,39.3,10.0,23.0,0.0,0.0,0.0,0
+72596055,Feb-2016,Fully Paid,5500.0,5500.0, 36 months,5.32,165.64,A,A1,76000.0,12.1,2 years,OWN,Not Verified,debt_consolidation,AL,Individual,680.0,684.0,Apr-1989,45.6,26.0,66.0,0.0,1.0,1.0,0
+77446508,Apr-2016,Fully Paid,5500.0,5500.0, 36 months,5.32,165.64,A,A1,90000.0,8.53,3 years,MORTGAGE,Source Verified,car,TX,Individual,680.0,684.0,May-1987,62.9,6.0,12.0,0.0,0.0,0.0,0
+85570387,Jul-2016,Fully Paid,5500.0,5500.0, 36 months,5.32,165.64,A,A1,85000.0,4.42,10+ years,MORTGAGE,Source Verified,credit_card,MA,Individual,690.0,694.0,Jun-2005,52.3,8.0,16.0,1.0,0.0,0.0,0
+61463622,Oct-2015,Fully Paid,5500.0,5500.0, 36 months,5.32,165.64,A,A1,48000.0,6.2,,RENT,Not Verified,debt_consolidation,VA,Individual,795.0,799.0,Jul-1999,6.4,11.0,23.0,0.0,0.0,0.0,0
+75888546,Mar-2016,Fully Paid,5500.0,5500.0, 36 months,5.32,165.64,A,A1,80000.0,6.38,10+ years,MORTGAGE,Not Verified,home_improvement,SC,Individual,750.0,754.0,Nov-2003,22.6,17.0,32.0,0.0,0.0,0.0,0
+91199549,Oct-2016,Fully Paid,5600.0,5600.0, 36 months,5.32,168.65,A,A1,60000.0,11.27,4 years,RENT,Not Verified,debt_consolidation,NC,Individual,755.0,759.0,Aug-2007,9.0,8.0,20.0,0.0,0.0,0.0,0
+76203082,Apr-2016,Fully Paid,5600.0,5600.0, 36 months,5.32,168.65,A,A1,60000.0,19.8,5 years,RENT,Verified,debt_consolidation,KY,Individual,720.0,724.0,Oct-1999,27.2,13.0,39.0,2.0,0.0,0.0,0
+61449481,Oct-2015,Fully Paid,5600.0,5600.0, 36 months,5.32,168.65,A,A1,110000.0,19.1,2 years,RENT,Not Verified,debt_consolidation,CA,Individual,775.0,779.0,Oct-1995,6.7,16.0,25.0,0.0,0.0,0.0,0
+123336289,Dec-2017,Fully Paid,5600.0,5600.0, 36 months,5.32,168.65,A,A1,95000.0,11.91,10+ years,RENT,Not Verified,credit_card,NJ,Individual,750.0,754.0,Mar-2004,14.2,15.0,38.0,0.0,0.0,0.0,0
+100011521,Mar-2017,Fully Paid,5600.0,5600.0, 36 months,5.32,168.65,A,A1,47000.0,21.3,10+ years,MORTGAGE,Not Verified,home_improvement,MA,Individual,750.0,754.0,Oct-1996,34.8,13.0,34.0,0.0,2.0,0.0,0
+93742687,Nov-2016,Fully Paid,5600.0,5600.0, 36 months,5.32,168.65,A,A1,47000.0,23.98,8 years,MORTGAGE,Not Verified,home_improvement,IL,Individual,785.0,789.0,Mar-1975,11.8,11.0,17.0,0.0,0.0,0.0,0
+115413465,Aug-2017,Fully Paid,5600.0,5600.0, 36 months,5.32,168.65,A,A1,60000.0,8.28,10+ years,MORTGAGE,Not Verified,debt_consolidation,NY,Individual,785.0,789.0,Apr-2000,6.1,14.0,38.0,0.0,0.0,0.0,0
+55453004,Jul-2015,Fully Paid,5650.0,5650.0, 36 months,5.32,170.15,A,A1,43000.0,13.3,,MORTGAGE,Verified,credit_card,VA,Individual,800.0,804.0,Aug-1994,18.3,10.0,28.0,0.0,0.0,0.0,0
+66511247,Dec-2015,Fully Paid,5700.0,5700.0, 36 months,5.32,171.66,A,A1,62000.0,14.17,9 years,MORTGAGE,Not Verified,credit_card,NY,Individual,705.0,709.0,Apr-2005,76.1,5.0,13.0,0.0,0.0,0.0,0
+61692298,Oct-2015,Fully Paid,5800.0,5800.0, 36 months,5.32,174.67,A,A1,60000.0,19.02,10+ years,MORTGAGE,Source Verified,credit_card,IN,Individual,700.0,704.0,Dec-1996,51.5,9.0,17.0,0.0,0.0,0.0,0
+59391665,Sep-2015,Fully Paid,5800.0,5800.0, 36 months,5.32,174.67,A,A1,73500.0,7.28,7 years,MORTGAGE,Not Verified,other,RI,Individual,820.0,824.0,Dec-2001,14.5,8.0,11.0,0.0,0.0,0.0,0
+73864791,Mar-2016,Fully Paid,5900.0,5900.0, 36 months,5.32,177.68,A,A1,100000.0,8.21,3 years,MORTGAGE,Not Verified,debt_consolidation,NH,Individual,810.0,814.0,Dec-1998,5.6,22.0,35.0,0.0,0.0,0.0,0
+102321501,Mar-2017,Fully Paid,5900.0,5900.0, 36 months,5.32,177.68,A,A1,44997.0,4.53,,MORTGAGE,Not Verified,credit_card,NY,Individual,755.0,759.0,Jun-2002,15.0,16.0,34.0,0.0,0.0,1.0,0
+102754186,Mar-2017,Fully Paid,5900.0,5900.0, 36 months,5.32,177.68,A,A1,120000.0,8.2,6 years,MORTGAGE,Source Verified,debt_consolidation,TX,Individual,755.0,759.0,Feb-2006,30.7,7.0,13.0,0.0,0.0,0.0,0
+77099589,Apr-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,77500.0,22.7,10+ years,OWN,Not Verified,debt_consolidation,TX,Individual,705.0,709.0,Nov-2000,92.6,6.0,10.0,1.0,0.0,0.0,0
+77480964,May-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,38000.0,4.71,2 years,RENT,Source Verified,debt_consolidation,CA,Individual,770.0,774.0,Aug-2003,16.5,6.0,11.0,0.0,0.0,0.0,0
+76215699,Apr-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,85000.0,12.25,,MORTGAGE,Not Verified,other,IN,Individual,775.0,779.0,Nov-1990,16.1,18.0,46.0,0.0,0.0,3.0,0
+63216680,Oct-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,48000.0,8.73,4 years,MORTGAGE,Not Verified,debt_consolidation,VA,Individual,740.0,744.0,Feb-2004,16.8,21.0,30.0,0.0,0.0,0.0,0
+76262351,Apr-2016,Charged Off,6000.0,6000.0, 36 months,5.32,180.69,A,A1,20500.0,29.39,,RENT,Verified,debt_consolidation,IL,Individual,745.0,749.0,Jun-1995,39.0,10.0,14.0,0.0,0.0,0.0,1
+68599803,Jan-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,90000.0,6.57,10+ years,RENT,Not Verified,debt_consolidation,CA,Individual,795.0,799.0,Apr-1989,12.5,9.0,22.0,0.0,0.0,0.0,0
+50536656,May-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,44500.0,13.59,9 years,RENT,Source Verified,credit_card,TX,Individual,805.0,809.0,May-2001,0.7,4.0,12.0,0.0,0.0,0.0,0
+67645219,Jan-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,98000.0,10.57,< 1 year,RENT,Not Verified,debt_consolidation,GA,Individual,715.0,719.0,Oct-2001,26.3,14.0,31.0,0.0,0.0,1.0,0
+121286784,Oct-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,69000.0,10.91,6 years,MORTGAGE,Not Verified,major_purchase,WI,Individual,785.0,789.0,Aug-2005,17.5,8.0,29.0,0.0,0.0,0.0,0
+65671597,Nov-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,90000.0,23.87,5 years,RENT,Not Verified,credit_card,NY,Individual,720.0,724.0,Jan-1986,39.7,17.0,25.0,0.0,0.0,0.0,0
+114779253,Aug-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,85000.0,26.36,9 years,MORTGAGE,Source Verified,home_improvement,LA,Individual,780.0,784.0,Feb-1995,5.3,8.0,25.0,1.0,0.0,0.0,0
+87155060,Sep-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,57000.0,25.89,5 years,MORTGAGE,Not Verified,home_improvement,FL,Individual,790.0,794.0,Apr-2001,9.4,10.0,26.0,0.0,0.0,0.0,0
+71805027,Feb-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,75000.0,14.42,1 year,MORTGAGE,Not Verified,car,RI,Individual,755.0,759.0,Jul-1998,18.5,15.0,34.0,0.0,0.0,0.0,0
+63215824,Oct-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,30000.0,22.2,2 years,RENT,Not Verified,credit_card,MN,Individual,715.0,719.0,Aug-2007,47.5,17.0,29.0,0.0,0.0,0.0,0
+57813147,Aug-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,80000.0,6.93,10+ years,MORTGAGE,Source Verified,debt_consolidation,OR,Individual,685.0,689.0,Sep-1991,47.8,7.0,23.0,0.0,0.0,0.0,0
+50596898,May-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,145000.0,4.85,2 years,MORTGAGE,Verified,credit_card,KS,Individual,685.0,689.0,Sep-2004,88.0,12.0,23.0,0.0,0.0,0.0,0
+106406171,May-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,75000.0,13.92,1 year,RENT,Not Verified,debt_consolidation,TN,Individual,725.0,729.0,Jan-2012,6.3,11.0,15.0,0.0,1.0,0.0,0
+54393571,Jul-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,150000.0,5.84,5 years,OWN,Source Verified,credit_card,AZ,Individual,800.0,804.0,Feb-1987,15.7,8.0,11.0,0.0,0.0,1.0,0
+73834583,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,45000.0,2.27,10+ years,MORTGAGE,Source Verified,small_business,MI,Individual,730.0,734.0,Apr-1986,2.1,10.0,23.0,0.0,0.0,0.0,0
+61379787,Oct-2015,Charged Off,6000.0,6000.0, 36 months,5.32,180.69,A,A1,36000.0,22.83,3 years,RENT,Not Verified,debt_consolidation,FL,Individual,775.0,779.0,Mar-2003,14.6,7.0,20.0,0.0,0.0,0.0,1
+101502204,Mar-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,55864.0,17.49,,MORTGAGE,Not Verified,debt_consolidation,SC,Joint App,705.0,709.0,Apr-1988,38.0,9.0,53.0,0.0,0.0,0.0,0
+69664119,Jan-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,7.32,2 years,RENT,Source Verified,credit_card,HI,Individual,765.0,769.0,Mar-2007,8.1,11.0,19.0,0.0,0.0,0.0,0
+75183583,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,17.4,9 years,RENT,Source Verified,debt_consolidation,NY,Individual,755.0,759.0,Oct-1988,20.2,13.0,29.0,0.0,0.0,1.0,0
+73823393,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,73000.0,13.51,1 year,RENT,Source Verified,credit_card,NJ,Individual,775.0,779.0,Nov-2009,24.1,9.0,10.0,0.0,0.0,0.0,0
+94259062,Nov-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,75000.0,20.21,6 years,MORTGAGE,Not Verified,credit_card,TX,Individual,720.0,724.0,Sep-1999,23.4,8.0,20.0,0.0,0.0,0.0,0
+119831668,Oct-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,84000.0,1.98,4 years,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,745.0,749.0,Jun-2006,4.8,13.0,26.0,0.0,0.0,0.0,0
+105537141,Apr-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,75000.0,18.7,3 years,RENT,Not Verified,debt_consolidation,NJ,Individual,725.0,729.0,May-2010,19.9,12.0,18.0,0.0,0.0,0.0,0
+73499010,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,14.09,10+ years,RENT,Not Verified,debt_consolidation,CA,Individual,730.0,734.0,Jan-2002,22.0,10.0,19.0,1.0,0.0,0.0,0
+73419227,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,102000.0,5.71,,MORTGAGE,Not Verified,home_improvement,NY,Individual,780.0,784.0,Aug-2004,23.5,6.0,13.0,0.0,0.0,0.0,0
+63438902,Oct-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,78500.0,17.5,8 years,MORTGAGE,Not Verified,credit_card,IL,Individual,720.0,724.0,Oct-1994,40.1,10.0,32.0,0.0,0.0,0.0,0
+51055235,Jun-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,44000.0,18.09,1 year,OWN,Source Verified,credit_card,WA,Individual,675.0,679.0,Nov-2001,35.6,20.0,40.0,0.0,3.0,0.0,0
+51827512,Jun-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,60000.0,13.84,7 years,MORTGAGE,Not Verified,credit_card,CA,Individual,710.0,714.0,Mar-2004,31.2,8.0,20.0,0.0,1.0,0.0,0
+106797131,May-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,155000.0,3.25,,MORTGAGE,Not Verified,car,FL,Individual,830.0,834.0,Dec-2000,0.6,20.0,76.0,0.0,0.0,0.0,0
+70080248,Jan-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,47000.0,16.96,3 years,OWN,Not Verified,debt_consolidation,CA,Individual,795.0,799.0,Jul-1991,22.9,18.0,42.0,0.0,0.0,1.0,0
+76022686,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,58000.0,31.19,10+ years,MORTGAGE,Not Verified,credit_card,MD,Individual,680.0,684.0,Mar-2007,12.7,13.0,35.0,1.0,0.0,0.0,0
+51506125,Jun-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,78000.0,12.45,3 years,MORTGAGE,Source Verified,credit_card,MN,Individual,775.0,779.0,Apr-1997,35.2,10.0,15.0,0.0,0.0,0.0,0
+126367589,Dec-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,42000.0,4.06,1 year,MORTGAGE,Not Verified,debt_consolidation,SC,Individual,830.0,834.0,Jan-1989,14.4,5.0,10.0,0.0,0.0,0.0,0
+87155028,Aug-2016,Charged Off,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,3.1,2 years,MORTGAGE,Source Verified,debt_consolidation,NV,Individual,705.0,709.0,Aug-2002,12.8,12.0,24.0,0.0,0.0,1.0,1
+77665257,May-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,82440.0,10.42,10+ years,RENT,Not Verified,credit_card,CA,Individual,745.0,749.0,Mar-1975,13.4,19.0,41.0,0.0,0.0,1.0,0
+116128942,Aug-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,90000.0,10.51,7 years,OWN,Source Verified,credit_card,OH,Individual,745.0,749.0,Oct-2004,57.4,9.0,26.0,0.0,0.0,0.0,0
+95417599,Dec-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,82800.0,15.41,10+ years,MORTGAGE,Not Verified,debt_consolidation,LA,Individual,715.0,719.0,Jul-1997,64.5,6.0,21.0,0.0,0.0,0.0,0
+75849040,Apr-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,37000.0,20.86,10+ years,MORTGAGE,Not Verified,debt_consolidation,FL,Individual,685.0,689.0,Aug-1992,19.0,11.0,24.0,0.0,1.0,0.0,0
+75487212,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,52000.0,18.58,10+ years,MORTGAGE,Source Verified,debt_consolidation,LA,Individual,715.0,719.0,Feb-1980,29.2,13.0,38.0,0.0,0.0,0.0,0
+66640156,Dec-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,100000.0,17.7,10+ years,OWN,Source Verified,home_improvement,FL,Individual,830.0,834.0,Dec-1990,0.2,12.0,32.0,0.0,0.0,0.0,0
+115087526,Aug-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,172150.0,21.52,2 years,MORTGAGE,Source Verified,moving,CA,Individual,740.0,744.0,Feb-1996,28.2,24.0,38.0,0.0,0.0,0.0,0
+125262730,Dec-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,95000.0,8.98,9 years,RENT,Source Verified,other,NY,Individual,710.0,714.0,Jan-2006,8.8,27.0,42.0,0.0,0.0,0.0,0
+99963174,Mar-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,13.94,,MORTGAGE,Not Verified,debt_consolidation,FL,Individual,800.0,804.0,Mar-1977,7.7,20.0,42.0,0.0,0.0,1.0,0
+110727473,Jun-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,61000.0,14.38,4 years,OWN,Not Verified,credit_card,ID,Individual,750.0,754.0,Oct-1998,36.4,6.0,13.0,0.0,0.0,0.0,0
+113201279,Aug-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,76800.0,17.17,1 year,MORTGAGE,Source Verified,car,GA,Individual,790.0,794.0,Jul-1998,6.9,25.0,46.0,0.0,0.0,0.0,0
+104381155,Apr-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,63000.0,14.78,8 years,MORTGAGE,Source Verified,credit_card,AZ,Individual,715.0,719.0,Mar-2008,15.8,10.0,17.0,0.0,0.0,0.0,0
+55481923,Jul-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,117000.0,20.6,10+ years,MORTGAGE,Source Verified,credit_card,MD,Individual,715.0,719.0,Aug-2000,30.3,11.0,33.0,1.0,0.0,0.0,0
+98928839,Mar-2017,Charged Off,6000.0,6000.0, 36 months,5.32,180.69,A,A1,36600.0,11.09,,MORTGAGE,Not Verified,home_improvement,OH,Individual,745.0,749.0,Jul-2006,10.1,13.0,23.0,0.0,0.0,2.0,1
+68608903,Jan-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,39000.0,10.63,10+ years,OWN,Source Verified,debt_consolidation,TX,Individual,805.0,809.0,Feb-1994,7.4,18.0,22.0,0.0,0.0,0.0,0
+74672643,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,47000.0,27.37,1 year,MORTGAGE,Not Verified,credit_card,MO,Individual,730.0,734.0,Aug-2006,29.7,23.0,60.0,0.0,0.0,0.0,0
+61498621,Oct-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,72000.0,8.73,8 years,MORTGAGE,Not Verified,debt_consolidation,MI,Individual,835.0,839.0,Jul-1986,17.1,23.0,36.0,0.0,0.0,0.0,0
+78428502,May-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,150000.0,21.44,10+ years,MORTGAGE,Not Verified,debt_consolidation,MD,Individual,705.0,709.0,Sep-1988,53.5,18.0,27.0,0.0,0.0,1.0,0
+99916319,Mar-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,125000.0,11.22,10+ years,MORTGAGE,Not Verified,debt_consolidation,NY,Individual,770.0,774.0,Apr-1996,10.9,18.0,45.0,0.0,2.0,2.0,0
+65614443,Dec-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,98000.0,14.06,5 years,MORTGAGE,Not Verified,debt_consolidation,AR,Individual,730.0,734.0,Aug-2003,55.2,8.0,31.0,0.0,0.0,0.0,0
+101160180,Mar-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,150000.0,10.26,< 1 year,RENT,Source Verified,debt_consolidation,IL,Individual,775.0,779.0,Oct-2007,11.0,15.0,19.0,0.0,0.0,1.0,0
+121728994,Oct-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,11.38,10+ years,MORTGAGE,Not Verified,debt_consolidation,AZ,Individual,815.0,819.0,Jan-1999,4.8,8.0,21.0,0.0,0.0,0.0,0
+106856249,Apr-2017,Charged Off,6000.0,6000.0, 36 months,5.32,180.69,A,A1,75000.0,16.14,1 year,MORTGAGE,Not Verified,credit_card,PA,Individual,725.0,729.0,Jan-2007,50.3,13.0,24.0,0.0,0.0,0.0,1
+63397261,Oct-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,82000.0,17.02,10+ years,OWN,Source Verified,credit_card,TX,Individual,700.0,704.0,Aug-1996,73.5,10.0,35.0,1.0,0.0,0.0,0
+112073326,Jun-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,191000.0,4.98,10+ years,OWN,Not Verified,credit_card,CO,Individual,830.0,834.0,Jan-1995,9.1,7.0,17.0,0.0,0.0,0.0,0
+71845682,Feb-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,60000.0,11.96,6 years,RENT,Not Verified,debt_consolidation,CA,Individual,720.0,724.0,Sep-2000,28.5,11.0,42.0,0.0,0.0,0.0,0
+51917783,Jun-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,40000.0,8.73,9 years,MORTGAGE,Source Verified,debt_consolidation,OH,Individual,740.0,744.0,May-2004,25.6,9.0,19.0,0.0,0.0,0.0,0
+56572645,Aug-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,65000.0,15.16,< 1 year,RENT,Not Verified,credit_card,IL,Individual,740.0,744.0,Dec-1993,59.3,10.0,21.0,0.0,0.0,0.0,0
+97475669,Feb-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,15.94,10+ years,MORTGAGE,Not Verified,car,PA,Individual,765.0,769.0,Oct-1982,52.7,13.0,23.0,1.0,0.0,0.0,0
+99666942,Feb-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,8.5,4 years,OWN,Not Verified,credit_card,CA,Individual,750.0,754.0,Aug-2010,28.3,8.0,13.0,0.0,0.0,0.0,0
+60697053,Sep-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,14.85,10+ years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,810.0,814.0,Jun-1997,19.5,13.0,18.0,0.0,0.0,0.0,0
+59602400,Sep-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,61000.0,18.3,3 years,RENT,Not Verified,debt_consolidation,CA,Individual,750.0,754.0,Jun-1991,39.8,12.0,34.0,0.0,0.0,0.0,0
+68416619,Dec-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,43000.0,20.37,10+ years,RENT,Source Verified,debt_consolidation,NY,Individual,680.0,684.0,Mar-2007,24.5,8.0,11.0,0.0,0.0,0.0,0
+76403438,Apr-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,38000.0,6.76,2 years,MORTGAGE,Source Verified,debt_consolidation,CA,Individual,730.0,734.0,Aug-2003,42.9,5.0,14.0,0.0,0.0,0.0,0
+84050433,Jul-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,45000.0,10.91,5 years,OWN,Source Verified,home_improvement,NJ,Individual,700.0,704.0,Jan-1988,7.1,3.0,9.0,0.0,1.0,0.0,0
+65180191,Nov-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,175000.0,15.94,8 years,MORTGAGE,Not Verified,credit_card,TX,Individual,725.0,729.0,Apr-1986,40.1,14.0,28.0,0.0,0.0,1.0,0
+79123636,Jun-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,77000.0,2.03,8 years,RENT,Source Verified,moving,CA,Individual,715.0,719.0,May-2006,9.1,12.0,24.0,0.0,0.0,1.0,0
+127015585,Jan-2018,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,85000.0,3.52,3 years,OWN,Not Verified,credit_card,FL,Individual,730.0,734.0,Jun-2006,13.8,12.0,15.0,0.0,0.0,0.0,0
+93134272,Nov-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,33120.0,14.93,,MORTGAGE,Verified,medical,CA,Individual,755.0,759.0,Nov-1996,9.1,12.0,25.0,0.0,0.0,0.0,0
+57753025,Aug-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,61838.0,10.42,5 years,MORTGAGE,Source Verified,credit_card,KS,Individual,690.0,694.0,Nov-2004,28.2,8.0,24.0,0.0,0.0,1.0,0
+100124828,Mar-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,38000.0,17.44,10+ years,RENT,Not Verified,credit_card,IL,Individual,730.0,734.0,Feb-2006,20.3,9.0,26.0,0.0,0.0,0.0,0
+73201488,Feb-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,60000.0,8.8,2 years,MORTGAGE,Source Verified,debt_consolidation,NM,Individual,820.0,824.0,Dec-1989,22.6,15.0,30.0,0.0,0.0,0.0,0
+73458479,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,150000.0,17.06,10+ years,MORTGAGE,Not Verified,credit_card,NJ,Individual,700.0,704.0,Dec-2000,67.8,8.0,23.0,0.0,0.0,0.0,0
+50545141,May-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,66000.0,9.53,5 years,MORTGAGE,Source Verified,debt_consolidation,CA,Individual,765.0,769.0,Jul-2001,24.5,8.0,22.0,0.0,0.0,0.0,0
+111734853,Jul-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,35000.0,24.05,4 years,RENT,Not Verified,major_purchase,OH,Individual,735.0,739.0,Sep-2009,26.6,20.0,33.0,0.0,0.0,0.0,0
+119931217,Oct-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,75000.0,9.91,10+ years,OWN,Not Verified,home_improvement,CA,Individual,790.0,794.0,Jan-1991,13.3,18.0,31.0,0.0,0.0,0.0,0
+68476214,Dec-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,52000.0,15.82,< 1 year,MORTGAGE,Not Verified,credit_card,NM,Individual,765.0,769.0,Feb-2003,28.7,13.0,20.0,0.0,0.0,1.0,0
+114147558,Jul-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,78500.0,9.11,< 1 year,RENT,Not Verified,credit_card,NY,Individual,820.0,824.0,Feb-1999,6.1,14.0,32.0,0.0,0.0,0.0,0
+107490865,May-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,13.99,7 years,MORTGAGE,Not Verified,credit_card,TN,Individual,720.0,724.0,Jan-1993,17.0,13.0,36.0,0.0,0.0,0.0,0
+67808691,Dec-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,87000.0,13.44,,MORTGAGE,Not Verified,home_improvement,IN,Individual,705.0,709.0,Nov-1975,13.9,13.0,38.0,0.0,0.0,0.0,0
+71022701,Feb-2016,Charged Off,6000.0,6000.0, 36 months,5.32,180.69,A,A1,90000.0,15.33,3 years,MORTGAGE,Not Verified,debt_consolidation,IN,Individual,685.0,689.0,May-1996,64.8,8.0,14.0,0.0,0.0,0.0,1
+61384241,Oct-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,140000.0,22.75,10+ years,MORTGAGE,Not Verified,credit_card,IN,Individual,715.0,719.0,Dec-1981,62.9,11.0,23.0,0.0,0.0,0.0,0
+79114120,May-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,83000.0,19.06,6 years,MORTGAGE,Not Verified,debt_consolidation,MO,Individual,720.0,724.0,Feb-2001,19.0,11.0,45.0,0.0,0.0,0.0,0
+73529679,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,72000.0,3.95,10+ years,OWN,Not Verified,credit_card,NJ,Individual,680.0,684.0,Jun-1987,19.8,9.0,23.0,0.0,1.0,0.0,0
+73884281,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,43000.0,23.99,10+ years,OWN,Source Verified,credit_card,NY,Individual,680.0,684.0,Feb-2003,57.2,9.0,16.0,0.0,1.0,0.0,0
+71024609,Feb-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,50000.0,13.59,10+ years,OWN,Not Verified,credit_card,CT,Individual,780.0,784.0,Apr-1993,14.4,11.0,41.0,0.0,0.0,0.0,0
+104214604,Apr-2017,Charged Off,6000.0,6000.0, 36 months,5.32,180.69,A,A1,59000.0,7.29,10+ years,MORTGAGE,Not Verified,debt_consolidation,NY,Individual,700.0,704.0,Feb-1992,22.6,18.0,50.0,0.0,0.0,0.0,1
+125076185,Nov-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,84000.0,6.27,10+ years,RENT,Source Verified,other,CA,Individual,810.0,814.0,Oct-1993,6.3,4.0,10.0,0.0,0.0,0.0,0
+54978435,Jul-2015,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,62000.0,13.94,< 1 year,RENT,Not Verified,credit_card,MD,Individual,725.0,729.0,Oct-2003,39.8,10.0,18.0,0.0,0.0,0.0,0
+118602126,Sep-2017,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,150000.0,1.71,4 years,MORTGAGE,Verified,other,NY,Individual,730.0,734.0,Oct-2005,11.8,4.0,12.0,1.0,0.0,0.0,0
+74995636,Mar-2016,Fully Paid,6000.0,6000.0, 36 months,5.32,180.69,A,A1,100000.0,9.92,8 years,RENT,Not Verified,credit_card,NC,Individual,720.0,724.0,Dec-2005,48.1,8.0,17.0,0.0,0.0,0.0,0
+122298004,Nov-2017,Fully Paid,6200.0,6200.0, 36 months,5.32,186.72,A,A1,106000.0,8.26,5 years,MORTGAGE,Not Verified,debt_consolidation,AZ,Individual,740.0,744.0,Mar-1990,0.7,8.0,20.0,0.0,0.0,0.0,0
+111649150,Jul-2017,Fully Paid,6200.0,6200.0, 36 months,5.32,186.72,A,A1,98000.0,10.16,10+ years,MORTGAGE,Source Verified,debt_consolidation,CA,Individual,765.0,769.0,Jan-1984,8.3,11.0,30.0,0.0,0.0,1.0,0
+77108718,Apr-2016,Fully Paid,6275.0,6275.0, 36 months,5.32,188.98,A,A1,25440.0,28.49,2 years,RENT,Not Verified,debt_consolidation,CO,Individual,765.0,769.0,Jun-2005,34.4,6.0,11.0,0.0,0.0,0.0,0
+73755185,Mar-2016,Fully Paid,6300.0,6300.0, 36 months,5.32,189.73,A,A1,45500.0,7.39,< 1 year,RENT,Source Verified,credit_card,LA,Individual,685.0,689.0,Jan-2007,26.7,9.0,13.0,0.0,1.0,0.0,0
+51877702,Jun-2015,Fully Paid,6300.0,6300.0, 36 months,5.32,189.73,A,A1,62000.0,8.15,1 year,MORTGAGE,Source Verified,credit_card,MN,Individual,680.0,684.0,Sep-2007,55.3,6.0,16.0,0.0,0.0,1.0,0
+54157966,Jul-2015,Fully Paid,6300.0,6300.0, 36 months,5.32,189.73,A,A1,78000.0,24.51,4 years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,775.0,779.0,Oct-2006,25.8,10.0,28.0,0.0,0.0,0.0,0
+65975951,Nov-2015,Fully Paid,6350.0,6350.0, 36 months,5.32,191.23,A,A1,70000.0,7.47,7 years,MORTGAGE,Not Verified,credit_card,AL,Individual,780.0,784.0,May-1995,20.9,8.0,13.0,0.0,0.0,0.0,0
+60741642,Oct-2015,Fully Paid,6350.0,6350.0, 36 months,5.32,191.23,A,A1,74000.0,12.2,2 years,MORTGAGE,Not Verified,debt_consolidation,MT,Individual,775.0,779.0,Jul-2003,15.4,18.0,26.0,0.0,0.0,0.0,0
+63504977,Oct-2015,Fully Paid,6400.0,6400.0, 36 months,5.32,192.74,A,A1,128000.0,11.52,2 years,MORTGAGE,Verified,major_purchase,TX,Individual,680.0,684.0,Feb-2006,45.7,14.0,27.0,0.0,0.0,0.0,0
+93792295,Dec-2016,Fully Paid,6400.0,6400.0, 36 months,5.32,192.74,A,A1,160000.0,8.59,4 years,RENT,Source Verified,credit_card,FL,Individual,680.0,684.0,Apr-1983,62.0,11.0,40.0,2.0,0.0,0.0,0
+70110840,Feb-2016,Fully Paid,6400.0,6400.0, 36 months,5.32,192.74,A,A1,41000.0,4.85,< 1 year,RENT,Not Verified,major_purchase,GA,Individual,725.0,729.0,Aug-2008,16.3,7.0,18.0,0.0,0.0,0.0,0
+85216473,Jul-2016,Fully Paid,6400.0,6400.0, 36 months,5.32,192.74,A,A1,35650.0,14.31,7 years,RENT,Not Verified,debt_consolidation,CA,Individual,730.0,734.0,Oct-2004,17.4,14.0,19.0,0.0,0.0,0.0,0
+75880305,Mar-2016,Fully Paid,6400.0,6400.0, 36 months,5.32,192.74,A,A1,96000.0,16.38,,MORTGAGE,Not Verified,home_improvement,FL,Individual,685.0,689.0,Dec-1975,37.5,13.0,31.0,0.0,2.0,1.0,0
+91403479,Oct-2016,Fully Paid,6400.0,6400.0, 36 months,5.32,192.74,A,A1,104000.0,11.52,10+ years,OWN,Not Verified,debt_consolidation,AZ,Individual,720.0,724.0,Nov-2004,36.8,18.0,29.0,0.0,0.0,0.0,0
+88441711,Aug-2016,Fully Paid,6400.0,6400.0, 36 months,5.32,192.74,A,A1,95000.0,18.71,10+ years,OWN,Not Verified,major_purchase,WI,Individual,755.0,759.0,Sep-1999,16.3,25.0,40.0,1.0,0.0,0.0,0
+91594116,Oct-2016,Fully Paid,6400.0,6400.0, 36 months,5.32,192.74,A,A1,120000.0,9.44,< 1 year,MORTGAGE,Source Verified,home_improvement,MD,Individual,680.0,684.0,Oct-1981,36.0,9.0,19.0,3.0,0.0,0.0,0
+108113143,May-2017,Fully Paid,6400.0,6400.0, 36 months,5.32,192.74,A,A1,35000.0,16.94,5 years,RENT,Not Verified,credit_card,KY,Individual,735.0,739.0,Dec-1997,50.3,4.0,32.0,0.0,0.0,1.0,0
+71886383,Feb-2016,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,90000.0,12.37,6 years,MORTGAGE,Not Verified,debt_consolidation,IL,Individual,700.0,704.0,Sep-1982,65.1,9.0,15.0,3.0,0.0,0.0,0
+63436515,Oct-2015,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,65000.0,13.28,4 years,MORTGAGE,Not Verified,credit_card,OH,Individual,705.0,709.0,Oct-2008,36.0,13.0,16.0,0.0,2.0,1.0,0
+59159589,Sep-2015,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,37823.0,8.54,,RENT,Not Verified,credit_card,AZ,Individual,765.0,769.0,Oct-2002,13.3,14.0,22.0,0.0,0.0,0.0,0
+76588232,Apr-2016,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,40000.0,17.13,7 years,MORTGAGE,Not Verified,major_purchase,AL,Individual,785.0,789.0,Aug-1998,27.3,6.0,7.0,0.0,0.0,0.0,0
+60903041,Oct-2015,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,52000.0,2.93,,MORTGAGE,Not Verified,debt_consolidation,VA,Individual,785.0,789.0,Dec-1975,19.7,4.0,12.0,0.0,0.0,0.0,0
+57346867,Aug-2015,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,40000.0,25.23,10+ years,MORTGAGE,Source Verified,credit_card,SD,Individual,685.0,689.0,Apr-1997,20.5,16.0,28.0,0.0,1.0,0.0,0
+55241605,Jul-2015,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,40000.0,3.78,2 years,RENT,Not Verified,debt_consolidation,OH,Individual,775.0,779.0,Aug-2004,15.8,5.0,12.0,0.0,0.0,0.0,0
+68633313,Jan-2016,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,60000.0,16.9,6 years,MORTGAGE,Not Verified,major_purchase,TX,Individual,830.0,834.0,Nov-1994,4.3,7.0,12.0,0.0,0.0,0.0,0
+68548070,Jan-2016,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,75000.0,9.49,4 years,OWN,Not Verified,credit_card,WI,Individual,795.0,799.0,May-1993,31.2,7.0,15.0,0.0,0.0,0.0,0
+69337167,Jan-2016,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,39600.0,6.64,,OWN,Not Verified,debt_consolidation,NH,Individual,750.0,754.0,Feb-1984,33.8,6.0,14.0,0.0,0.0,0.0,0
+82689230,Jun-2016,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,120000.0,14.6,10+ years,MORTGAGE,Not Verified,home_improvement,KS,Individual,805.0,809.0,Nov-2004,2.6,14.0,27.0,0.0,0.0,0.0,0
+116830628,Aug-2017,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,56000.0,16.93,10+ years,MORTGAGE,Not Verified,debt_consolidation,FL,Individual,730.0,734.0,Jun-1997,6.5,11.0,36.0,0.0,0.0,0.0,0
+112134186,Jun-2017,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,49500.0,23.68,10+ years,RENT,Not Verified,debt_consolidation,MI,Individual,735.0,739.0,Jul-2004,37.2,8.0,18.0,0.0,0.0,0.0,0
+63287130,Oct-2015,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,100000.0,9.18,8 years,MORTGAGE,Not Verified,credit_card,MD,Individual,775.0,779.0,Jan-1996,10.8,9.0,27.0,0.0,0.0,0.0,0
+68426373,Jan-2016,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,93000.0,28.25,10+ years,MORTGAGE,Not Verified,credit_card,CA,Individual,765.0,769.0,Mar-1991,16.7,24.0,44.0,0.0,0.0,1.0,0
+92558145,Nov-2016,Fully Paid,6500.0,6500.0, 36 months,5.32,195.75,A,A1,70000.0,16.08,10+ years,MORTGAGE,Not Verified,debt_consolidation,PA,Individual,725.0,729.0,Aug-2003,27.7,17.0,42.0,0.0,0.0,0.0,0
+74717930,Mar-2016,Fully Paid,6600.0,6600.0, 36 months,5.32,198.76,A,A1,48000.0,13.95,10+ years,RENT,Not Verified,other,KS,Individual,740.0,744.0,Apr-1990,0.7,8.0,23.0,0.0,0.0,0.0,0
+60615676,Sep-2015,Fully Paid,6725.0,6725.0, 36 months,5.32,202.53,A,A1,41000.0,14.34,10+ years,MORTGAGE,Not Verified,debt_consolidation,WA,Individual,715.0,719.0,Nov-2004,19.2,9.0,12.0,0.0,0.0,0.0,0
+74622830,Mar-2016,Fully Paid,6750.0,6750.0, 36 months,5.32,203.28,A,A1,26000.0,8.86,2 years,RENT,Source Verified,credit_card,WY,Individual,690.0,694.0,Oct-2009,39.3,4.0,6.0,0.0,0.0,0.0,0
+69602916,Jan-2016,Fully Paid,6800.0,6800.0, 36 months,5.32,204.79,A,A1,50000.0,20.48,10+ years,MORTGAGE,Not Verified,home_improvement,MA,Individual,735.0,739.0,Sep-2006,25.4,10.0,18.0,0.0,1.0,0.0,0
+60871355,Sep-2015,Fully Paid,6800.0,6800.0, 36 months,5.32,204.79,A,A1,50000.0,10.18,1 year,MORTGAGE,Not Verified,credit_card,AZ,Individual,750.0,754.0,Jul-1998,41.1,6.0,13.0,0.0,0.0,0.0,0
+63938514,Nov-2015,Fully Paid,6800.0,6800.0, 36 months,5.32,204.79,A,A1,65000.0,3.05,10+ years,MORTGAGE,Verified,credit_card,MD,Individual,775.0,779.0,Nov-1985,27.9,5.0,18.0,0.0,0.0,0.0,0
+70917958,Feb-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,135000.0,8.16,10+ years,OWN,Source Verified,major_purchase,MI,Individual,745.0,749.0,Dec-1997,85.2,11.0,24.0,0.0,0.0,0.0,0
+55980406,Jul-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,61464.0,10.35,,MORTGAGE,Not Verified,home_improvement,CO,Individual,780.0,784.0,Dec-1977,12.4,13.0,26.0,0.0,0.0,0.0,0
+104104434,Apr-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,100000.0,13.1,10+ years,MORTGAGE,Not Verified,debt_consolidation,VA,Individual,705.0,709.0,Mar-1997,85.8,6.0,13.0,1.0,0.0,0.0,0
+92054909,Oct-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,75000.0,13.95,2 years,MORTGAGE,Source Verified,debt_consolidation,MO,Individual,730.0,734.0,Sep-2007,25.7,25.0,34.0,0.0,0.0,0.0,0
+91307573,Nov-2016,Charged Off,7000.0,7000.0, 36 months,5.32,210.81,A,A1,62500.0,17.18,< 1 year,RENT,Source Verified,debt_consolidation,CA,Individual,730.0,734.0,Aug-2006,15.9,13.0,30.0,0.0,0.0,0.0,1
+93789707,Nov-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,100000.0,19.1,2 years,RENT,Not Verified,credit_card,CA,Individual,760.0,764.0,Sep-1996,23.1,13.0,25.0,1.0,0.0,0.0,0
+67879685,Dec-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,29500.0,11.92,< 1 year,OWN,Not Verified,debt_consolidation,NJ,Individual,690.0,694.0,Nov-2006,43.3,5.0,10.0,0.0,0.0,0.0,0
+76421385,Apr-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,72000.0,11.53,9 years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,780.0,784.0,Jan-2001,1.7,6.0,37.0,0.0,0.0,1.0,0
+62734366,Oct-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,75000.0,6.37,10+ years,MORTGAGE,Not Verified,debt_consolidation,OH,Individual,815.0,819.0,Oct-1996,11.9,7.0,15.0,0.0,0.0,0.0,0
+73863317,Mar-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,96000.0,8.23,3 years,MORTGAGE,Source Verified,home_improvement,VA,Individual,805.0,809.0,Aug-2000,35.5,9.0,26.0,0.0,0.0,0.0,0
+108173878,May-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,70000.0,28.85,10+ years,RENT,Not Verified,credit_card,MA,Individual,800.0,804.0,Jun-1984,15.7,19.0,41.0,0.0,0.0,0.0,0
+89797964,Sep-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,75000.0,20.58,10+ years,RENT,Not Verified,debt_consolidation,VA,Individual,775.0,779.0,Aug-1979,19.9,24.0,38.0,0.0,0.0,0.0,0
+68409592,Jan-2016,Charged Off,7000.0,7000.0, 36 months,5.32,210.81,A,A1,72000.0,5.43,,MORTGAGE,Not Verified,credit_card,IN,Individual,805.0,809.0,Mar-1988,20.9,6.0,12.0,0.0,0.0,0.0,1
+96619514,Jan-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,110058.0,12.23,7 years,MORTGAGE,Not Verified,house,TX,Individual,800.0,804.0,Jan-1994,0.0,11.0,25.0,0.0,0.0,1.0,0
+102635676,Mar-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,63000.0,8.29,1 year,MORTGAGE,Not Verified,credit_card,GA,Individual,780.0,784.0,Apr-1982,20.2,8.0,23.0,0.0,0.0,0.0,0
+119274217,Sep-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,31000.0,26.6,,OWN,Not Verified,credit_card,NC,Individual,790.0,794.0,Feb-1976,11.4,14.0,23.0,0.0,0.0,0.0,0
+126618872,Jan-2018,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,49000.0,6.07,10+ years,MORTGAGE,Not Verified,credit_card,TN,Individual,725.0,729.0,Oct-2005,21.7,7.0,21.0,0.0,1.0,0.0,0
+50535366,May-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,150000.0,12.23,10+ years,MORTGAGE,Source Verified,credit_card,CT,Individual,700.0,704.0,Nov-1993,43.9,14.0,35.0,0.0,1.0,0.0,0
+66230432,Dec-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,60000.0,30.2,2 years,MORTGAGE,Not Verified,credit_card,OH,Individual,725.0,729.0,Sep-2001,20.1,24.0,33.0,0.0,0.0,0.0,0
+109645824,May-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,110000.0,14.04,7 years,RENT,Source Verified,debt_consolidation,FL,Individual,730.0,734.0,Sep-2003,32.5,17.0,28.0,0.0,0.0,2.0,0
+98775616,Feb-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,86000.0,2.61,,MORTGAGE,Source Verified,home_improvement,NY,Individual,715.0,719.0,Oct-1988,12.6,9.0,18.0,0.0,0.0,0.0,0
+50456888,May-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,135000.0,15.32,2 years,MORTGAGE,Source Verified,other,MA,Individual,730.0,734.0,May-1996,63.0,11.0,23.0,0.0,0.0,0.0,0
+49277511,Jun-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,150000.0,10.66,5 years,MORTGAGE,Source Verified,credit_card,TX,Individual,670.0,674.0,Oct-1995,63.4,12.0,26.0,0.0,0.0,0.0,0
+94123750,Dec-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,80000.0,9.42,10+ years,OWN,Not Verified,credit_card,MA,Individual,810.0,814.0,Nov-1996,9.0,18.0,42.0,0.0,0.0,0.0,0
+49773240,May-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,34500.0,16.83,1 year,RENT,Not Verified,credit_card,CO,Individual,710.0,714.0,Apr-1986,17.5,17.0,24.0,0.0,0.0,0.0,0
+54017705,Jul-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,95000.0,12.11,10+ years,MORTGAGE,Verified,debt_consolidation,OK,Individual,780.0,784.0,Feb-2005,9.9,16.0,32.0,0.0,0.0,0.0,0
+90343008,Sep-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,100000.0,14.09,10+ years,MORTGAGE,Not Verified,home_improvement,CA,Individual,800.0,804.0,Jan-2003,9.2,9.0,31.0,0.0,0.0,0.0,0
+75708917,Mar-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,60000.0,12.34,2 years,RENT,Not Verified,credit_card,CA,Individual,715.0,719.0,Oct-2009,51.8,6.0,7.0,0.0,0.0,0.0,0
+76051319,Mar-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,218000.0,2.61,5 years,MORTGAGE,Source Verified,home_improvement,TX,Individual,800.0,804.0,Feb-2002,0.4,4.0,19.0,0.0,0.0,0.0,0
+65139652,Dec-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,95000.0,14.98,1 year,RENT,Source Verified,major_purchase,NJ,Individual,790.0,794.0,Jul-1991,18.7,15.0,24.0,0.0,0.0,0.0,0
+86146461,Jul-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,54000.0,23.56,8 years,MORTGAGE,Not Verified,medical,MN,Individual,750.0,754.0,Nov-2007,47.2,17.0,29.0,0.0,0.0,0.0,0
+89959196,Sep-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,72500.0,11.75,8 years,RENT,Not Verified,home_improvement,CA,Individual,740.0,744.0,May-2002,35.4,8.0,12.0,1.0,0.0,0.0,0
+73895943,Mar-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,75000.0,20.57,9 years,MORTGAGE,Not Verified,debt_consolidation,VA,Individual,730.0,734.0,Oct-2001,56.0,8.0,17.0,0.0,0.0,0.0,0
+69832853,Jan-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,45000.0,14.8,,OWN,Not Verified,debt_consolidation,NY,Individual,770.0,774.0,Feb-1988,9.3,10.0,18.0,0.0,0.0,0.0,0
+97740182,Feb-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,139000.0,2.31,10+ years,MORTGAGE,Source Verified,debt_consolidation,CO,Individual,700.0,704.0,Mar-1994,21.5,9.0,22.0,0.0,0.0,0.0,0
+88032143,Aug-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,76000.0,20.05,10+ years,MORTGAGE,Not Verified,debt_consolidation,GA,Individual,730.0,734.0,Dec-1995,35.3,10.0,26.0,0.0,0.0,1.0,0
+76895139,Apr-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,37000.0,29.26,8 years,MORTGAGE,Not Verified,vacation,MN,Individual,820.0,824.0,May-1995,63.7,6.0,11.0,0.0,0.0,0.0,0
+99767766,Mar-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,63000.0,5.6,1 year,RENT,Source Verified,other,MO,Individual,775.0,779.0,Oct-2002,2.8,12.0,13.0,0.0,0.0,0.0,0
+90211514,Sep-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,58000.0,26.17,,RENT,Not Verified,debt_consolidation,FL,Individual,705.0,709.0,Aug-1992,70.6,8.0,18.0,0.0,0.0,0.0,0
+73845755,Mar-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,36306.0,7.7,10+ years,MORTGAGE,Source Verified,credit_card,OH,Individual,690.0,694.0,Nov-1975,56.8,8.0,13.0,0.0,1.0,1.0,0
+102055723,Apr-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,110000.0,24.12,10+ years,MORTGAGE,Source Verified,medical,MA,Individual,730.0,734.0,Jan-1991,32.0,30.0,61.0,3.0,0.0,0.0,0
+91091881,Oct-2016,Charged Off,7000.0,7000.0, 36 months,5.32,210.81,A,A1,160000.0,9.37,< 1 year,RENT,Source Verified,debt_consolidation,NY,Individual,695.0,699.0,Jun-2002,38.3,7.0,24.0,0.0,0.0,2.0,1
+70952353,Feb-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,48000.0,21.78,4 years,RENT,Not Verified,debt_consolidation,NH,Individual,795.0,799.0,Jul-1999,19.8,12.0,22.0,0.0,0.0,0.0,0
+54097733,Jul-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,200000.0,29.85,4 years,MORTGAGE,Source Verified,debt_consolidation,NJ,Individual,690.0,694.0,Oct-1986,70.1,16.0,32.0,0.0,0.0,0.0,0
+74492867,Mar-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,28000.0,4.84,2 years,RENT,Not Verified,credit_card,CA,Individual,750.0,754.0,Feb-2006,28.8,5.0,6.0,0.0,0.0,0.0,0
+108391677,May-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,73000.0,12.35,10+ years,MORTGAGE,Not Verified,debt_consolidation,OR,Individual,800.0,804.0,Nov-1999,4.2,17.0,35.0,0.0,0.0,0.0,0
+106561097,Apr-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,130000.0,7.08,10+ years,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,790.0,794.0,Jul-2003,16.1,11.0,26.0,0.0,0.0,1.0,0
+97032724,Jan-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,85035.0,19.04,6 years,RENT,Source Verified,debt_consolidation,DC,Individual,720.0,724.0,Dec-2003,28.0,11.0,32.0,1.0,0.0,0.0,0
+76236616,Apr-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,22000.0,7.91,,MORTGAGE,Not Verified,credit_card,IN,Individual,825.0,829.0,Jun-1971,15.6,7.0,20.0,0.0,0.0,0.0,0
+101382637,Mar-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,114000.0,25.59,4 years,MORTGAGE,Not Verified,credit_card,CA,Individual,775.0,779.0,Feb-1983,17.3,17.0,38.0,0.0,0.0,0.0,0
+77300349,Apr-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,92000.0,18.63,6 years,RENT,Not Verified,debt_consolidation,GA,Individual,820.0,824.0,Oct-1995,1.9,13.0,26.0,0.0,0.0,0.0,0
+100026420,Mar-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,75000.0,29.3,3 years,RENT,Not Verified,credit_card,NY,Individual,690.0,694.0,Jul-2006,44.8,20.0,34.0,0.0,0.0,1.0,0
+125555899,Dec-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,148000.0,11.3,5 years,RENT,Not Verified,debt_consolidation,WI,Individual,835.0,839.0,Aug-1999,4.0,8.0,14.0,0.0,0.0,0.0,0
+128220277,Feb-2018,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,59000.0,6.61,1 year,MORTGAGE,Not Verified,medical,AZ,Joint App,780.0,784.0,Feb-2004,30.3,8.0,16.0,0.0,0.0,0.0,0
+111754440,Jun-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,45000.0,9.33,,MORTGAGE,Verified,debt_consolidation,AL,Individual,815.0,819.0,Nov-1978,10.9,15.0,36.0,0.0,0.0,0.0,0
+121246656,Oct-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,78000.0,10.82,10+ years,RENT,Not Verified,debt_consolidation,CA,Individual,760.0,764.0,Apr-2000,10.6,5.0,15.0,0.0,0.0,0.0,0
+60277188,Sep-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,60000.0,20.54,10+ years,MORTGAGE,Not Verified,debt_consolidation,OH,Individual,725.0,729.0,Nov-2000,54.1,21.0,41.0,0.0,0.0,0.0,0
+106530670,Apr-2017,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,48000.0,25.13,10+ years,RENT,Not Verified,debt_consolidation,WI,Individual,805.0,809.0,Oct-2004,16.1,11.0,12.0,0.0,0.0,0.0,0
+77398586,Apr-2016,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,47500.0,20.49,9 years,MORTGAGE,Not Verified,debt_consolidation,GA,Individual,775.0,779.0,Jan-2004,17.1,13.0,19.0,0.0,0.0,0.0,0
+61358629,Oct-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,62000.0,21.7,10+ years,MORTGAGE,Not Verified,home_improvement,TN,Individual,730.0,734.0,Oct-1997,25.2,11.0,18.0,0.0,0.0,0.0,0
+66074460,Nov-2015,Fully Paid,7000.0,7000.0, 36 months,5.32,210.81,A,A1,130000.0,8.04,< 1 year,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,730.0,734.0,Nov-2007,28.4,8.0,11.0,0.0,0.0,0.0,0
+55934045,Jul-2015,Fully Paid,7050.0,7050.0, 36 months,5.32,212.31,A,A1,105000.0,14.16,3 years,MORTGAGE,Not Verified,debt_consolidation,IL,Individual,750.0,754.0,Jul-2002,26.9,16.0,39.0,0.0,1.0,0.0,0
+66561978,Dec-2015,Fully Paid,7100.0,7100.0, 36 months,5.32,213.82,A,A1,95000.0,15.64,10+ years,MORTGAGE,Not Verified,debt_consolidation,FL,Individual,750.0,754.0,Nov-2000,18.9,10.0,24.0,0.0,0.0,1.0,0
+95168162,Dec-2016,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,70000.0,11.11,9 years,MORTGAGE,Not Verified,debt_consolidation,TN,Individual,770.0,774.0,Aug-1989,8.5,10.0,20.0,0.0,0.0,0.0,0
+74826201,Mar-2016,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,49000.0,19.05,10+ years,MORTGAGE,Source Verified,debt_consolidation,MN,Individual,750.0,754.0,Dec-2001,18.4,11.0,36.0,0.0,0.0,1.0,0
+67326470,Dec-2015,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,45000.0,28.43,3 years,RENT,Not Verified,credit_card,CA,Individual,715.0,719.0,Jul-2004,28.3,8.0,18.0,0.0,0.0,0.0,0
+58613267,Aug-2015,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,80000.0,1.7,1 year,MORTGAGE,Source Verified,vacation,TX,Individual,680.0,684.0,Jul-1995,19.1,9.0,25.0,0.0,1.0,0.0,0
+65732887,Dec-2015,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,85000.0,9.01,6 years,MORTGAGE,Verified,credit_card,MD,Individual,720.0,724.0,Nov-1979,71.6,6.0,7.0,0.0,0.0,1.0,0
+72584301,Feb-2016,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,135000.0,14.02,7 years,RENT,Not Verified,debt_consolidation,VA,Individual,800.0,804.0,Jul-1998,5.0,13.0,44.0,0.0,0.0,0.0,0
+113201971,Jul-2017,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,70000.0,19.97,3 years,RENT,Not Verified,debt_consolidation,TX,Individual,740.0,744.0,Apr-2002,16.1,14.0,26.0,0.0,1.0,0.0,0
+51135299,Jun-2015,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,64000.0,11.44,9 years,MORTGAGE,Source Verified,debt_consolidation,AR,Individual,755.0,759.0,Nov-1995,16.7,8.0,35.0,0.0,0.0,1.0,0
+115366739,Aug-2017,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,135000.0,10.04,10+ years,MORTGAGE,Not Verified,credit_card,NJ,Individual,750.0,754.0,Jul-2002,12.1,20.0,32.0,1.0,0.0,0.0,0
+83313610,Jun-2016,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,82000.0,17.02,10+ years,MORTGAGE,Source Verified,home_improvement,CA,Individual,725.0,729.0,Jun-2000,32.6,10.0,23.0,0.0,1.0,2.0,0
+55152176,Jul-2015,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,70000.0,25.47,4 years,RENT,Source Verified,credit_card,NY,Individual,680.0,684.0,Jul-2007,33.1,20.0,38.0,3.0,0.0,0.0,0
+128556750,Feb-2018,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,70000.0,15.51,4 years,MORTGAGE,Source Verified,debt_consolidation,WA,Individual,720.0,724.0,Sep-2013,56.0,5.0,9.0,0.0,0.0,0.0,0
+107226009,Apr-2017,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,60000.0,16.44,8 years,RENT,Not Verified,credit_card,AZ,Individual,725.0,729.0,Jan-2005,29.3,9.0,17.0,0.0,1.0,0.0,0
+73875825,Mar-2016,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,97500.0,6.34,6 years,RENT,Source Verified,credit_card,CA,Individual,705.0,709.0,Sep-1998,45.5,4.0,13.0,0.0,0.0,0.0,0
+55131139,Jul-2015,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,34652.0,4.78,9 years,MORTGAGE,Not Verified,credit_card,FL,Individual,765.0,769.0,Mar-2006,22.7,7.0,13.0,0.0,0.0,0.0,0
+60801532,Sep-2015,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,111000.0,20.85,5 years,MORTGAGE,Not Verified,credit_card,IL,Individual,755.0,759.0,Aug-2001,46.4,18.0,48.0,0.0,0.0,0.0,0
+117268660,Aug-2017,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,65000.0,21.75,3 years,MORTGAGE,Source Verified,home_improvement,CA,Individual,815.0,819.0,Apr-2007,0.0,11.0,27.0,0.0,0.0,1.0,0
+77577756,May-2016,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,45600.0,26.18,,MORTGAGE,Verified,credit_card,KS,Individual,725.0,729.0,Dec-1977,32.0,12.0,24.0,0.0,0.0,1.0,0
+62002113,Oct-2015,Fully Paid,7200.0,7200.0, 36 months,5.32,216.83,A,A1,58000.0,8.0,10+ years,RENT,Not Verified,debt_consolidation,NY,Individual,755.0,759.0,Oct-2003,11.9,20.0,29.0,0.0,0.0,1.0,0
+55130500,Jul-2015,Fully Paid,7250.0,7250.0, 36 months,5.32,218.34,A,A1,37500.0,4.81,10+ years,MORTGAGE,Verified,debt_consolidation,CA,Individual,800.0,804.0,Nov-1999,14.2,9.0,16.0,0.0,0.0,0.0,0
+55280335,Jul-2015,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,32000.0,20.48,10+ years,RENT,Source Verified,credit_card,CO,Individual,765.0,769.0,Jul-2001,19.7,8.0,11.0,0.0,0.0,0.0,0
+51977962,Jun-2015,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,189000.0,8.72,2 years,MORTGAGE,Not Verified,debt_consolidation,FL,Individual,740.0,744.0,Jun-1996,9.6,21.0,49.0,1.0,0.0,0.0,0
+74765041,Mar-2016,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,55000.0,15.64,10+ years,RENT,Not Verified,debt_consolidation,NJ,Individual,805.0,809.0,Feb-2004,8.4,16.0,24.0,0.0,0.0,0.0,0
+65642036,Nov-2015,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,85000.0,16.54,10+ years,MORTGAGE,Not Verified,vacation,VA,Individual,775.0,779.0,Feb-1993,28.1,15.0,39.0,0.0,0.0,0.0,0
+76331188,Apr-2016,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,76000.0,13.58,2 years,MORTGAGE,Not Verified,debt_consolidation,WI,Individual,735.0,739.0,Mar-1995,25.9,10.0,33.0,1.0,0.0,1.0,0
+63344433,Oct-2015,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,82000.0,4.86,6 years,MORTGAGE,Not Verified,home_improvement,HI,Individual,695.0,699.0,Apr-2004,0.0,6.0,34.0,0.0,0.0,0.0,0
+91180073,Oct-2016,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,42000.0,4.49,10+ years,RENT,Verified,debt_consolidation,MO,Individual,715.0,719.0,Sep-2005,10.2,12.0,44.0,0.0,0.0,0.0,0
+96114330,Jan-2017,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,60000.0,10.4,5 years,RENT,Not Verified,credit_card,NY,Individual,755.0,759.0,Nov-2002,9.8,15.0,29.0,1.0,0.0,2.0,0
+95447390,Dec-2016,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,140000.0,8.54,1 year,MORTGAGE,Source Verified,debt_consolidation,NY,Individual,770.0,774.0,Aug-2002,21.5,17.0,46.0,0.0,0.0,1.0,0
+87004592,Aug-2016,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,57000.0,16.97,< 1 year,RENT,Source Verified,debt_consolidation,TN,Individual,745.0,749.0,Aug-2007,20.3,15.0,19.0,0.0,0.0,0.0,0
+71726708,Mar-2016,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,25000.0,18.05,1 year,RENT,Source Verified,debt_consolidation,NJ,Individual,715.0,719.0,May-2009,23.4,7.0,11.0,0.0,0.0,1.0,0
+65514737,Nov-2015,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,83000.0,15.93,10+ years,MORTGAGE,Not Verified,home_improvement,WI,Individual,765.0,769.0,Nov-2002,35.2,8.0,19.0,0.0,0.0,0.0,0
+126784546,Jan-2018,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,35800.0,26.52,4 years,MORTGAGE,Not Verified,medical,GA,Joint App,830.0,834.0,May-1993,1.7,7.0,17.0,0.0,0.0,0.0,0
+50103505,May-2015,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,48000.0,11.98,2 years,MORTGAGE,Source Verified,debt_consolidation,IN,Individual,780.0,784.0,Mar-2005,11.1,13.0,23.0,0.0,0.0,0.0,0
+103397507,Mar-2017,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,75000.0,21.2,2 years,MORTGAGE,Not Verified,home_improvement,CO,Individual,730.0,734.0,Dec-1998,28.3,20.0,34.0,0.0,0.0,0.0,0
+49984017,May-2015,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,30000.0,5.36,,MORTGAGE,Verified,credit_card,FL,Individual,680.0,684.0,Feb-1999,8.4,4.0,21.0,2.0,0.0,0.0,0
+68393502,Dec-2015,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,60000.0,21.84,1 year,RENT,Not Verified,credit_card,AZ,Individual,760.0,764.0,Aug-2003,11.4,11.0,30.0,0.0,0.0,0.0,0
+66260627,Dec-2015,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,78000.0,9.06,4 years,MORTGAGE,Not Verified,home_improvement,GA,Individual,775.0,779.0,Sep-1975,17.4,13.0,16.0,0.0,0.0,0.0,0
+73904728,Mar-2016,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,70000.0,9.96,10+ years,MORTGAGE,Not Verified,car,WV,Individual,730.0,734.0,Nov-1997,28.0,10.0,19.0,0.0,0.0,1.0,0
+85116488,Jul-2016,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,68000.0,18.61,10+ years,MORTGAGE,Not Verified,home_improvement,OH,Individual,800.0,804.0,Feb-1987,16.1,18.0,35.0,0.0,0.0,1.0,0
+74994499,Mar-2016,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,42000.0,5.63,10+ years,MORTGAGE,Source Verified,credit_card,NC,Individual,730.0,734.0,Feb-2007,13.6,11.0,14.0,0.0,0.0,1.0,0
+50415425,May-2015,Fully Paid,7500.0,7500.0, 36 months,5.32,225.87,A,A1,50000.0,21.62,< 1 year,RENT,Source Verified,debt_consolidation,KS,Individual,700.0,704.0,Nov-1995,17.1,12.0,22.0,0.0,1.0,0.0,0
+71012005,Feb-2016,Fully Paid,7700.0,7700.0, 36 months,5.32,231.89,A,A1,49639.0,21.62,4 years,MORTGAGE,Source Verified,credit_card,MN,Individual,700.0,704.0,Sep-1999,38.5,20.0,60.0,0.0,0.0,0.0,0
+57314509,Aug-2015,Fully Paid,7800.0,7800.0, 36 months,5.32,234.9,A,A1,29000.0,16.51,10+ years,RENT,Not Verified,credit_card,AL,Individual,715.0,719.0,Apr-1997,48.6,12.0,22.0,0.0,0.0,1.0,0
+69454933,Jan-2016,Fully Paid,7800.0,7800.0, 36 months,5.32,234.9,A,A1,100000.0,21.53,2 years,MORTGAGE,Not Verified,debt_consolidation,NY,Individual,720.0,724.0,Aug-2002,10.8,16.0,63.0,0.0,0.0,1.0,0
+104161998,Apr-2017,Fully Paid,7800.0,7800.0, 36 months,5.32,234.9,A,A1,85000.0,9.06,6 years,MORTGAGE,Not Verified,credit_card,CT,Individual,725.0,729.0,Aug-2004,76.2,7.0,13.0,0.0,0.0,0.0,0
+66452352,Dec-2015,Fully Paid,7800.0,7800.0, 36 months,5.32,234.9,A,A1,35000.0,2.23,3 years,OWN,Source Verified,debt_consolidation,CT,Individual,790.0,794.0,Aug-2001,11.2,6.0,12.0,0.0,0.0,0.0,0
+76854915,Apr-2016,Fully Paid,7800.0,7800.0, 36 months,5.32,234.9,A,A1,97500.0,11.02,1 year,RENT,Not Verified,credit_card,CA,Individual,730.0,734.0,Feb-2003,49.2,13.0,37.0,1.0,0.0,0.0,0
+71887211,Feb-2016,Fully Paid,7800.0,7800.0, 36 months,5.32,234.9,A,A1,29549.0,23.48,,RENT,Not Verified,debt_consolidation,FL,Individual,790.0,794.0,Oct-1996,6.6,17.0,40.0,0.0,0.0,0.0,0
+74554976,Mar-2016,Fully Paid,7800.0,7800.0, 36 months,5.32,234.9,A,A1,77000.0,25.26,< 1 year,RENT,Source Verified,debt_consolidation,IL,Individual,680.0,684.0,Aug-2006,64.7,21.0,35.0,1.0,0.0,0.0,0
+65593099,Nov-2015,Fully Paid,7900.0,7900.0, 36 months,5.32,237.91,A,A1,107000.0,20.47,10+ years,MORTGAGE,Source Verified,home_improvement,TX,Individual,700.0,704.0,Jan-2004,81.4,9.0,31.0,0.0,0.0,0.0,0
+50416490,Jun-2015,Fully Paid,7975.0,7975.0, 36 months,5.32,240.17,A,A1,18000.0,29.4,2 years,MORTGAGE,Source Verified,debt_consolidation,TX,Individual,765.0,769.0,Sep-2003,24.6,7.0,14.0,0.0,0.0,0.0,0
+91387593,Oct-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,90000.0,11.64,10+ years,MORTGAGE,Not Verified,home_improvement,NY,Individual,800.0,804.0,Jun-2000,16.0,9.0,24.0,0.0,0.0,0.0,0
+65756269,Nov-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,82000.0,13.99,10+ years,RENT,Source Verified,credit_card,NY,Individual,680.0,684.0,Dec-1996,30.3,13.0,38.0,0.0,1.0,1.0,0
+72562737,Feb-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,109000.0,28.38,10+ years,MORTGAGE,Not Verified,home_improvement,IL,Individual,705.0,709.0,Aug-1995,89.8,15.0,33.0,0.0,0.0,0.0,0
+95333572,Dec-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,40000.0,0.0,,OWN,Not Verified,other,GA,Individual,770.0,774.0,Jul-2002,0.0,3.0,21.0,0.0,0.0,0.0,0
+75645161,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,45000.0,22.03,1 year,RENT,Source Verified,home_improvement,WA,Individual,680.0,684.0,Jan-1981,10.9,15.0,54.0,0.0,1.0,0.0,0
+51176866,Jun-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,57200.0,22.66,3 years,RENT,Not Verified,credit_card,IL,Individual,715.0,719.0,Sep-1997,50.8,13.0,37.0,0.0,0.0,1.0,0
+58410592,Aug-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,165000.0,8.39,< 1 year,OWN,Not Verified,home_improvement,AZ,Individual,745.0,749.0,Nov-1996,8.8,15.0,35.0,0.0,0.0,1.0,0
+93217480,Nov-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,88000.0,9.95,10+ years,OWN,Not Verified,credit_card,NY,Individual,745.0,749.0,Sep-2004,22.9,9.0,19.0,0.0,0.0,0.0,0
+85729736,Jul-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,67000.0,5.18,4 years,OWN,Not Verified,credit_card,CA,Individual,790.0,794.0,Jan-1981,7.5,19.0,39.0,0.0,0.0,0.0,0
+96429475,Jan-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,60000.0,29.56,1 year,MORTGAGE,Not Verified,debt_consolidation,KS,Individual,715.0,719.0,Apr-2003,26.3,10.0,30.0,1.0,0.0,1.0,0
+72693219,Feb-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,50000.0,10.11,10+ years,MORTGAGE,Not Verified,debt_consolidation,OH,Individual,755.0,759.0,Dec-2003,18.5,18.0,28.0,0.0,0.0,0.0,0
+65752291,Nov-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,40000.0,18.69,2 years,RENT,Not Verified,debt_consolidation,MA,Individual,750.0,754.0,Aug-1969,28.7,6.0,13.0,0.0,0.0,0.0,0
+68578719,Jan-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,145000.0,19.46,3 years,RENT,Not Verified,car,CA,Individual,775.0,779.0,Oct-1998,18.1,23.0,52.0,0.0,0.0,2.0,0
+94336274,Nov-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,50000.0,15.0,2 years,OWN,Not Verified,debt_consolidation,TX,Individual,715.0,719.0,May-2002,0.3,15.0,60.0,1.0,0.0,0.0,0
+65875393,Dec-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,46000.0,15.86,< 1 year,RENT,Source Verified,credit_card,OK,Individual,685.0,689.0,Aug-1997,18.7,12.0,21.0,0.0,0.0,0.0,0
+75699430,Apr-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,40000.0,17.22,2 years,MORTGAGE,Verified,debt_consolidation,OH,Individual,685.0,689.0,Sep-2003,0.0,7.0,19.0,0.0,1.0,0.0,0
+114174048,Jul-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,83000.0,14.24,< 1 year,RENT,Not Verified,debt_consolidation,FL,Individual,745.0,749.0,Jun-2001,32.8,6.0,15.0,0.0,0.0,0.0,0
+73410979,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,39000.0,19.17,7 years,RENT,Not Verified,credit_card,SD,Individual,715.0,719.0,Aug-2006,69.6,7.0,17.0,0.0,0.0,0.0,0
+96620331,Jan-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,145000.0,17.21,1 year,MORTGAGE,Source Verified,credit_card,NY,Individual,815.0,819.0,Jun-1999,3.4,21.0,52.0,0.0,0.0,0.0,0
+102854203,Mar-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,48000.0,6.88,1 year,RENT,Not Verified,debt_consolidation,HI,Individual,705.0,709.0,Nov-2000,15.4,5.0,11.0,0.0,2.0,1.0,0
+126212630,Dec-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,150000.0,0.71,3 years,MORTGAGE,Not Verified,home_improvement,CA,Individual,700.0,704.0,Aug-1996,13.5,3.0,13.0,0.0,0.0,0.0,0
+51937821,Jun-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,92000.0,18.05,10+ years,MORTGAGE,Source Verified,debt_consolidation,CO,Individual,735.0,739.0,Sep-1993,49.7,11.0,28.0,0.0,0.0,0.0,0
+75547350,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,45000.0,23.52,10+ years,MORTGAGE,Not Verified,debt_consolidation,NY,Individual,695.0,699.0,Mar-2002,16.5,14.0,30.0,0.0,0.0,1.0,0
+75788645,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,95000.0,16.49,1 year,MORTGAGE,Not Verified,small_business,SC,Individual,780.0,784.0,Sep-2003,28.1,9.0,15.0,0.0,0.0,0.0,0
+63248136,Oct-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,105000.0,23.79,8 years,RENT,Not Verified,debt_consolidation,CA,Individual,760.0,764.0,Apr-1994,15.9,22.0,32.0,0.0,0.0,0.0,0
+73693634,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,85000.0,11.97,3 years,RENT,Not Verified,credit_card,TX,Individual,695.0,699.0,Aug-2004,54.3,8.0,24.0,0.0,0.0,1.0,0
+52301279,Jun-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,35000.0,21.54,10+ years,RENT,Source Verified,credit_card,MI,Individual,730.0,734.0,Mar-2001,32.3,13.0,18.0,0.0,0.0,0.0,0
+69464179,Jan-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,48000.0,19.3,,MORTGAGE,Not Verified,debt_consolidation,MN,Individual,725.0,729.0,Nov-2005,21.4,13.0,21.0,0.0,0.0,2.0,0
+98072749,Mar-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,85000.0,21.09,10+ years,MORTGAGE,Not Verified,credit_card,FL,Individual,735.0,739.0,Mar-1996,44.2,12.0,31.0,0.0,0.0,1.0,0
+86176211,Jul-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,49000.0,2.18,8 years,MORTGAGE,Verified,debt_consolidation,CA,Individual,770.0,774.0,Jul-2005,28.8,3.0,34.0,0.0,0.0,0.0,0
+49277624,May-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,70000.0,16.0,10+ years,RENT,Not Verified,credit_card,MN,Individual,780.0,784.0,Oct-1999,24.7,20.0,56.0,0.0,0.0,1.0,0
+59270338,Aug-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,30000.0,29.44,,OWN,Not Verified,credit_card,NC,Individual,695.0,699.0,Apr-1982,33.5,17.0,38.0,0.0,0.0,2.0,0
+69514479,Jan-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,30000.0,14.24,< 1 year,RENT,Source Verified,debt_consolidation,IL,Individual,785.0,789.0,Apr-1994,26.5,9.0,21.0,0.0,0.0,0.0,0
+73724631,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,61000.0,4.15,1 year,RENT,Verified,debt_consolidation,PA,Individual,720.0,724.0,Apr-1998,18.0,6.0,25.0,0.0,1.0,1.0,0
+67898224,Dec-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,60000.0,17.32,10+ years,MORTGAGE,Source Verified,credit_card,NC,Individual,690.0,694.0,Jul-1999,57.9,12.0,23.0,0.0,0.0,0.0,0
+68701375,Jan-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,55000.0,13.09,4 years,OWN,Not Verified,credit_card,FL,Individual,785.0,789.0,Dec-1999,6.3,11.0,20.0,0.0,0.0,1.0,0
+58573059,Aug-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,85000.0,14.87,4 years,MORTGAGE,Not Verified,home_improvement,KY,Individual,715.0,719.0,Sep-1994,47.7,12.0,23.0,1.0,0.0,0.0,0
+71864863,Feb-2016,Charged Off,8000.0,8000.0, 36 months,5.32,240.92,A,A1,94000.0,10.43,2 years,RENT,Not Verified,credit_card,HI,Individual,700.0,704.0,Jun-2006,18.7,14.0,16.0,0.0,0.0,0.0,1
+57104455,Jul-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,25000.0,26.02,,RENT,Not Verified,credit_card,CA,Individual,740.0,744.0,Feb-2002,65.1,4.0,6.0,0.0,0.0,0.0,0
+113124972,Jul-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,60000.0,10.9,10+ years,MORTGAGE,Not Verified,credit_card,CO,Individual,775.0,779.0,Jan-1996,24.8,13.0,35.0,0.0,0.0,0.0,0
+77357815,Apr-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,75000.0,18.41,2 years,RENT,Not Verified,credit_card,GA,Individual,810.0,814.0,Sep-2004,4.0,11.0,16.0,0.0,0.0,0.0,0
+63485033,Oct-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,61537.84,21.47,,MORTGAGE,Not Verified,debt_consolidation,RI,Individual,720.0,724.0,Apr-1988,19.3,9.0,20.0,0.0,0.0,0.0,0
+104102596,Apr-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,63000.0,26.01,10+ years,RENT,Not Verified,medical,FL,Individual,790.0,794.0,Aug-2000,26.8,8.0,21.0,0.0,0.0,0.0,0
+60615815,Sep-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,70000.0,2.28,1 year,RENT,Source Verified,major_purchase,AK,Individual,795.0,799.0,Sep-2003,6.8,3.0,14.0,0.0,0.0,0.0,0
+59582640,Sep-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,225000.0,13.88,10+ years,MORTGAGE,Source Verified,debt_consolidation,FL,Individual,745.0,749.0,Mar-1984,22.8,19.0,37.0,0.0,0.0,0.0,0
+103208980,Mar-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,42000.0,14.71,,MORTGAGE,Not Verified,credit_card,TX,Individual,745.0,749.0,Dec-1988,18.0,11.0,23.0,1.0,0.0,1.0,0
+79692032,Jun-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,90000.0,9.85,< 1 year,RENT,Verified,credit_card,NY,Individual,725.0,729.0,Jul-2008,26.3,14.0,27.0,1.0,0.0,0.0,0
+111774614,Jul-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,110000.0,5.61,3 years,MORTGAGE,Source Verified,debt_consolidation,IL,Individual,720.0,724.0,Jan-2001,0.0,8.0,33.0,0.0,0.0,1.0,0
+76422781,Apr-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,70000.0,11.04,10+ years,MORTGAGE,Source Verified,debt_consolidation,TX,Individual,700.0,704.0,Sep-1995,65.2,9.0,32.0,1.0,0.0,0.0,0
+114508214,Jul-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,82000.0,8.58,1 year,RENT,Not Verified,credit_card,CA,Individual,725.0,729.0,Sep-2010,5.8,11.0,13.0,0.0,0.0,0.0,0
+118635249,Sep-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,50000.0,14.55,10+ years,OWN,Not Verified,debt_consolidation,ME,Individual,805.0,809.0,Jun-2000,7.1,10.0,18.0,0.0,0.0,1.0,0
+58351171,Aug-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,66000.0,11.38,,MORTGAGE,Not Verified,credit_card,WA,Individual,710.0,714.0,Jun-2000,29.8,9.0,37.0,1.0,0.0,0.0,0
+91250104,Oct-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,68000.0,9.69,1 year,RENT,Not Verified,debt_consolidation,MA,Individual,765.0,769.0,Aug-2007,17.0,13.0,23.0,0.0,0.0,0.0,0
+63175098,Oct-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,90000.0,17.67,6 years,MORTGAGE,Not Verified,home_improvement,OH,Individual,770.0,774.0,Jul-1993,47.6,17.0,39.0,0.0,0.0,2.0,0
+65199317,Nov-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,80000.0,10.5,10+ years,RENT,Not Verified,credit_card,NY,Individual,780.0,784.0,Aug-2000,25.1,19.0,37.0,0.0,0.0,0.0,0
+75992611,Apr-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,120000.0,21.25,1 year,RENT,Not Verified,other,MN,Individual,780.0,784.0,Sep-2004,10.3,21.0,59.0,0.0,0.0,0.0,0
+92143754,Nov-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,60800.0,14.96,1 year,RENT,Source Verified,credit_card,TX,Individual,735.0,739.0,Mar-2004,18.3,20.0,34.0,0.0,0.0,0.0,0
+56021696,Aug-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,100286.0,13.23,< 1 year,RENT,Not Verified,debt_consolidation,NY,Individual,730.0,734.0,Dec-1997,38.9,11.0,22.0,0.0,0.0,0.0,0
+89955906,Sep-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,48000.0,11.28,4 years,MORTGAGE,Not Verified,debt_consolidation,OR,Individual,795.0,799.0,Jun-2003,7.9,9.0,20.0,0.0,0.0,1.0,0
+52616127,Jul-2015,Charged Off,8000.0,8000.0, 36 months,5.32,240.92,A,A1,66000.0,25.16,10+ years,MORTGAGE,Not Verified,debt_consolidation,OH,Individual,695.0,699.0,Aug-2000,39.9,15.0,38.0,0.0,0.0,0.0,1
+70143284,Jan-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,88000.0,5.99,10+ years,MORTGAGE,Source Verified,other,VA,Individual,690.0,694.0,Nov-2006,60.1,7.0,17.0,0.0,0.0,0.0,0
+74876261,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,53000.0,17.64,7 years,OWN,Not Verified,debt_consolidation,OH,Individual,750.0,754.0,Jul-2005,22.5,15.0,25.0,0.0,0.0,0.0,0
+125082946,Nov-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,180000.0,9.59,7 years,MORTGAGE,Not Verified,home_improvement,DE,Joint App,760.0,764.0,Sep-1998,35.7,8.0,16.0,0.0,0.0,0.0,0
+73480018,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,70000.0,12.29,1 year,MORTGAGE,Source Verified,debt_consolidation,NM,Individual,790.0,794.0,Jul-2001,5.9,15.0,43.0,0.0,0.0,0.0,0
+68694804,Jan-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,170000.0,6.54,8 years,OWN,Source Verified,credit_card,NY,Individual,830.0,834.0,May-1998,11.5,16.0,42.0,0.0,0.0,0.0,0
+75650289,Apr-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,60000.0,29.86,,MORTGAGE,Not Verified,debt_consolidation,CT,Individual,755.0,759.0,Jan-1994,49.0,14.0,27.0,0.0,0.0,0.0,0
+91443436,Oct-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,207000.0,14.22,1 year,MORTGAGE,Source Verified,credit_card,IL,Individual,705.0,709.0,Aug-2002,25.1,16.0,27.0,0.0,0.0,1.0,0
+78789986,May-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,80000.0,19.02,3 years,MORTGAGE,Not Verified,home_improvement,CO,Individual,715.0,719.0,Jan-2006,31.1,16.0,37.0,0.0,0.0,0.0,0
+111051651,Jun-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,49000.0,33.87,7 years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,730.0,734.0,Sep-2003,42.1,7.0,19.0,0.0,0.0,0.0,0
+70911308,Feb-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,138000.0,28.36,10+ years,MORTGAGE,Not Verified,credit_card,TX,Individual,740.0,744.0,Jan-2001,29.4,16.0,40.0,0.0,0.0,1.0,0
+113669245,Jul-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,50000.0,18.27,6 years,MORTGAGE,Not Verified,credit_card,MN,Individual,735.0,739.0,Sep-1999,28.6,17.0,59.0,0.0,0.0,0.0,0
+60915090,Oct-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,60000.0,17.44,,MORTGAGE,Not Verified,other,OR,Individual,785.0,789.0,Mar-1985,22.6,22.0,35.0,0.0,0.0,0.0,0
+60366966,Oct-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,35000.0,1.82,,OWN,Not Verified,major_purchase,LA,Individual,795.0,799.0,Mar-1993,5.0,7.0,14.0,0.0,0.0,0.0,0
+54077926,Jul-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,80000.0,23.45,1 year,MORTGAGE,Source Verified,credit_card,NJ,Individual,725.0,729.0,Sep-2005,23.9,15.0,27.0,3.0,0.0,1.0,0
+110061982,Jun-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,160000.0,11.89,2 years,RENT,Not Verified,vacation,CA,Individual,820.0,824.0,Mar-1996,5.3,14.0,30.0,0.0,0.0,0.0,0
+60811663,Sep-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,100000.0,6.94,< 1 year,MORTGAGE,Source Verified,debt_consolidation,UT,Individual,755.0,759.0,Jan-1999,39.0,8.0,21.0,0.0,0.0,0.0,0
+51980207,Jun-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,45000.0,12.67,< 1 year,RENT,Not Verified,debt_consolidation,RI,Individual,710.0,714.0,Mar-1996,68.4,10.0,28.0,0.0,0.0,0.0,0
+73884244,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,49000.0,13.96,< 1 year,RENT,Source Verified,debt_consolidation,MN,Individual,720.0,724.0,Mar-2005,36.3,17.0,38.0,0.0,0.0,0.0,0
+74795722,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,80000.0,21.42,10+ years,MORTGAGE,Not Verified,debt_consolidation,MD,Individual,795.0,799.0,Jun-2002,11.7,18.0,50.0,0.0,0.0,0.0,0
+74663313,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,72000.0,27.48,8 years,MORTGAGE,Not Verified,credit_card,CA,Individual,715.0,719.0,Aug-2003,33.1,11.0,29.0,0.0,0.0,0.0,0
+72582684,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,75000.0,2.03,10+ years,MORTGAGE,Source Verified,home_improvement,OH,Individual,725.0,729.0,Apr-1997,9.9,6.0,10.0,0.0,3.0,0.0,0
+107275830,May-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,65000.0,11.21,10+ years,MORTGAGE,Source Verified,debt_consolidation,NH,Individual,755.0,759.0,Aug-2003,22.8,11.0,20.0,0.0,0.0,0.0,0
+115380977,Aug-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,42000.0,12.89,10+ years,MORTGAGE,Not Verified,home_improvement,FL,Individual,785.0,789.0,Jan-2005,13.3,5.0,10.0,0.0,0.0,0.0,0
+75103173,Mar-2016,Charged Off,8000.0,8000.0, 36 months,5.32,240.92,A,A1,75000.0,7.28,8 years,MORTGAGE,Source Verified,debt_consolidation,LA,Individual,700.0,704.0,Sep-1991,4.9,11.0,25.0,0.0,0.0,1.0,1
+76315250,Apr-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,120000.0,11.77,2 years,MORTGAGE,Source Verified,credit_card,TX,Individual,735.0,739.0,Apr-2002,3.1,9.0,15.0,4.0,0.0,0.0,0
+111945161,Jun-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,75000.0,17.65,7 years,RENT,Source Verified,credit_card,HI,Individual,725.0,729.0,Jun-2006,31.1,16.0,27.0,0.0,0.0,0.0,0
+70572635,Feb-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,70000.0,9.46,< 1 year,MORTGAGE,Not Verified,credit_card,MN,Individual,730.0,734.0,Dec-2004,15.7,10.0,18.0,0.0,0.0,0.0,0
+67948387,Dec-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,67100.0,19.27,2 years,MORTGAGE,Not Verified,debt_consolidation,LA,Individual,775.0,779.0,Apr-2001,23.0,10.0,22.0,0.0,0.0,0.0,0
+69465059,Jan-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,85000.0,7.96,9 years,MORTGAGE,Not Verified,major_purchase,IL,Individual,820.0,824.0,Apr-1996,6.0,6.0,18.0,0.0,0.0,0.0,0
+95249869,Jan-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,50000.0,20.09,5 years,MORTGAGE,Not Verified,debt_consolidation,MN,Individual,725.0,729.0,Oct-2005,45.4,7.0,15.0,0.0,0.0,0.0,0
+66454561,Dec-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,145000.0,16.5,3 years,MORTGAGE,Not Verified,vacation,WI,Individual,770.0,774.0,May-1994,13.7,21.0,47.0,0.0,0.0,1.0,0
+118327049,Sep-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,47000.0,13.79,3 years,RENT,Not Verified,debt_consolidation,MD,Individual,725.0,729.0,Sep-2007,18.3,7.0,12.0,0.0,1.0,0.0,0
+113944132,Jul-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,43000.0,30.0,4 years,RENT,Not Verified,other,CA,Individual,785.0,789.0,Jan-2008,18.2,8.0,15.0,0.0,0.0,0.0,0
+74261275,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,55000.0,13.07,< 1 year,RENT,Not Verified,other,WI,Individual,805.0,809.0,Aug-2004,7.7,7.0,20.0,0.0,0.0,0.0,0
+61483676,Oct-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,180000.0,18.53,5 years,MORTGAGE,Verified,debt_consolidation,TX,Individual,680.0,684.0,May-1989,75.7,11.0,22.0,0.0,0.0,1.0,0
+57684189,Aug-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,60000.0,4.84,10+ years,MORTGAGE,Source Verified,debt_consolidation,AK,Individual,785.0,789.0,Jul-1990,26.6,7.0,27.0,0.0,0.0,1.0,0
+58592634,Sep-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,52000.0,28.06,6 years,RENT,Not Verified,debt_consolidation,WA,Individual,800.0,804.0,Nov-1998,6.4,15.0,24.0,0.0,0.0,0.0,0
+71805068,Feb-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,37000.0,9.15,7 years,RENT,Not Verified,major_purchase,MD,Individual,780.0,784.0,Aug-2004,3.7,22.0,42.0,0.0,0.0,0.0,0
+74511751,Mar-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,44000.0,19.31,< 1 year,RENT,Source Verified,major_purchase,PA,Individual,800.0,804.0,Apr-2005,7.1,10.0,25.0,0.0,0.0,0.0,0
+119384420,Sep-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,99000.0,6.86,10+ years,MORTGAGE,Not Verified,credit_card,CA,Individual,780.0,784.0,Oct-1991,39.4,8.0,15.0,0.0,0.0,0.0,0
+59292148,Sep-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,49300.0,13.95,5 years,MORTGAGE,Not Verified,debt_consolidation,NC,Individual,760.0,764.0,Aug-2002,44.9,13.0,17.0,0.0,0.0,0.0,0
+68608259,Jan-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,82000.0,9.32,,MORTGAGE,Not Verified,credit_card,AL,Individual,775.0,779.0,Jun-1965,12.4,12.0,27.0,0.0,0.0,0.0,0
+67355426,Dec-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,161500.0,17.71,8 years,MORTGAGE,Not Verified,credit_card,IL,Individual,750.0,754.0,Jan-1989,48.6,18.0,35.0,0.0,0.0,0.0,0
+66444075,Dec-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,65000.0,11.43,5 years,RENT,Not Verified,debt_consolidation,MI,Individual,725.0,729.0,Oct-2002,74.3,13.0,29.0,0.0,0.0,0.0,0
+66512345,Dec-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,85000.0,4.08,10+ years,MORTGAGE,Not Verified,debt_consolidation,NV,Individual,685.0,689.0,Mar-1992,27.5,11.0,21.0,1.0,1.0,0.0,0
+61017457,Oct-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,75000.0,14.47,5 years,RENT,Not Verified,car,CA,Individual,705.0,709.0,Aug-1996,41.5,9.0,23.0,0.0,0.0,0.0,0
+63384681,Oct-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,46794.0,28.3,,MORTGAGE,Not Verified,debt_consolidation,KY,Individual,790.0,794.0,Jan-1976,32.0,11.0,19.0,0.0,0.0,0.0,0
+116265519,Aug-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,42000.0,34.31,2 years,MORTGAGE,Not Verified,car,CA,Joint App,730.0,734.0,Mar-1994,3.7,12.0,33.0,2.0,1.0,0.0,0
+65835192,Nov-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,49860.0,16.61,2 years,MORTGAGE,Verified,credit_card,AL,Individual,735.0,739.0,Feb-2007,30.0,10.0,11.0,0.0,0.0,0.0,0
+127675630,Jan-2018,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,63000.0,6.27,5 years,MORTGAGE,Not Verified,car,NY,Joint App,830.0,834.0,Jun-2006,3.8,7.0,14.0,0.0,0.0,0.0,0
+63034259,Oct-2015,Charged Off,8000.0,8000.0, 36 months,5.32,240.92,A,A1,140000.0,4.35,2 years,MORTGAGE,Not Verified,credit_card,AR,Individual,740.0,744.0,Nov-1987,38.3,11.0,18.0,0.0,0.0,0.0,1
+50425171,May-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,78000.0,6.52,10+ years,MORTGAGE,Not Verified,debt_consolidation,DE,Individual,730.0,734.0,Dec-1992,49.0,6.0,9.0,0.0,0.0,0.0,0
+94083527,Dec-2016,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,79909.0,18.98,2 years,RENT,Source Verified,credit_card,ND,Individual,710.0,714.0,Aug-2000,34.3,28.0,41.0,0.0,0.0,0.0,0
+115527696,Aug-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,84000.0,15.17,< 1 year,RENT,Not Verified,debt_consolidation,MD,Individual,800.0,804.0,Dec-2007,9.6,15.0,18.0,0.0,0.0,0.0,0
+53604770,Jul-2015,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,112000.0,6.88,10+ years,MORTGAGE,Source Verified,credit_card,VA,Individual,730.0,734.0,Aug-2005,39.0,12.0,20.0,0.0,0.0,0.0,0
+105355709,Apr-2017,Fully Paid,8000.0,8000.0, 36 months,5.32,240.92,A,A1,75000.0,11.7,8 years,MORTGAGE,Not Verified,debt_consolidation,ME,Individual,790.0,794.0,Mar-1999,12.8,14.0,34.0,0.0,0.0,1.0,0
+77138142,Apr-2016,Charged Off,8100.0,8100.0, 36 months,5.32,243.93,A,A1,85000.0,30.58,< 1 year,RENT,Source Verified,debt_consolidation,CA,Individual,680.0,684.0,Oct-1995,31.7,13.0,27.0,0.0,1.0,0.0,1
+67335221,Dec-2015,Fully Paid,8200.0,8200.0, 36 months,5.32,246.95,A,A1,75850.0,23.12,10+ years,MORTGAGE,Not Verified,credit_card,LA,Individual,715.0,719.0,Apr-2009,32.4,13.0,23.0,0.0,0.0,0.0,0
+73366141,Mar-2016,Fully Paid,8250.0,8250.0, 36 months,5.32,248.45,A,A1,87000.0,10.57,1 year,RENT,Source Verified,debt_consolidation,GA,Individual,715.0,719.0,May-2005,17.8,10.0,38.0,0.0,0.0,0.0,0
+85361881,Jul-2016,Charged Off,8325.0,8325.0, 36 months,5.32,250.71,A,A1,122024.0,10.12,1 year,MORTGAGE,Source Verified,credit_card,IL,Individual,745.0,749.0,May-2003,26.6,7.0,19.0,1.0,0.0,1.0,1
+100037056,Mar-2017,Fully Paid,8325.0,8325.0, 36 months,5.32,250.71,A,A1,53000.0,10.28,10+ years,MORTGAGE,Not Verified,credit_card,MS,Individual,710.0,714.0,Jun-1999,45.0,8.0,20.0,0.0,1.0,0.0,0
+58181019,Aug-2015,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,60000.0,13.56,9 years,MORTGAGE,Source Verified,credit_card,SC,Individual,710.0,714.0,Jul-1998,27.9,16.0,30.0,0.0,0.0,0.0,0
+115075720,Aug-2017,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,47600.0,16.67,10+ years,MORTGAGE,Not Verified,credit_card,MN,Individual,790.0,794.0,Jan-1992,17.1,13.0,48.0,0.0,0.0,0.0,0
+82237357,Jun-2016,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,85000.0,12.15,8 years,RENT,Source Verified,credit_card,PA,Individual,775.0,779.0,May-1996,16.8,13.0,16.0,0.0,0.0,0.0,0
+99887413,Mar-2017,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,65000.0,11.4,10+ years,RENT,Not Verified,other,CA,Individual,720.0,724.0,May-1995,5.8,9.0,14.0,0.0,0.0,0.0,0
+57185898,Aug-2015,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,125000.0,15.29,10+ years,RENT,Not Verified,debt_consolidation,VA,Individual,725.0,729.0,Nov-1990,45.5,20.0,30.0,0.0,0.0,0.0,0
+94088270,Dec-2016,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,92000.0,16.16,4 years,MORTGAGE,Not Verified,debt_consolidation,AZ,Individual,720.0,724.0,Mar-1992,12.0,20.0,41.0,1.0,0.0,1.0,0
+94149436,Dec-2016,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,104000.0,21.39,2 years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,710.0,714.0,Oct-2006,15.3,18.0,42.0,1.0,0.0,0.0,0
+92557590,Nov-2016,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,150000.0,11.11,2 years,MORTGAGE,Source Verified,credit_card,MA,Individual,735.0,739.0,Feb-2004,20.1,15.0,37.0,2.0,0.0,1.0,0
+65373498,Nov-2015,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,31000.0,14.32,10+ years,OWN,Verified,debt_consolidation,NY,Individual,735.0,739.0,Sep-2000,0.6,10.0,23.0,0.0,1.0,0.0,0
+74683292,Mar-2016,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,107000.0,10.74,2 years,OWN,Not Verified,credit_card,OH,Individual,735.0,739.0,Jan-2001,30.9,22.0,43.0,0.0,0.0,0.0,0
+67297156,Dec-2015,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,95000.0,14.82,10+ years,RENT,Source Verified,credit_card,FL,Individual,715.0,719.0,Feb-1985,86.3,8.0,18.0,0.0,0.0,0.0,0
+51907717,Jun-2015,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,100000.0,13.52,6 years,MORTGAGE,Source Verified,credit_card,VA,Individual,810.0,814.0,Aug-2000,13.5,13.0,41.0,0.0,0.0,0.0,0
+113482329,Aug-2017,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,60000.0,2.5,9 years,MORTGAGE,Source Verified,car,WA,Individual,750.0,754.0,Jan-1998,4.8,8.0,29.0,1.0,0.0,0.0,0
+119974923,Sep-2017,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,96204.0,13.4,10+ years,RENT,Not Verified,debt_consolidation,CA,Individual,775.0,779.0,Sep-2003,19.4,11.0,21.0,0.0,0.0,0.0,0
+79084464,May-2016,Fully Paid,8400.0,8400.0, 36 months,5.32,252.97,A,A1,55000.0,10.82,2 years,RENT,Not Verified,credit_card,CA,Individual,750.0,754.0,May-2003,6.3,18.0,28.0,2.0,0.0,0.0,0
+77059446,Apr-2016,Fully Paid,8475.0,8475.0, 36 months,5.32,255.23,A,A1,33600.0,29.79,2 years,RENT,Not Verified,debt_consolidation,OH,Individual,785.0,789.0,Sep-1998,24.2,8.0,17.0,0.0,0.0,0.0,0
+89879116,Sep-2016,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,87000.0,14.41,10+ years,RENT,Source Verified,other,CA,Individual,725.0,729.0,Jan-1995,38.3,10.0,27.0,1.0,0.0,0.0,0
+96316003,Jan-2017,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,50000.0,12.6,5 years,MORTGAGE,Verified,debt_consolidation,VA,Individual,775.0,779.0,Dec-1998,12.0,16.0,34.0,0.0,0.0,0.0,0
+69613742,Jan-2016,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,59500.0,6.98,8 years,MORTGAGE,Not Verified,debt_consolidation,MA,Individual,720.0,724.0,Sep-2001,52.9,6.0,21.0,0.0,0.0,1.0,0
+56410159,Aug-2015,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,65000.0,22.14,5 years,MORTGAGE,Not Verified,credit_card,NY,Individual,750.0,754.0,Apr-2002,28.2,11.0,20.0,0.0,0.0,1.0,0
+108431609,May-2017,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,99000.0,26.11,10+ years,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,735.0,739.0,Nov-1994,25.7,26.0,43.0,0.0,0.0,0.0,0
+73903579,Mar-2016,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,53000.0,18.09,8 years,MORTGAGE,Not Verified,debt_consolidation,MO,Individual,755.0,759.0,Apr-1998,81.1,6.0,16.0,0.0,0.0,0.0,0
+86732135,Aug-2016,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,103000.0,8.14,3 years,MORTGAGE,Source Verified,debt_consolidation,MD,Individual,690.0,694.0,Mar-2000,19.3,15.0,46.0,0.0,1.0,2.0,0
+84719783,Jul-2016,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,120000.0,11.5,10+ years,MORTGAGE,Not Verified,credit_card,CT,Individual,755.0,759.0,May-2001,25.7,11.0,28.0,0.0,0.0,1.0,0
+53392493,Jun-2015,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,112000.0,15.09,10+ years,MORTGAGE,Source Verified,credit_card,TX,Individual,720.0,724.0,Jun-1996,21.6,21.0,46.0,0.0,0.0,0.0,0
+75972624,Mar-2016,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,60000.0,13.16,3 years,RENT,Not Verified,credit_card,PA,Individual,720.0,724.0,Jul-2007,68.7,7.0,18.0,0.0,0.0,0.0,0
+94327116,Nov-2016,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,84250.0,10.34,2 years,RENT,Not Verified,credit_card,CA,Individual,750.0,754.0,Dec-2006,19.1,13.0,20.0,0.0,0.0,0.0,0
+85623213,Jul-2016,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,91000.0,12.07,2 years,MORTGAGE,Not Verified,home_improvement,NC,Individual,745.0,749.0,Sep-1993,40.6,8.0,23.0,0.0,0.0,1.0,0
+73530365,Mar-2016,Fully Paid,8500.0,8500.0, 36 months,5.32,255.98,A,A1,65000.0,17.54,9 years,MORTGAGE,Not Verified,debt_consolidation,NY,Individual,740.0,744.0,Oct-1999,47.0,14.0,41.0,0.0,0.0,0.0,0
+72013239,Feb-2016,Fully Paid,8600.0,8600.0, 36 months,5.32,258.99,A,A1,115000.0,15.8,2 years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,775.0,779.0,Jun-2002,22.9,16.0,24.0,0.0,0.0,1.0,0
+57136933,Aug-2015,Fully Paid,8600.0,8600.0, 36 months,5.32,258.99,A,A1,75000.0,4.46,8 years,RENT,Source Verified,credit_card,AR,Individual,695.0,699.0,Apr-2004,56.4,4.0,8.0,0.0,0.0,0.0,0
+102724251,Mar-2017,Fully Paid,8600.0,8600.0, 36 months,5.32,258.99,A,A1,97000.0,14.17,8 years,RENT,Source Verified,debt_consolidation,CA,Individual,725.0,729.0,Jan-2005,32.5,9.0,17.0,0.0,0.0,0.0,0
+77188692,Apr-2016,Fully Paid,8700.0,8700.0, 36 months,5.32,262.0,A,A1,53000.0,10.6,9 years,MORTGAGE,Source Verified,debt_consolidation,VA,Individual,695.0,699.0,Jul-2006,49.5,8.0,14.0,0.0,0.0,0.0,0
+65686674,Nov-2015,Fully Paid,8700.0,8700.0, 36 months,5.32,262.0,A,A1,65500.0,4.29,1 year,MORTGAGE,Source Verified,credit_card,MO,Individual,700.0,704.0,Oct-1988,33.1,5.0,13.0,0.0,0.0,0.0,0
+105752375,Apr-2017,Fully Paid,8800.0,8800.0, 36 months,5.32,265.02,A,A1,165000.0,14.45,10+ years,MORTGAGE,Source Verified,car,UT,Individual,750.0,754.0,Feb-2003,45.7,10.0,33.0,0.0,0.0,0.0,0
+57314522,Aug-2015,Fully Paid,8800.0,8800.0, 36 months,5.32,265.02,A,A1,45000.0,6.36,3 years,RENT,Not Verified,credit_card,FL,Individual,685.0,689.0,Aug-1998,46.1,5.0,13.0,0.0,1.0,0.0,0
+71582668,Feb-2016,Fully Paid,8800.0,8800.0, 36 months,5.32,265.02,A,A1,80000.0,16.59,3 years,OWN,Not Verified,credit_card,OH,Individual,730.0,734.0,Sep-2003,38.0,15.0,37.0,0.0,1.0,1.0,0
+60960216,Sep-2015,Fully Paid,8800.0,8800.0, 36 months,5.32,265.02,A,A1,220000.0,9.13,10+ years,MORTGAGE,Source Verified,debt_consolidation,MN,Individual,740.0,744.0,May-1994,58.1,11.0,28.0,0.0,0.0,0.0,0
+60940211,Sep-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,59000.0,17.09,10+ years,OWN,Not Verified,debt_consolidation,KY,Individual,775.0,779.0,Nov-2001,23.4,10.0,23.0,0.0,0.0,0.0,0
+129033115,Mar-2018,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,102000.0,21.26,10+ years,MORTGAGE,Verified,debt_consolidation,CA,Individual,805.0,809.0,Oct-1998,11.2,9.0,42.0,0.0,0.0,0.0,0
+50263275,May-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,125000.0,5.58,10+ years,MORTGAGE,Source Verified,debt_consolidation,LA,Individual,675.0,679.0,Mar-1981,11.3,10.0,22.0,0.0,1.0,1.0,0
+72513046,Mar-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,65000.0,5.21,2 years,RENT,Not Verified,debt_consolidation,NY,Individual,710.0,714.0,Jun-1988,87.2,4.0,10.0,0.0,0.0,0.0,0
+96835618,Jan-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,108000.0,4.93,,MORTGAGE,Not Verified,debt_consolidation,MA,Individual,755.0,759.0,Mar-1985,14.4,10.0,32.0,0.0,0.0,2.0,0
+71120885,Feb-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,30000.0,25.68,3 years,RENT,Source Verified,credit_card,CA,Individual,700.0,704.0,May-2006,65.5,13.0,23.0,0.0,0.0,0.0,0
+88766878,Sep-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,90000.0,15.93,< 1 year,MORTGAGE,Source Verified,car,MD,Individual,825.0,829.0,Nov-1983,4.1,14.0,36.0,0.0,0.0,1.0,0
+83942934,Jul-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,121200.0,9.68,10+ years,MORTGAGE,Source Verified,debt_consolidation,CA,Individual,680.0,684.0,Jul-2008,37.0,14.0,24.0,0.0,0.0,0.0,0
+77049084,Apr-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,78000.0,22.11,10+ years,MORTGAGE,Not Verified,major_purchase,TX,Individual,715.0,719.0,Oct-1988,33.8,10.0,30.0,0.0,0.0,0.0,0
+96003195,Jan-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,140000.0,10.4,10+ years,OWN,Not Verified,home_improvement,CA,Individual,680.0,684.0,Sep-1983,51.0,17.0,33.0,2.0,0.0,1.0,0
+75264133,Mar-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,72000.0,10.0,10+ years,MORTGAGE,Not Verified,debt_consolidation,CT,Individual,800.0,804.0,Nov-1992,31.7,6.0,24.0,0.0,0.0,0.0,0
+90415424,Sep-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,60000.0,18.82,10+ years,MORTGAGE,Not Verified,credit_card,NE,Individual,715.0,719.0,Apr-2004,57.0,7.0,25.0,0.0,0.0,0.0,0
+76412142,Apr-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,52000.0,23.4,3 years,MORTGAGE,Not Verified,debt_consolidation,OH,Individual,710.0,714.0,Nov-2002,61.8,6.0,10.0,0.0,1.0,1.0,0
+65756943,Nov-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,100000.0,5.72,5 years,MORTGAGE,Not Verified,credit_card,TX,Individual,725.0,729.0,Sep-1975,20.3,17.0,33.0,0.0,1.0,0.0,0
+72002198,Feb-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,200000.0,12.93,< 1 year,RENT,Source Verified,debt_consolidation,FL,Individual,750.0,754.0,Feb-2006,25.2,8.0,19.0,0.0,0.0,1.0,0
+78499581,May-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,65000.0,7.24,10+ years,MORTGAGE,Not Verified,home_improvement,CA,Individual,770.0,774.0,Aug-2005,15.1,13.0,29.0,0.0,0.0,0.0,0
+97902230,Feb-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,77000.0,13.73,10+ years,MORTGAGE,Not Verified,credit_card,OR,Individual,755.0,759.0,Dec-2001,29.3,9.0,23.0,0.0,0.0,0.0,0
+66631864,Dec-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,52000.0,6.95,10+ years,MORTGAGE,Verified,home_improvement,LA,Individual,810.0,814.0,Aug-1989,2.8,9.0,28.0,0.0,0.0,0.0,0
+63407393,Oct-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,82000.0,21.44,8 years,RENT,Source Verified,credit_card,NJ,Individual,715.0,719.0,Mar-1990,42.1,14.0,36.0,0.0,0.0,0.0,0
+74151949,Mar-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,75000.0,23.94,6 years,RENT,Not Verified,credit_card,CA,Individual,755.0,759.0,Jul-2004,29.7,15.0,30.0,0.0,0.0,0.0,0
+96333768,Jan-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,57000.0,11.14,3 years,RENT,Source Verified,debt_consolidation,CA,Individual,775.0,779.0,Jul-2004,27.8,9.0,18.0,0.0,0.0,0.0,0
+70131122,Jan-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,130000.0,5.63,8 years,MORTGAGE,Not Verified,other,OR,Individual,725.0,729.0,Oct-1997,37.6,8.0,30.0,1.0,0.0,0.0,0
+51437130,Jun-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,50000.0,15.55,9 years,MORTGAGE,Not Verified,credit_card,MN,Individual,715.0,719.0,Apr-2002,33.6,11.0,26.0,0.0,0.0,0.0,0
+74533381,Mar-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,44000.0,9.93,1 year,RENT,Not Verified,other,CA,Individual,685.0,689.0,Oct-2010,1.7,4.0,8.0,1.0,0.0,1.0,0
+85047882,Jul-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,130000.0,5.69,9 years,MORTGAGE,Not Verified,debt_consolidation,NV,Individual,750.0,754.0,Jun-2003,47.7,9.0,25.0,0.0,0.0,0.0,0
+52546225,Jun-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,76000.0,10.33,10+ years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,720.0,724.0,Dec-1999,43.1,10.0,16.0,0.0,0.0,0.0,0
+75269852,Mar-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,45000.0,8.88,4 years,RENT,Not Verified,credit_card,IL,Individual,695.0,699.0,Nov-2008,20.7,8.0,34.0,0.0,0.0,0.0,0
+67338559,Dec-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,150000.0,12.67,10+ years,MORTGAGE,Source Verified,debt_consolidation,FL,Individual,720.0,724.0,Jan-1987,30.1,23.0,40.0,0.0,0.0,2.0,0
+74806216,Mar-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,60000.0,16.02,8 years,RENT,Not Verified,debt_consolidation,NY,Individual,725.0,729.0,Nov-2000,52.9,5.0,8.0,0.0,0.0,0.0,0
+95357856,Jan-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,90000.0,2.84,1 year,MORTGAGE,Verified,credit_card,IL,Individual,700.0,704.0,Mar-2005,42.2,6.0,11.0,0.0,0.0,0.0,0
+65946254,Dec-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,55000.0,15.75,< 1 year,MORTGAGE,Not Verified,credit_card,FL,Individual,780.0,784.0,Jul-1994,60.2,13.0,30.0,0.0,0.0,0.0,0
+48040526,May-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,52000.0,20.59,2 years,RENT,Not Verified,credit_card,MA,Individual,735.0,739.0,Jul-2004,33.7,14.0,22.0,0.0,0.0,0.0,0
+60901470,Oct-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,55000.0,16.01,6 years,RENT,Not Verified,credit_card,NY,Individual,745.0,749.0,Jan-2003,19.4,14.0,24.0,0.0,0.0,0.0,0
+72607143,Mar-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,45000.0,11.89,9 years,MORTGAGE,Source Verified,credit_card,AR,Individual,695.0,699.0,Mar-1998,50.6,7.0,18.0,0.0,0.0,0.0,0
+67810172,Dec-2015,Charged Off,9000.0,9000.0, 36 months,5.32,271.04,A,A1,33000.0,22.64,1 year,MORTGAGE,Not Verified,credit_card,MA,Individual,725.0,729.0,Oct-1995,38.3,13.0,24.0,0.0,0.0,0.0,1
+110363315,Jun-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,107000.0,10.78,10+ years,MORTGAGE,Not Verified,credit_card,NJ,Individual,730.0,734.0,Nov-2002,56.8,6.0,22.0,0.0,0.0,0.0,0
+56622731,Aug-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,43000.0,7.54,10+ years,RENT,Source Verified,debt_consolidation,IL,Individual,705.0,709.0,Mar-2006,52.5,7.0,11.0,0.0,0.0,0.0,0
+66584817,Dec-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,35000.0,17.44,7 years,RENT,Source Verified,credit_card,NY,Individual,760.0,764.0,Sep-2003,28.3,12.0,24.0,0.0,0.0,0.0,0
+96683378,Jan-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,68000.0,24.43,2 years,MORTGAGE,Not Verified,other,OK,Individual,785.0,789.0,Aug-1992,20.4,11.0,18.0,0.0,0.0,0.0,0
+70833970,Feb-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,69000.0,12.33,10+ years,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,750.0,754.0,Apr-1998,27.7,12.0,28.0,0.0,0.0,0.0,0
+118222234,Sep-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,106000.0,12.74,5 years,MORTGAGE,Not Verified,credit_card,NE,Individual,775.0,779.0,Feb-2007,23.7,13.0,28.0,0.0,0.0,0.0,0
+58563971,Aug-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,52000.0,17.19,9 years,RENT,Not Verified,credit_card,IL,Individual,735.0,739.0,Apr-1986,20.5,20.0,28.0,0.0,0.0,0.0,0
+68761742,Jan-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,65000.0,14.68,6 years,RENT,Not Verified,credit_card,WV,Individual,705.0,709.0,Aug-1998,48.2,23.0,56.0,0.0,0.0,1.0,0
+84234549,Jul-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,127519.0,0.71,8 years,RENT,Verified,medical,CA,Individual,770.0,774.0,Jul-2003,13.4,3.0,20.0,0.0,0.0,0.0,0
+107415195,May-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,75000.0,5.79,10+ years,RENT,Not Verified,car,MA,Individual,800.0,804.0,Jun-2004,2.3,4.0,15.0,0.0,0.0,2.0,0
+76679036,Apr-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,89000.0,14.46,10+ years,MORTGAGE,Not Verified,debt_consolidation,PA,Individual,705.0,709.0,Dec-2003,67.2,8.0,19.0,0.0,0.0,0.0,0
+64331072,Nov-2015,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,174000.0,16.13,10+ years,MORTGAGE,Not Verified,credit_card,VA,Individual,710.0,714.0,May-1988,84.2,22.0,56.0,1.0,0.0,0.0,0
+100347181,Mar-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,50000.0,15.17,10+ years,MORTGAGE,Not Verified,medical,TN,Individual,805.0,809.0,Jul-2004,14.5,8.0,18.0,0.0,0.0,0.0,0
+74612161,Mar-2016,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,53000.0,30.93,,RENT,Not Verified,debt_consolidation,NY,Individual,695.0,699.0,Jan-1988,26.0,15.0,31.0,0.0,0.0,0.0,0
+75954513,Apr-2016,Charged Off,9000.0,9000.0, 36 months,5.32,271.04,A,A1,75000.0,15.57,9 years,OWN,Not Verified,home_improvement,IL,Individual,765.0,769.0,Feb-1992,20.4,16.0,48.0,0.0,0.0,0.0,1
+115094577,Aug-2017,Fully Paid,9000.0,9000.0, 36 months,5.32,271.04,A,A1,100000.0,8.64,6 years,RENT,Not Verified,credit_card,CA,Individual,765.0,769.0,Mar-1997,27.1,13.0,21.0,0.0,0.0,1.0,0
+77795240,May-2016,Fully Paid,9050.0,9050.0, 36 months,5.32,272.54,A,A1,65000.0,11.08,10+ years,MORTGAGE,Source Verified,debt_consolidation,CA,Individual,680.0,684.0,May-1996,59.0,9.0,27.0,0.0,0.0,1.0,0
+70211361,Jan-2016,Fully Paid,9200.0,9200.0, 36 months,5.32,277.06,A,A1,57000.0,4.86,10+ years,MORTGAGE,Verified,credit_card,MS,Individual,760.0,764.0,Jan-1987,29.1,6.0,21.0,0.0,0.0,0.0,0
+71672627,Feb-2016,Fully Paid,9200.0,9200.0, 36 months,5.32,277.06,A,A1,49900.0,20.68,1 year,MORTGAGE,Source Verified,debt_consolidation,TX,Individual,760.0,764.0,May-1995,25.6,16.0,26.0,0.0,0.0,1.0,0
+75911097,Mar-2016,Fully Paid,9200.0,9200.0, 36 months,5.32,277.06,A,A1,43000.0,9.88,< 1 year,RENT,Not Verified,debt_consolidation,AZ,Individual,705.0,709.0,Sep-2002,33.7,8.0,17.0,0.0,0.0,0.0,0
+64701984,Nov-2015,Fully Paid,9250.0,9250.0, 36 months,5.32,278.57,A,A1,87000.0,12.18,3 years,MORTGAGE,Not Verified,debt_consolidation,NE,Individual,680.0,684.0,Sep-1996,56.0,9.0,19.0,0.0,0.0,0.0,0
+72733343,Feb-2016,Fully Paid,9400.0,9400.0, 36 months,5.32,283.08,A,A1,30228.0,9.45,,MORTGAGE,Verified,credit_card,WV,Individual,765.0,769.0,Sep-1998,33.2,5.0,26.0,0.0,0.0,0.0,0
+95032978,Jan-2017,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,178000.0,28.58,10+ years,MORTGAGE,Not Verified,home_improvement,CA,Individual,770.0,774.0,Nov-1992,20.6,39.0,73.0,0.0,0.0,2.0,0
+72082781,Feb-2016,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,76000.0,27.68,5 years,MORTGAGE,Source Verified,debt_consolidation,TN,Individual,770.0,774.0,Jul-1997,12.0,8.0,44.0,0.0,0.0,0.0,0
+66426253,Dec-2015,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,78000.0,22.48,10+ years,MORTGAGE,Not Verified,debt_consolidation,NC,Individual,740.0,744.0,Dec-1999,19.1,13.0,41.0,0.0,0.0,1.0,0
+51036012,Jun-2015,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,47500.0,7.93,5 years,MORTGAGE,Source Verified,credit_card,TX,Individual,770.0,774.0,Dec-1981,35.5,6.0,8.0,0.0,0.0,0.0,0
+109711794,May-2017,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,180000.0,16.48,10+ years,MORTGAGE,Source Verified,other,TX,Individual,745.0,749.0,Aug-2006,25.8,11.0,28.0,0.0,0.0,0.0,0
+97269031,Feb-2017,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,120000.0,2.55,10+ years,MORTGAGE,Not Verified,credit_card,NY,Individual,740.0,744.0,Sep-2005,32.0,8.0,25.0,0.0,0.0,0.0,0
+58663812,Aug-2015,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,45000.0,7.79,,OWN,Not Verified,credit_card,WI,Individual,720.0,724.0,Aug-1969,24.3,10.0,17.0,0.0,1.0,0.0,0
+56200247,Jul-2015,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,32000.0,34.43,,MORTGAGE,Not Verified,credit_card,AZ,Individual,700.0,704.0,Oct-1996,18.4,9.0,22.0,1.0,0.0,0.0,0
+68741704,Jan-2016,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,137000.0,8.99,10+ years,OWN,Not Verified,credit_card,TX,Individual,715.0,719.0,Dec-1993,28.7,13.0,24.0,0.0,0.0,0.0,0
+77250137,Apr-2016,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,95502.0,31.2,10+ years,MORTGAGE,Not Verified,other,TX,Individual,715.0,719.0,Jun-1988,34.1,15.0,37.0,0.0,0.0,0.0,0
+115073555,Aug-2017,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,40000.0,20.94,8 years,MORTGAGE,Not Verified,debt_consolidation,FL,Joint App,780.0,784.0,Nov-2004,23.5,6.0,28.0,0.0,0.0,0.0,0
+73795161,Mar-2016,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,108000.0,1.88,3 years,MORTGAGE,Source Verified,credit_card,TX,Individual,690.0,694.0,Aug-1967,11.7,15.0,33.0,2.0,0.0,1.0,0
+68714685,Jan-2016,Fully Paid,9500.0,9500.0, 36 months,5.32,286.1,A,A1,150000.0,8.14,9 years,MORTGAGE,Not Verified,home_improvement,CA,Individual,745.0,749.0,Sep-1996,2.5,12.0,30.0,0.0,0.0,0.0,0
+77295901,Apr-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,60000.0,8.28,10+ years,MORTGAGE,Source Verified,debt_consolidation,NV,Individual,695.0,699.0,Feb-2000,62.6,9.0,23.0,1.0,0.0,0.0,0
+75650841,Mar-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,38000.0,12.48,,OWN,Not Verified,credit_card,MI,Individual,725.0,729.0,Dec-1995,46.7,7.0,11.0,0.0,0.0,0.0,0
+72685220,Feb-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,45000.0,26.96,10+ years,MORTGAGE,Not Verified,debt_consolidation,PA,Individual,740.0,744.0,Jun-2002,18.4,17.0,36.0,0.0,0.0,2.0,0
+69823482,Jan-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,65000.0,9.79,3 years,MORTGAGE,Not Verified,debt_consolidation,MA,Individual,725.0,729.0,Oct-1996,19.0,18.0,28.0,0.0,0.0,1.0,0
+59249688,Sep-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,95000.0,6.35,< 1 year,RENT,Not Verified,credit_card,RI,Individual,710.0,714.0,Jan-2011,23.4,11.0,14.0,1.0,0.0,0.0,0
+76231537,Apr-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,76000.0,14.2,3 years,MORTGAGE,Not Verified,credit_card,OH,Individual,730.0,734.0,Apr-2004,29.4,13.0,20.0,0.0,1.0,0.0,0
+60567466,Sep-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,65000.0,25.46,7 years,MORTGAGE,Not Verified,home_improvement,PA,Individual,710.0,714.0,Aug-2000,47.4,11.0,13.0,0.0,0.0,0.0,0
+72733866,Mar-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,52000.0,16.8,2 years,MORTGAGE,Not Verified,home_improvement,OH,Individual,785.0,789.0,Mar-2004,9.8,18.0,36.0,0.0,0.0,0.0,0
+56964642,Aug-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,43000.0,8.93,2 years,MORTGAGE,Verified,credit_card,GA,Individual,740.0,744.0,Sep-1991,17.8,20.0,35.0,1.0,0.0,0.0,0
+77326949,Apr-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,65000.0,14.24,10+ years,MORTGAGE,Verified,debt_consolidation,CA,Individual,750.0,754.0,Jul-2003,1.1,7.0,29.0,0.0,0.0,0.0,0
+60941374,Sep-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,112000.0,27.24,4 years,MORTGAGE,Not Verified,debt_consolidation,NY,Individual,805.0,809.0,Apr-1971,8.4,24.0,47.0,0.0,0.0,0.0,0
+57388226,Aug-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,87927.0,5.08,10+ years,OWN,Source Verified,credit_card,GA,Individual,690.0,694.0,May-1989,42.0,5.0,9.0,0.0,2.0,0.0,0
+88989486,Oct-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,68000.0,8.01,,MORTGAGE,Not Verified,home_improvement,IN,Individual,745.0,749.0,Jan-2005,2.2,11.0,28.0,1.0,0.0,0.0,0
+73846232,Mar-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,76000.0,3.05,8 years,RENT,Source Verified,credit_card,NY,Individual,785.0,789.0,Jul-1989,13.6,5.0,13.0,0.0,0.0,0.0,0
+97508568,Feb-2017,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,45000.0,19.41,8 years,RENT,Not Verified,credit_card,TN,Individual,720.0,724.0,Nov-2006,43.8,5.0,18.0,0.0,0.0,1.0,0
+72704661,Mar-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,133000.0,9.9,3 years,MORTGAGE,Not Verified,credit_card,VA,Individual,820.0,824.0,Aug-1987,8.7,16.0,31.0,0.0,0.0,1.0,0
+65414006,Nov-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,60000.0,16.66,3 years,RENT,Not Verified,medical,TX,Individual,800.0,804.0,Mar-1990,3.9,9.0,11.0,0.0,0.0,0.0,0
+76401657,Apr-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,62000.0,21.22,10+ years,MORTGAGE,Not Verified,home_improvement,AZ,Individual,725.0,729.0,Sep-2005,23.2,11.0,17.0,0.0,0.0,1.0,0
+63465350,Nov-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,45000.0,17.81,,RENT,Source Verified,debt_consolidation,IN,Individual,705.0,709.0,May-1995,32.4,8.0,29.0,0.0,0.0,0.0,0
+73489684,Mar-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,65000.0,16.93,10+ years,RENT,Not Verified,debt_consolidation,MN,Individual,800.0,804.0,Jun-1993,4.8,9.0,23.0,0.0,0.0,0.0,0
+66402068,Dec-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,70000.0,16.49,9 years,RENT,Not Verified,credit_card,TX,Individual,790.0,794.0,Sep-2003,22.2,13.0,23.0,0.0,0.0,0.0,0
+74856225,Mar-2016,Charged Off,9600.0,9600.0, 36 months,5.32,289.11,A,A1,80000.0,14.45,10+ years,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,720.0,724.0,Nov-1996,27.6,20.0,53.0,0.0,0.0,1.0,1
+52017788,Jun-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,120000.0,8.79,< 1 year,RENT,Not Verified,credit_card,CA,Individual,755.0,759.0,Mar-2008,20.6,9.0,11.0,0.0,0.0,0.0,0
+102884644,Mar-2017,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,75000.0,21.73,7 years,MORTGAGE,Source Verified,debt_consolidation,FL,Individual,730.0,734.0,Oct-1999,26.9,15.0,31.0,0.0,0.0,1.0,0
+50952942,Jun-2015,Charged Off,9600.0,9600.0, 36 months,5.32,289.11,A,A1,47000.0,17.97,10+ years,RENT,Source Verified,credit_card,FL,Individual,720.0,724.0,Feb-1995,41.0,6.0,12.0,0.0,0.0,0.0,1
+71023208,Feb-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,90000.0,4.57,6 years,RENT,Not Verified,credit_card,NY,Individual,695.0,699.0,Jul-2001,45.5,7.0,12.0,0.0,1.0,0.0,0
+61421024,Oct-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,85000.0,8.83,3 years,MORTGAGE,Not Verified,credit_card,KY,Individual,750.0,754.0,May-2005,28.1,10.0,15.0,0.0,0.0,0.0,0
+74151756,Mar-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,28800.0,1.88,10+ years,MORTGAGE,Source Verified,vacation,TX,Individual,755.0,759.0,Jun-2001,3.6,10.0,38.0,0.0,0.0,0.0,0
+61416045,Oct-2015,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,66196.0,24.27,10+ years,RENT,Source Verified,credit_card,CA,Individual,690.0,694.0,Apr-1998,40.5,6.0,12.0,0.0,0.0,1.0,0
+78279364,May-2016,Fully Paid,9600.0,9600.0, 36 months,5.32,289.11,A,A1,68000.0,7.96,3 years,RENT,Source Verified,debt_consolidation,FL,Individual,715.0,719.0,May-2000,16.1,13.0,32.0,0.0,0.0,1.0,0
+63898333,Nov-2015,Fully Paid,9750.0,9750.0, 36 months,5.32,293.62,A,A1,45000.0,9.36,,MORTGAGE,Not Verified,credit_card,WI,Individual,810.0,814.0,Dec-1979,15.8,14.0,42.0,0.0,0.0,0.0,0
+121821144,Nov-2017,Fully Paid,9800.0,9800.0, 36 months,5.32,295.13,A,A1,34300.0,1.82,4 years,MORTGAGE,Verified,home_improvement,TX,Individual,800.0,804.0,Mar-2000,0.0,3.0,9.0,0.0,0.0,1.0,0
+104531354,Apr-2017,Fully Paid,9800.0,9800.0, 36 months,5.32,295.13,A,A1,56000.0,19.01,3 years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,785.0,789.0,Apr-2005,11.0,18.0,28.0,0.0,0.0,0.0,0
+97449405,Feb-2017,Fully Paid,9800.0,9800.0, 36 months,5.32,295.13,A,A1,85000.0,23.58,4 years,MORTGAGE,Not Verified,home_improvement,WA,Individual,755.0,759.0,Sep-1996,47.1,17.0,22.0,0.0,0.0,0.0,0
+90185826,Sep-2016,Fully Paid,9800.0,9800.0, 36 months,5.32,295.13,A,A1,95000.0,10.11,5 years,RENT,Not Verified,credit_card,GA,Individual,795.0,799.0,Mar-2006,6.6,13.0,33.0,0.0,0.0,0.0,0
+67695813,Dec-2015,Fully Paid,9800.0,9800.0, 36 months,5.32,295.13,A,A1,112000.0,24.12,10+ years,MORTGAGE,Not Verified,credit_card,PA,Individual,715.0,719.0,Oct-1999,55.0,13.0,32.0,0.0,0.0,0.0,0
+70931194,Feb-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,65000.0,2.75,,MORTGAGE,Not Verified,credit_card,FL,Individual,695.0,699.0,Jul-2012,37.5,6.0,8.0,0.0,1.0,0.0,0
+79420209,May-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,93000.0,9.15,10+ years,MORTGAGE,Not Verified,debt_consolidation,OH,Individual,735.0,739.0,Feb-2003,11.2,16.0,37.0,1.0,0.0,0.0,0
+72604818,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,80000.0,21.39,10+ years,RENT,Not Verified,debt_consolidation,CA,Individual,735.0,739.0,Dec-1997,62.7,8.0,19.0,0.0,0.0,0.0,0
+75270871,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,70000.0,17.83,8 years,MORTGAGE,Not Verified,credit_card,TX,Individual,755.0,759.0,Jun-1992,11.1,22.0,45.0,0.0,0.0,1.0,0
+63928725,Nov-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,65000.0,25.55,,OWN,Not Verified,debt_consolidation,AR,Individual,735.0,739.0,Oct-2003,28.1,17.0,30.0,0.0,1.0,0.0,0
+125096325,Nov-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,72000.0,17.92,3 years,MORTGAGE,Not Verified,credit_card,NV,Individual,740.0,744.0,Oct-2002,12.1,17.0,26.0,0.0,0.0,0.0,0
+103901537,Apr-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,50000.0,0.6,9 years,OWN,Not Verified,major_purchase,MN,Individual,735.0,739.0,Jul-1997,8.0,9.0,33.0,0.0,0.0,0.0,0
+76251268,Apr-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,40000.0,8.55,3 years,MORTGAGE,Source Verified,debt_consolidation,AZ,Individual,700.0,704.0,Sep-2000,38.9,7.0,14.0,0.0,0.0,0.0,0
+73865592,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,35000.0,10.83,1 year,RENT,Not Verified,other,WI,Individual,740.0,744.0,Oct-2010,14.3,8.0,10.0,0.0,0.0,2.0,0
+58872584,Aug-2015,Charged Off,10000.0,10000.0, 36 months,5.32,301.15,A,A1,100000.0,9.54,3 years,MORTGAGE,Not Verified,credit_card,CA,Individual,750.0,754.0,Jan-2001,31.5,18.0,24.0,0.0,0.0,0.0,1
+62317228,Oct-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,140000.0,7.36,8 years,MORTGAGE,Source Verified,credit_card,CO,Individual,680.0,684.0,Dec-2001,18.5,10.0,36.0,0.0,0.0,0.0,0
+108956026,May-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,150000.0,14.74,4 years,OWN,Not Verified,car,NE,Individual,795.0,799.0,Dec-2003,18.3,13.0,49.0,0.0,0.0,2.0,0
+71989505,Feb-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,29500.0,29.01,4 years,OWN,Not Verified,credit_card,ID,Individual,745.0,749.0,Jul-2002,31.3,7.0,9.0,0.0,0.0,0.0,0
+91963176,Oct-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,100000.0,22.96,10+ years,MORTGAGE,Not Verified,credit_card,NY,Individual,725.0,729.0,Dec-2001,27.9,21.0,37.0,0.0,0.0,2.0,0
+76738438,Apr-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,100000.0,22.6,10+ years,MORTGAGE,Not Verified,debt_consolidation,MA,Individual,805.0,809.0,Sep-1995,12.8,20.0,55.0,0.0,0.0,0.0,0
+76422302,Apr-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,75000.0,13.34,1 year,RENT,Not Verified,credit_card,CO,Individual,720.0,724.0,Sep-2006,44.9,13.0,22.0,0.0,0.0,0.0,0
+61342379,Oct-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,50000.0,17.02,1 year,RENT,Not Verified,credit_card,TX,Individual,715.0,719.0,Aug-2000,44.9,13.0,20.0,0.0,0.0,1.0,0
+91127226,Oct-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,105000.0,9.16,7 years,MORTGAGE,Verified,home_improvement,CT,Individual,700.0,704.0,Jul-1996,42.1,9.0,20.0,0.0,1.0,0.0,0
+114152603,Jul-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,65000.0,15.12,4 years,MORTGAGE,Not Verified,credit_card,OK,Individual,785.0,789.0,Mar-1996,24.6,7.0,21.0,0.0,0.0,0.0,0
+78499774,May-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,120000.0,5.11,2 years,MORTGAGE,Not Verified,major_purchase,VA,Individual,715.0,719.0,Dec-2005,10.5,14.0,19.0,0.0,1.0,1.0,0
+119396714,Sep-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,111000.0,15.01,8 years,MORTGAGE,Not Verified,small_business,GA,Individual,785.0,789.0,Feb-1991,15.0,17.0,26.0,0.0,0.0,0.0,0
+75145190,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,75000.0,7.26,< 1 year,RENT,Not Verified,debt_consolidation,CA,Individual,740.0,744.0,Sep-2010,38.3,8.0,8.0,0.0,0.0,0.0,0
+61508184,Oct-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,85000.0,16.07,10+ years,MORTGAGE,Not Verified,debt_consolidation,IN,Individual,795.0,799.0,Mar-2004,19.3,11.0,18.0,0.0,0.0,0.0,0
+51867899,Jun-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,44000.0,22.45,6 years,MORTGAGE,Not Verified,credit_card,MD,Individual,765.0,769.0,Oct-1995,22.8,10.0,32.0,0.0,0.0,0.0,0
+53604986,Jul-2015,Charged Off,10000.0,10000.0, 36 months,5.32,301.15,A,A1,60000.0,22.84,,OWN,Source Verified,debt_consolidation,NY,Individual,800.0,804.0,Oct-1996,13.0,14.0,35.0,0.0,0.0,0.0,1
+89887594,Sep-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,140000.0,8.85,10+ years,OWN,Not Verified,debt_consolidation,CA,Individual,705.0,709.0,Jun-1995,21.8,21.0,49.0,1.0,0.0,0.0,0
+73192713,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,60000.0,16.88,10+ years,MORTGAGE,Not Verified,credit_card,IN,Individual,705.0,709.0,Aug-1990,44.0,14.0,29.0,0.0,0.0,1.0,0
+71652819,Feb-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,95000.0,4.91,10+ years,MORTGAGE,Source Verified,debt_consolidation,AL,Individual,770.0,774.0,Mar-1997,50.5,6.0,19.0,0.0,0.0,0.0,0
+76182162,Apr-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,65000.0,21.94,,OWN,Not Verified,debt_consolidation,SC,Individual,770.0,774.0,Dec-1990,43.8,12.0,26.0,0.0,0.0,0.0,0
+67388560,Dec-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,87500.0,7.42,10+ years,MORTGAGE,Verified,debt_consolidation,IL,Individual,745.0,749.0,Aug-1975,55.4,10.0,25.0,0.0,0.0,1.0,0
+88918030,Sep-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,68000.0,13.94,10+ years,RENT,Not Verified,home_improvement,MN,Individual,725.0,729.0,Nov-2005,33.8,12.0,33.0,0.0,0.0,0.0,0
+121336188,Oct-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,85000.0,13.35,6 years,MORTGAGE,Not Verified,house,GA,Individual,780.0,784.0,Dec-2002,20.4,8.0,22.0,0.0,0.0,0.0,0
+55501942,Jul-2015,Charged Off,10000.0,10000.0, 36 months,5.32,301.15,A,A1,150000.0,1.37,7 years,MORTGAGE,Source Verified,home_improvement,FL,Individual,720.0,724.0,Oct-1993,4.0,15.0,39.0,1.0,0.0,0.0,1
+77041529,Apr-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,60000.0,12.63,10+ years,MORTGAGE,Source Verified,debt_consolidation,CA,Individual,765.0,769.0,Feb-1979,15.7,10.0,22.0,0.0,0.0,1.0,0
+72753589,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,135000.0,27.5,10+ years,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,710.0,714.0,Aug-1994,61.7,16.0,34.0,0.0,0.0,0.0,0
+55160683,Jul-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,48000.0,10.81,10+ years,RENT,Not Verified,debt_consolidation,CA,Individual,740.0,744.0,Oct-2006,22.5,12.0,17.0,0.0,0.0,0.0,0
+68369280,Jan-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,250000.0,13.01,9 years,MORTGAGE,Not Verified,medical,NY,Individual,725.0,729.0,Feb-1995,92.7,7.0,10.0,0.0,0.0,0.0,0
+48926647,May-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,60000.0,22.44,10+ years,MORTGAGE,Not Verified,credit_card,CA,Individual,805.0,809.0,Apr-1977,15.5,19.0,31.0,0.0,0.0,0.0,0
+83324499,Jun-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,118000.0,1.24,10+ years,MORTGAGE,Verified,home_improvement,NY,Individual,805.0,809.0,Jan-1986,18.2,8.0,21.0,0.0,0.0,0.0,0
+49703671,May-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,109000.0,16.39,10+ years,OWN,Not Verified,credit_card,MN,Individual,755.0,759.0,May-2001,49.5,9.0,27.0,0.0,0.0,0.0,0
+74142050,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,78000.0,5.78,4 years,MORTGAGE,Source Verified,debt_consolidation,NY,Individual,770.0,774.0,Aug-2005,38.8,7.0,16.0,0.0,0.0,0.0,0
+49984711,May-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,95000.0,16.32,5 years,MORTGAGE,Not Verified,debt_consolidation,IL,Individual,780.0,784.0,Mar-1996,23.0,13.0,24.0,0.0,0.0,0.0,0
+64291251,Nov-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,60000.0,6.54,2 years,RENT,Not Verified,credit_card,CO,Individual,745.0,749.0,Aug-2004,32.4,9.0,13.0,0.0,0.0,0.0,0
+103871144,Apr-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,135000.0,4.29,4 years,RENT,Not Verified,medical,FL,Individual,775.0,779.0,Jun-2008,6.2,9.0,11.0,0.0,0.0,0.0,0
+55351259,Jul-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,95000.0,15.75,10+ years,MORTGAGE,Not Verified,home_improvement,CA,Individual,790.0,794.0,Mar-1994,7.8,10.0,34.0,0.0,0.0,0.0,0
+67318754,Dec-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,68000.0,5.17,10+ years,MORTGAGE,Source Verified,debt_consolidation,CO,Individual,765.0,769.0,Sep-1997,12.8,20.0,41.0,0.0,0.0,1.0,0
+73895704,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,114000.0,15.04,8 years,MORTGAGE,Not Verified,home_improvement,CA,Individual,710.0,714.0,Dec-2004,72.8,14.0,20.0,0.0,0.0,0.0,0
+75111424,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,135000.0,13.38,10+ years,MORTGAGE,Source Verified,home_improvement,NY,Individual,730.0,734.0,Apr-2003,43.2,31.0,47.0,0.0,0.0,1.0,0
+78905041,May-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,54000.0,27.48,5 years,MORTGAGE,Source Verified,debt_consolidation,NV,Individual,700.0,704.0,Oct-2006,40.2,18.0,30.0,0.0,0.0,0.0,0
+95150481,Jan-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,100000.0,12.89,10+ years,MORTGAGE,Not Verified,home_improvement,AZ,Individual,820.0,824.0,Oct-1995,1.5,12.0,38.0,0.0,0.0,0.0,0
+73688080,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,30000.0,8.72,3 years,RENT,Source Verified,debt_consolidation,NY,Individual,710.0,714.0,May-2000,40.3,6.0,11.0,0.0,0.0,0.0,0
+75819878,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,150000.0,6.51,10+ years,MORTGAGE,Not Verified,debt_consolidation,AZ,Individual,770.0,774.0,Mar-1999,26.6,13.0,29.0,0.0,0.0,0.0,0
+59591391,Aug-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,61500.0,21.17,3 years,RENT,Not Verified,credit_card,IN,Individual,750.0,754.0,Aug-1998,37.2,6.0,18.0,0.0,0.0,0.0,0
+82100335,Jun-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,90000.0,16.21,1 year,RENT,Source Verified,debt_consolidation,VA,Individual,795.0,799.0,Apr-1998,13.9,12.0,21.0,0.0,0.0,0.0,0
+77380042,May-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,104000.0,14.21,10+ years,MORTGAGE,Not Verified,debt_consolidation,AZ,Individual,790.0,794.0,Oct-2002,16.0,15.0,25.0,0.0,0.0,0.0,0
+54474783,Jul-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,76000.0,21.98,1 year,RENT,Source Verified,debt_consolidation,MS,Individual,740.0,744.0,Jan-1992,58.2,7.0,16.0,0.0,0.0,0.0,0
+70973669,Feb-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,121000.0,3.05,< 1 year,OWN,Not Verified,major_purchase,TX,Individual,780.0,784.0,Jan-1989,10.7,15.0,26.0,0.0,0.0,0.0,0
+68513544,Dec-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,75000.0,22.85,10+ years,MORTGAGE,Not Verified,credit_card,FL,Individual,710.0,714.0,May-2003,42.2,11.0,28.0,0.0,0.0,0.0,0
+64150283,Nov-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,74000.0,28.93,10+ years,OWN,Not Verified,debt_consolidation,CT,Individual,730.0,734.0,May-1994,14.5,16.0,25.0,1.0,0.0,0.0,0
+68252492,Dec-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,52800.0,26.62,10+ years,MORTGAGE,Not Verified,credit_card,GA,Individual,750.0,754.0,Mar-1999,18.6,17.0,24.0,0.0,0.0,0.0,0
+79572330,Jun-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,90000.0,8.75,4 years,MORTGAGE,Not Verified,credit_card,TN,Individual,730.0,734.0,Apr-1997,17.6,16.0,35.0,0.0,0.0,0.0,0
+75820324,Apr-2016,Charged Off,10000.0,10000.0, 36 months,5.32,301.15,A,A1,250000.0,6.8,10+ years,RENT,Source Verified,small_business,CA,Individual,680.0,684.0,Aug-2003,7.9,12.0,25.0,0.0,1.0,1.0,1
+62257629,Oct-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,58759.0,23.75,10+ years,MORTGAGE,Not Verified,major_purchase,NC,Individual,760.0,764.0,Oct-2003,29.0,13.0,22.0,0.0,0.0,0.0,0
+75291270,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,85000.0,25.52,10+ years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,720.0,724.0,Apr-1987,48.5,16.0,49.0,0.0,0.0,0.0,0
+73969342,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,130000.0,16.32,10+ years,MORTGAGE,Source Verified,credit_card,AL,Individual,720.0,724.0,Nov-1998,67.5,7.0,31.0,0.0,0.0,0.0,0
+83645641,Jun-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,85000.0,16.04,10+ years,MORTGAGE,Not Verified,debt_consolidation,SC,Individual,800.0,804.0,Jan-1998,10.5,12.0,17.0,0.0,0.0,0.0,0
+73885759,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,43000.0,26.67,5 years,RENT,Not Verified,debt_consolidation,CA,Individual,760.0,764.0,Jan-2007,38.4,6.0,20.0,0.0,0.0,0.0,0
+69653671,Jan-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,156000.0,8.9,2 years,RENT,Not Verified,debt_consolidation,NY,Individual,775.0,779.0,Dec-1976,11.0,17.0,48.0,0.0,0.0,1.0,0
+59092362,Sep-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,106000.0,17.18,5 years,MORTGAGE,Not Verified,home_improvement,MN,Individual,720.0,724.0,Jul-2003,22.0,14.0,20.0,0.0,3.0,0.0,0
+67349204,Dec-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,70000.0,26.8,,OWN,Verified,debt_consolidation,MO,Individual,770.0,774.0,Jan-1997,27.3,11.0,15.0,0.0,0.0,0.0,0
+74984955,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,42000.0,21.34,8 years,RENT,Not Verified,debt_consolidation,CT,Individual,725.0,729.0,Dec-2003,48.4,12.0,22.0,0.0,0.0,0.0,0
+63374390,Oct-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,35000.0,6.82,10+ years,MORTGAGE,Not Verified,debt_consolidation,FL,Individual,790.0,794.0,Sep-1996,13.3,12.0,28.0,0.0,0.0,0.0,0
+77459197,May-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,100000.0,9.76,< 1 year,RENT,Not Verified,debt_consolidation,GA,Individual,750.0,754.0,Aug-2001,42.2,9.0,17.0,0.0,0.0,0.0,0
+76728657,Apr-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,39000.0,29.29,1 year,OWN,Not Verified,credit_card,MO,Individual,745.0,749.0,Dec-2003,16.5,17.0,36.0,0.0,0.0,0.0,0
+76152383,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,90000.0,20.58,10+ years,OWN,Not Verified,other,TX,Individual,730.0,734.0,Apr-1978,48.3,15.0,33.0,0.0,0.0,0.0,0
+64099210,Nov-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,120000.0,6.85,6 years,MORTGAGE,Source Verified,home_improvement,CA,Individual,690.0,694.0,Nov-1999,23.8,7.0,15.0,0.0,0.0,0.0,0
+66311112,Dec-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,100000.0,7.26,10+ years,MORTGAGE,Verified,credit_card,CA,Individual,770.0,774.0,Dec-2002,17.0,9.0,28.0,0.0,0.0,0.0,0
+61332652,Oct-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,76960.0,21.44,10+ years,MORTGAGE,Source Verified,debt_consolidation,OR,Individual,700.0,704.0,May-2003,54.4,13.0,29.0,0.0,0.0,0.0,0
+69902987,Jan-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,150000.0,13.04,10+ years,MORTGAGE,Not Verified,debt_consolidation,HI,Individual,700.0,704.0,Aug-1985,45.8,13.0,31.0,1.0,0.0,0.0,0
+96702624,Jan-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,90000.0,13.93,,MORTGAGE,Not Verified,debt_consolidation,WI,Individual,760.0,764.0,Nov-1986,35.5,11.0,29.0,0.0,0.0,0.0,0
+88342960,Aug-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,79000.0,12.38,10+ years,MORTGAGE,Source Verified,house,TX,Individual,760.0,764.0,Dec-1996,16.1,11.0,21.0,1.0,0.0,0.0,0
+63104414,Oct-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,51000.0,20.47,5 years,RENT,Not Verified,credit_card,IL,Individual,780.0,784.0,Mar-2000,41.1,12.0,24.0,0.0,0.0,0.0,0
+84254113,Jul-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,400000.0,3.56,8 years,MORTGAGE,Verified,credit_card,TX,Individual,715.0,719.0,Dec-2001,35.3,11.0,31.0,1.0,0.0,1.0,0
+63327848,Oct-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,80000.0,21.9,1 year,RENT,Not Verified,credit_card,VA,Individual,775.0,779.0,Nov-2000,14.1,14.0,28.0,0.0,0.0,0.0,0
+56007470,Jul-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,200000.0,4.52,5 years,MORTGAGE,Source Verified,credit_card,MD,Individual,720.0,724.0,Jul-1991,21.5,10.0,20.0,0.0,0.0,1.0,0
+61952710,Oct-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,44000.0,6.44,10+ years,MORTGAGE,Not Verified,debt_consolidation,TX,Individual,785.0,789.0,Feb-1983,31.2,5.0,16.0,0.0,0.0,0.0,0
+72052124,Feb-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,78000.0,8.25,6 years,MORTGAGE,Not Verified,credit_card,OH,Individual,830.0,834.0,Aug-2001,11.6,16.0,21.0,0.0,0.0,0.0,0
+53272401,Jul-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,160000.0,5.0,4 years,RENT,Not Verified,debt_consolidation,MA,Individual,705.0,709.0,Dec-2000,32.2,7.0,10.0,0.0,0.0,0.0,0
+64832784,Nov-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,45000.0,12.99,10+ years,MORTGAGE,Not Verified,credit_card,OH,Individual,800.0,804.0,Jun-1991,7.3,17.0,52.0,0.0,0.0,0.0,0
+105995287,Apr-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,65000.0,21.34,10+ years,RENT,Not Verified,debt_consolidation,IL,Individual,765.0,769.0,Sep-2005,38.7,12.0,27.0,0.0,0.0,0.0,0
+74676398,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,40000.0,19.5,4 years,RENT,Source Verified,debt_consolidation,MN,Individual,700.0,704.0,Nov-2008,35.7,19.0,25.0,0.0,0.0,1.0,0
+60810875,Sep-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,50000.0,1.8,10+ years,OWN,Verified,home_improvement,NE,Individual,800.0,804.0,Jan-1999,1.1,11.0,33.0,0.0,0.0,0.0,0
+121392159,Oct-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,39500.0,10.3,< 1 year,RENT,Not Verified,debt_consolidation,MI,Individual,755.0,759.0,Mar-2007,16.0,14.0,29.0,0.0,0.0,0.0,0
+66504629,Dec-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,200000.0,14.63,1 year,MORTGAGE,Source Verified,credit_card,IL,Individual,770.0,774.0,Jun-1994,74.1,6.0,33.0,0.0,0.0,0.0,0
+72093096,Feb-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,128000.0,14.87,1 year,OWN,Not Verified,debt_consolidation,CA,Individual,720.0,724.0,Feb-1985,48.8,16.0,26.0,0.0,0.0,0.0,0
+92054918,Oct-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,100000.0,25.56,7 years,MORTGAGE,Not Verified,home_improvement,TN,Individual,740.0,744.0,Feb-1984,31.1,18.0,37.0,0.0,0.0,0.0,0
+75153427,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,72000.0,21.85,3 years,MORTGAGE,Not Verified,debt_consolidation,GA,Individual,695.0,699.0,Feb-1989,51.6,15.0,22.0,0.0,0.0,0.0,0
+74675739,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,65000.0,10.75,10+ years,RENT,Source Verified,credit_card,CA,Individual,680.0,684.0,Sep-1997,54.6,19.0,35.0,12.0,0.0,0.0,0
+109182672,May-2017,Charged Off,10000.0,10000.0, 36 months,5.32,301.15,A,A1,50000.0,16.25,5 years,MORTGAGE,Not Verified,car,IN,Individual,755.0,759.0,Mar-2007,16.1,13.0,27.0,0.0,0.0,0.0,1
+67999997,Jan-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,92000.0,14.52,1 year,MORTGAGE,Source Verified,credit_card,OH,Individual,690.0,694.0,Aug-2004,69.2,13.0,32.0,0.0,0.0,0.0,0
+71757891,Feb-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,60000.0,12.12,2 years,MORTGAGE,Not Verified,debt_consolidation,CT,Individual,775.0,779.0,Dec-1982,0.8,19.0,49.0,0.0,0.0,0.0,0
+126865398,Feb-2018,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,60000.0,5.63,3 years,MORTGAGE,Verified,credit_card,MD,Individual,715.0,719.0,Oct-2014,31.4,9.0,15.0,0.0,0.0,0.0,0
+109700315,Jun-2017,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,75000.0,18.02,10+ years,MORTGAGE,Verified,credit_card,VA,Individual,740.0,744.0,Oct-2003,49.5,8.0,12.0,0.0,0.0,0.0,0
+68526879,Dec-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,68000.0,14.61,10+ years,RENT,Not Verified,credit_card,IN,Individual,730.0,734.0,Oct-1987,46.6,11.0,32.0,0.0,0.0,0.0,0
+75321731,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,180000.0,5.41,2 years,OWN,Source Verified,major_purchase,GA,Individual,680.0,684.0,Sep-1999,17.2,8.0,31.0,0.0,1.0,0.0,0
+94306400,Dec-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,70000.0,11.61,5 years,RENT,Not Verified,debt_consolidation,WA,Individual,725.0,729.0,Jul-2006,44.7,8.0,12.0,0.0,0.0,0.0,0
+65149464,Nov-2015,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,48500.0,15.82,10+ years,MORTGAGE,Not Verified,home_improvement,MN,Individual,765.0,769.0,Apr-1987,21.2,21.0,36.0,0.0,0.0,0.0,0
+94506436,Dec-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,150000.0,9.11,,MORTGAGE,Not Verified,debt_consolidation,CA,Individual,790.0,794.0,Aug-1986,24.0,12.0,21.0,0.0,0.0,0.0,0
+54909266,Jul-2015,Charged Off,10000.0,10000.0, 36 months,5.32,301.15,A,A1,120000.0,6.39,6 years,MORTGAGE,Source Verified,debt_consolidation,TX,Individual,725.0,729.0,Mar-2006,26.8,11.0,21.0,0.0,0.0,0.0,1
+127115333,Jan-2018,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,85000.0,12.11,10+ years,OWN,Not Verified,debt_consolidation,GA,Individual,795.0,799.0,Aug-1998,23.2,6.0,22.0,0.0,0.0,0.0,0
+75104147,Mar-2016,Fully Paid,10000.0,10000.0, 36 months,5.32,301.15,A,A1,35000.0,11.45,7 years,MORTGAGE,Verified,home_improvement,IL,Individual,750.0,754.0,Jun-2002,23.0,14.0,22.0,0.0,0.0,0.0,0
