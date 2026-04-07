@@ -1,0 +1,20 @@
+CREATE OR REPLACE TABLE `project-cf626adc-1290-4ce9-aae.Leading_Club.borrower_risk_band` AS
+SELECT
+    fico_band,
+    dti_band,
+    income_band,
+
+    COUNT(*) AS loan_count,
+    SUM(funded_amnt) AS funded_amount,
+    SUM(is_default) AS default_count,
+    ROUND(SAFE_DIVIDE(SUM(is_default), COUNT(*)) * 100, 2) AS default_rate_pct,
+    ROUND(AVG(int_rate), 2) AS avg_interest_rate_pct,
+    ROUND(AVG(avg_fico), 1) AS avg_fico,
+    ROUND(AVG(dti), 2) AS avg_dti,
+    ROUND(AVG(annual_inc), 2) AS avg_annual_income,
+    SUM(defaulted_funded_amount) AS defaulted_funded_amount
+
+FROM `project-cf626adc-1290-4ce9-aae.Leading_Club.loan_risk_feature_base`
+GROUP BY fico_band, dti_band, income_band
+HAVING COUNT(*) >= 50
+ORDER BY default_rate_pct DESC, defaulted_funded_amount DESC;
