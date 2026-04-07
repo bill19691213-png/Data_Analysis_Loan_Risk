@@ -15,7 +15,7 @@ The project is split into two parts:
 
 Lenders need to grow loan volume without taking on excessive default risk. A segment can have a high default rate but still matter little if its volume is small. On the other hand, a moderately risky segment can damage the portfolio if it is large enough.
 
-The goal of this project is to identify the segments that create the greatest portfolio risk and translate those findings into practical lending recommendations.
+The goal of this project is to identify the segments（grades,loan terms,purpose,ext）that create the greatest portfolio risk and translate those findings into practical lending recommendations.
 
 ## Key Business Question
 
@@ -70,10 +70,12 @@ This second phase focuses on:
 ## Dashboard Preview
 
 ### Page 1 – Portfolio Overview
-![Portfolio Overview](images/dashboard_page_1.png)
+<img width="1427" height="801" alt="image" src="https://github.com/user-attachments/assets/6d1560e9-a737-40d8-902d-1aeca2389969" />
+
 
 ### Page 2 – Loss Concentration & Segment Priority
-![Loss Concentration Dashboard](images/dashboard_page_2.png)
+<img width="1427" height="803" alt="image" src="https://github.com/user-attachments/assets/094a5f10-fa55-45fb-8749-ccde377bcd5f" />
+
 
 ## Key Findings
 
